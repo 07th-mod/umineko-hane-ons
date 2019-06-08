@@ -4364,12 +4364,12 @@ bg MJES_1aN,26
 ;fede 0,3000
 
 ;БuН≈МгВЌВњВеВЅВ“ВиВ®Я≠ЧОВ…ВµВƒБcБcВЅВ∆БB@/
-`"—делаю окончание немного стильным... ¬от так.`@/
+`"I'll make the ending just a little stylish... there.`@/
 
 ld c,jes_akuwaraiA1,26
 
 ;БcБcВ≈БAПoЧИВљБI@Б@ПoЧИВљВЇГFГFГFГGГGГFБIБv/
-`  ...я...€ всЄ!`@` «ако-о-о-ончено!"`/
+` I'm... done!`@` It's finiiiiished!"`/
 
 se1 4
 ;quakey 3,700@
@@ -4381,8 +4381,8 @@ ld c,jes_futekiA2,80
 
 ;Б@ВжВ§ВвВ≠КЃРђВµВљБI@Б@ГTГNВ©ВзЧКВ№ВкВљХССдЧpВћЛrЦ{В™ГbБIБI@
 ;Б@Н\СzВPУъБAОЈХMВPУъБAРіПСВPУъВћБAЧЁМvОOУъОOФ”ВаВ©ВѓВљМЖНмВ™БIБI\
-` я наконец-то его закончила!`@` —ценарий дл€ постановки, который —аку попросила мен€ написать!`\
-` ќдин день планировани€, один дл€ написани€, ещЄ один на последний штрих - в общей сложности три дн€ и три ночи, проведЄнные за созданием этого шедевра!`\
+` I finally finished it!`@` The script for the play Saku asked me to write!`\
+` One day of planning, one day of writing, one day for the final revisions, a total of three days and nights spent to produce this masterpiece!`\
 
 bg black,22
 mono 1 
@@ -4394,29 +4394,29 @@ bg tel1a,22
 ;fedexx 50,0,0,0,0,0,2000 
 
 ;БwГWГFГVБ[ВЅВƒВ≥Б[БAВҐВ¬ВаВ«ВсВ»ХЧВ…НмОМВвВЅВƒВсВћБHБx\
-`"Ёй, ƒжесси, как ты обычно придумываешь тексты своих песен?"`\
+`"Hey, Jessie, how do you come up with the song lyrics you're always writing?"`\
 
 ld r,jes_akuwaraiA1,22
 
 ;БwК»ТPВЊВЇБB@ГnБ[ГgВ©ВзХВВ©ВсВ≈В≠ВйОНВрБAОДВЌХИЦ В…НПВЁНЮВсВ≈ВҐВ≠ВсВЊВЇБI@Б@БcБcВЅВƒБAВїВкВ™ЙљБ[БHБx@
 ;БwВїВкВЅВƒВ¬В№ВиБAРSВћТЖВ©ВзХВВ©ВсВ≈В≠ВйХ®МкВрБAЙћОМВ…ВµВƒВйВЅВƒВ±В∆В≈ВµВеБHБx\
-`"¬сЄ просто.`@` я всего лишь превращаю в музыку песни, идущие из души!`@` ...ј почему ты спрашиваешь?"`\
-`"“о есть, ты берЄшь истории, льющиес€ из души, и превращаешь их в текст?"`\
+`"It's simple.`@` I just take the songs that come from my heart and turn them into music!`@` ...Why do you ask?"`\
+`"So in other words, you take stories that bubble up from your heart and turn them into lyrics?"`\
 
 ld r,jes_waraiA1,80
 
 ;БwВїВ§В∆ВаМЊВ§В»Б[БB@В¬В№ВиБI@Б@ОДВЌГnБ[ГgВ©ВзЧNВЂПoВЈХ®МкВрБAЙћВ…ПжВєВƒВйБ[ВЅВƒВнВѓВЊВЇБIБx@
 ;БwВїВ§ВїВ§БI@Б@ГWГFГVБ[ВћЙћОМВЅВƒВ≥Б[БAХ®МкВ†ВйВжВЋБ[БI@Б@ГWГFГVБ[ВЅВƒВЂВЅВ∆БAХ®МкВ∆В©ПСВ≠ВћБAРвСќВ§В№ВҐВжБIБx\
-`"ћожно сказать и так.`@`  ороче говор€!`@` я ловлю истории, которые рвутс€ из души на крыль€х музыки!"`\
-`"¬ерно, верно!`@` “вои песни - это истории, ƒжесси!`@` ≈сли бы ты написала историю, наверн€ка вышло бы отлично!"`\
+`"Yes, that's what I said.`@` In other words!`@` I set the stories gushing from my heart aloft on wings of music!"`\
+`"That's right, that's right!`@` Your songs are stories, Jessie!`@` I bet if you wrote a story, it'd be amazing!"`\
 
 ld r,jes_futekiA2,80
 
 ;БwВ†ВЌВЌВЌВЌВЌБAВїВ§В©ВаВ»Б[БIБI@Б@ОДВ™Х®МкВрПСВҐВљВзБAВЂВЅВ∆ГXГQГFВћВ™ПСВѓВњВбВ§ВЇБ[БIБI@/
-`"јха-ха-ха-ха, ну да, может!`@` Ќапиши € историю, она бы об€зательно вышла потр€сающей!`@/
+`"Ahahahaha, well, maybe!`@` If I wrote a story, I'm sure it'd end up being awesome!`@/
 ld r,jes_atyaA3,80
 ;Б@БcБcВЅВƒБAВїВкВ™ЙљБ[БHБx\
-` ...ј что?"`\
+` ...So, why'd you bring that up?"`\
 
 ;bg black,2
 bg black,22
@@ -4426,31 +4426,31 @@ bg black,22
 
 
 ;Б@БcБcБcР≥ТЉБAИјРњВѓНЗВҐВЊВЅВљБB@
-` ......„естно говор€, мне надо больше думать, прежде чем давать обещани€.`\
+` ...Honestly, I should have given it more thought before I promised anything.`\
 
 ;Б@ЧИМОВћХґЙїН’В≈В®О≈ЛПВрВвВйВзВµВ≠ВƒБB@БcБcВїВћЛrЦ{ВрБAТчВяРЎВиВ™Л}ВЊВ∆В©В≈ВRУъВ≈ПСВҐВƒВ≠ВкВ»ВсВƒШbВ…В»ВйВ∆ВЌБA@БcБcЦ≤В…ВаОvВнВ»В©ВЅВљВЇБcБB\
-` ќказалось, что в следующем мес€це должен был состо€тьс€ культурный фестиваль.`@`  ...я пон€ти€ не имела,`@` ...что в итоге мен€ попрос€т написать сценарий за три дн€ оставшегос€ срока.`\
+` It turned out there was going to be a play at next month's culture festival.`@` I had no idea that I'd end up having to write a script with just a three-day deadline.`\
 
 ld l,jes_futekiA2,22
 
 ;Б@ВљВЊВїВћБAР®ВҐВ∆ХµИЌЛCВ…ИщВ№ВкВњВбВЅВƒБB@
-` я просто повелась на энтузиазм и атмосферу момента.`\
+` I just got caught up in the enthusiasm and atmosphere of the moment.`\
 
 ;Б@ОДВћГZГУГXВ∆ГnБ[ГgВ»ВзБAПoЧИВйВ©В»ВЯБ`БAВ»ВсВƒОvВЅВњВбВЅВƒБB\
-` ѕро себ€ € начала думать, что с моей душой и моим хорошим вкусом, может, у мен€ и получитс€.`\
+` I started thinking to myself, "With my heart and good taste, maybe I can do it~".`\
 
 bg black,22
 
 ;Б@БcБcВїВ§МЊВ¶ВќХкВ≥ВсВ…ВжВ≠ТНИ”В≥ВкВƒВљВ»ВЯБB@
 ;Б@В†В»ВљВ∆В®ХГВ≥ВсВ…ВЌБAВїВћПкВћХµИЌЛCВ≈ВnВjВрВµВƒВµВ№В§ИЂВҐХ»В™В†ВйВ©ВзТНИ”ВµВ»В≥ВҐВЅВƒБB@
-` ... стати, мама ведь предупреждала мен€.`@
-` Џ00171» у теб€, и у твоего отца есть плоха€ привычка вестись на атмосферу ситуации и соглашатьс€. Ѕудь осторожнее.Џ00187`\
+` ...Come to think of it, Mom warned me about this, didn't she.`@
+` "You and your father both have the bad habit of getting caught up in the mood of a situation and agreeing to things. You have to be careful."`\
 
 ;wait 300
 ;ld l,jes_aisowaraiA1,80
 
 ;Б@БcБcБcБcВ†Б[В§Б[БAВ≤ВяВсБAХкВ≥ВсБB\
-` ......ј-а, прости, мама.`\
+` ...Agh, I'm sorry, Mom.`\
 
 ;bg black,80
 bg black,22
@@ -4465,12 +4465,12 @@ bg MJES_1cN,22
 ;wait 1000
 
 ;Б@ВїВсВ»ВнВѓВ≈БB@
-` ¬о вс€ком случае.`@
+` Anyway.`@
 
 ;Б@О©Л∆О©УЊВ»ОOУъОOФ”ВћЛкШJВћМЛЙ БB@
 ;Б@Р[ЦйВ…ВжВ§ВвВ≠СSВƒВрПСВЂПгВ∞БAОДВЌВ«В≥ВиВ∆ГxГbГhВ…У]В∞ВљБcБcБB\
-` ¬от что вышло в результате трЄх дней и ночей т€жЄлого труда, который € на себ€ обрушила.`\
-` я закончила написание поздней ночью и с глухим стуком повалилась на кровать...`\
+` This was the result of the three days and nights of hard labor I'd brought down on myself.`\
+` I finished up the writing late at night, and flopped into bed with a thud...`\
 
 
 ;bg black,22
@@ -4479,12 +4479,12 @@ se1 13
 quakey 3,200
 
 ;БuБcВ”ВЯБ`БcБcБBБv@
-`"...‘у-а-а-а..."`\
+`"...Fuaahhh..."`\
 
 ;Б@В±ВкВ≈БAБcБcВ«В§ВЊВжБcБcБB@
 ;Б@ВњВбВсВ∆ОOУъВ≈ПСВЂПгВ∞ВљВЉБcБcБB@
-` Ќу и...как тебе?..`@
-` я полировала его три дн€...`\
+` So what... do you think?..`@
+` I slaved over it for three days...`\
 
 bg MJES_1e,0
 lsp 800,":c;bmp\black.bmp",0,0,50
@@ -4498,32 +4498,32 @@ print 99,1000,"trvswave.dll/"
 ;bg MJES_1e,80
 ;wait 700
 ;Б@ХsЦ∞ХsЛxВ≈ПСВҐВљВ©ВзБAБcБcУ™В™ЮNЮOВ∆ВЈВйБcБB\
-` я работала без сна, ...и мен€ как-то глючит...`\
+` I worked that long without any sleep...`@` so my mind is kinda fuzzy...`\
 
 lsp 800,":c;bmp\black.bmp",0,0,100
 print 22
 
 ;ld r,jes_defa1,22
 ;Б@В®ВћВкБAГTГNВяБcБcБB@В±ВћСЁВµВЌНВВ≠В¬В≠В©ВзВ»БcБcБB@ВёВ…ВбВёВ…ВбБB/
-` „тоб теб€, —аку...`@` “ы дорого за это заплатишь...`@`*бормочет*бормочет*.`/
+` Screw you, Saku...`@` You're going to pay dearly for this...`@`*grumble, grumble*.`/
 ;bg black,65
 ;bg MJES_1e,80
 ;wait 300
 \
 
 ;Б@ХССдЛrЦ{В»ВсВƒПЙВяВƒВЊВ©ВзБAБcБcСљП≠ВЌХsПoЧИВ»В∆В±ВлВаВ†ВйВЊВлВ§БB@
-` я впервые пишу сценарий дл€ постановки... Ќаверн€ка тут и там найдутс€ грубые недочЄты.`\
+` This is my first time writing a script for a play... I'm sure there are some rough spots here and there.`\
 ;ld r,jes_defa1,80
 ;Б@ВµВ©ВµБAОДВћОЭВƒВйГAГCГfГAВ∆ГЖБ[ГВГAВ∆ГnБ[ГgВ∆ЧцВ∆ФMММВ∆ВЅБB@
-` Ќо все мои идеи, юмор, душа, любовь и страсть...`@
+` But all of my ideas, humor, heart, love and passion...`@
 
 ;Б@БcБcВ№ВЯВїВћБAРFБXОѕНЮВсВ≈БAН≈МгВ…ГКГУГSВ∆ГnГ`Г~ГcВрНђВЇВљБAКіУЃВћСеМЖНмЛrЦ{ВЊБB\
-` ...я смешала вместе кучу всего, в результате чего получилс€ трогательный и шедевральный сценарий.`\
+` ...I mixed a bunch of things together, and the result is my big, moving, masterpiece script.`\
 
 
 ;ld r,jes_waraiA1,22
 ;Б@ХґЙїН’В≈ВЌВЂВЅВ∆ФПОиКЕВ≥ВҐБAЦЬБXНќБB\
-` ќн об€зательно сорвЄт на культурном фестивале бурные аплодисменты.`\
+` It'll definitely get thunderous applause at the culture festival.`\
 
 csp 800
 bg black,22
@@ -4549,17 +4549,17 @@ bg the_1b,24
 ;bg the_1b,22
 
 ;Б@В±ВћСfУGВ»ЛrЦ{ВрПСВҐВљВћВЌТNБH@
-`  то написал такой удивительный сценарий?`\
+` Who wrote this wonderful script?`\
 
 ;Б@В¶Б[БAГWГFГVБ[ВЊВЅВљВћБ[БHБI@Б@ВЂВбБ[ВЂВбБ[БAГXГeГLБ[БI/
-` Ё, ƒжесси?!`@` ќго, шикарно~!`/
+` Ehh, Jessie?!`@` Wow, that's amazing!~`/
 se2 54
 \
 
 ld r,jes_tereruA2,24
 
 ;БuВҐВвВҐВвБcБcБAВїВкВўВ«В≈ВаВ†ВиВ№ВЈВѓВкВ«БcБcБB@В”В–В–БcБcБAВёВ…ВбВёВ…ВбБBБv\
-`"Ќет-нет, что вы... Ќу, так и есть, но...`@` Ёхе-хе...*бормочет*бормочет*."`\
+`"No-no, not at all... I mean, you're not wrong, but...`@` Ehehehe...*mumble, mumble*."`\
 bg black,2
 ;wait 300
 
@@ -4568,12 +4568,12 @@ E_B
 me1v 12,50
 
 ;БuВ÷Б[БAВ«ВкВ«ВкБH@Б@ВїВ±В№В≈МЊВ§ЛrЦ{В»ВзБAВњВеВЅВ∆ФqМ©БBБv@
-`"’м-м-м, да ну?`@` –аз ты так его хвалишь, дай и мне взгл€нуть."`\
+`"Hmmm, is it really that great?`@` If you're praising it so much, let me take a look."`\
 
 ;Б@БcБcВ†ВкБH@Б@ТNБH@
 ;Б@ОДВЌЦ∞В≥В≈ЮNЮOВ∆ВµВљУ™В≈БAВЏВсВвВиВ∆РUВиХ‘ВйВ∆БB\
-` ...Ё?`@`  то?`@
-` ”же почти заснув, € рассе€нно повернулась на голос.`\
+` ...Eh?`@` Who?`@
+` I was almost asleep by now, and turned absentmindedly toward the voice.`\
 
 
 ;bg mjes_1an,4
@@ -4591,46 +4591,46 @@ ld c,lam_akuwaraiA3,80
 
 ;Б@БcБcВїВ±В…ВЌБAГsГУГNВћГhГМГXВрТЕВљБAМ©ВљВ±В∆ВћВ»ВҐПЧВћОqВ™ЧІВЅВƒВҐВƒБB@
 ;Б@ОДВ™ПСВЂПгВ∞ВљВќВ©ВиВћЛrЦ{ВрУ«ВЁВ»В™ВзБAВЏВиВЏВиВ∆Г|ГbГvГRБ[ГУВрРHВ„ВƒВҐВљБB@
-` ...“ам сто€ла девочка в розовом платье, которую € никогда раньше не видела.`\
-` ќна жевала попкорн и читала мой только что законченный сценарий.`\
+` ...It was a young girl I had never seen before, clad in a pink dress.`\
+` She was standing there, munching on popcorn, all the while reading the script I had just finished writing.`\
 
 ;Б@ВїВµВƒБAУ«ВЁПIВ¶ВйВ∆БAВѓВзВѓВзВ∆СеПќВҐВµВƒКмВсВЊБB\
-` ƒочитав его, она восхищЄнно засме€лась.`\
+` When she finished reading it, she laughed in delight.`\
 
 ld c,lam_akuwaraiA1,80
 se1 37
 ;БuВЂВбВЅВЌВЌВЌВЌВЌВЌБI@Б@Ц ФТВҐВнБAВ±ВкБB@УЅВ…ГIГ`В™Н≈НВВЊВнБI@Б@ВЂВбВЅВЌВЌВЌВЌВЌВЌВЌВЌБIБv@
 ;БuВїБAВїВиВбВ«В§ВаБcБcБB@ВёВ…ВбВёВ…ВбБcБBБv@
-`" ь€-ха-ха-ха-ха-ха!`@` ¬есело.`@`  ульминаци€ вообще нечто!`@`  ь€-ха-ха-ха-ха-ха-ха-ха!"`\
-`"—-спасибо...`@`*бормочет*бормочет*."`\
+`"Kyahahahahahaha!`@` This is hilarious.`@` Especially the punchline, that was the best!`@` Kyahahahahahahahaha!"`\
+`"T-thanks...`@`*mumble, mumble*."`\
 
 ;Б@БcБcБcБcВ®В©ВµВҐВ»БB@ВїВсВ»В…ФЪПќВЈВйВжВ§В»ГIГ`ВрХtВѓВљВЅВѓБcБB\
-` ......—транно.`@` „то такого € вставила в кульминацию, из-за чего можно было так расхохотатьс€?.. `\
+` ...That's strange.`@` I don't remember putting in a punchline that would make someone roar with laughter like that...`\
 
 
 ;Б@В≈ВаВҐВЅВ©БB@ТNВЊВ©ТmВзВ»ВҐВѓВ«БAЦJВяВƒВ≠ВкВљВсВЊВµВ»Б[БcБcБB@
-` ’от€ неважно.`@` Ќе знаю, кто эта девочка, но она похвалила мен€...`\
+` Well, it doesn't matter.`@` I don't know who this girl is, but she did praise me...`\
 
 ;Б@В±ВкВ≈БAВ®О≈ЛПВЌРвСќБAСеХ]ФїК‘ИбВҐВ»ВµБB@
 ;Б@РвСќРвСќБAСеРђМчВ…В»ВйВћК‘ИбВҐВ»ВµБcБcБB\
-` ј значит, постановка об€зательно станет известной.`@
-` ќна определЄнно, абсолютно точно, несомненно станет хитом...`\
+` That means the play will definitely become famous.`@
+` It'll definitely, certainly be a huge hit, without a doubt...`\
 
 ld c,lam_akuwaraiA4,80
 
 ;БuВ÷Б[БB@В†ВсВљБAВ±ВћЛrЦ{В™РвСќВ…ГEГPВйВЅВƒБAО©РMВ†ВйВћВЋБHБv@
-`"’м-м-м.`@` Џ00171јбсолютно точно станет хитомЏ00187? “ы так в этом уверена?"`\
+`"Hmm.`@` It will "certainly" be a hit, you said? Are you really that confident?"`\
 ;ld r,jes_defA1,80
 ;БuБcБcВ»ВЂВбИшВЂОуВѓВЋБ[ВЇБB@БcБcВёВ…ВбВёВ…ВбБB@БcБcРвСќБAРвСќБBБv\
-`"...Ѕез уверенности € бы вообще не стала писать.`@`  ...*бормочет*бормочет*.`@`  ...ќпределЄнно, абсолютно точно."`\
+`"...Without confidence, I wouldn't have started writing it in the first place.`@`  ...*grumble, grumble*.`@` ...Definitely, certainly."`\
 
 
 ld c,lam_akuwaraiA3,80
 
 ;БuБgРвСќБhБHБv@
 ;БuРвСќРвСќБBБv\
-`"Џ00171јбсолютно точноЏ00187?"`\
-`"јбсолютнее некуда."`\
+`"Certainly?"`\
+`"As certain as it could be."`\
 
 
 ;wait 500
@@ -4640,10 +4640,10 @@ ld c,lam_akuwaraiA3,80
 ld c,lam_majimeA1,80
 
 ;БuБcБcВҐВҐВнБB@ХKВЄГEГPВйВЅВƒРвСќВћО©РMВрОЭВЅВƒПСВЂПгВ∞ВљБAВ±ВћЛrЦ{В…БB@В±ВћРвСќВћЦВПЧБAГЙГАГ_ГfГЛГ^ВњВбВсЧlВ™БAРвСќВћЦВЧЌВрОцВѓВƒВ†В∞ВйВнБIБv@
-`"...ќтлично.`@` Ётот сценарий был написан с абсолютной уверенностью в его успехе.`@` ѕоэтому €, ведьма абсолюта, госпожа Ћ€мбдадельточка, дарую ему магию абсолюта!"`\
+`"...Very well.`@` This script was written with absolute certainty of its success.`@` Then I, the Witch of Certainty, Lambdadelta-chan-sama, will bestow the magic of certainty upon it!"`\
 ;ld r,jes_defA1,80
 ;БuБcБcЙљВїВкБ[БB@БcБcВ§В≥ВсВ≠ВєВ•БcБcБB@ВёВ…ВбВёВ…ВбБBБv\
-`"...„его?`@` ...«вучит подозрительно...`@`*бормочет*бормочет*."`\
+`"...The hell?`@` ...That sounds fishy...`@`*grumble, grumble*."`\
 
 lsp 800,":c;bmp\black.bmp",0,0,100
 print 22
@@ -4654,10 +4654,10 @@ ld c,lam_odorokiA1,80
 quakey 2,200
 
 ;БuВњВеВЅВ∆Б[БI@/
-`"Ёй!`@/
+`"Hey!`@/
 ;quakey 3,200@/
 ;Б@М”ОUПLВҐВ∆В©БAОЄЧзВµВњВбВ§ВнБI@Б@В±ВћЛrЦ{В…В©ВѓВйЦВЦ@ВЌГXГSГCВћВжБ[БHБI@Б@ЙљВ∆ВЋБAВ±ВћЛrЦ{В™ОјНџВ…БcБAБv/
-`  ак ты смеешь называть это подозрительным!`@` ћаги€, которую € отвожу твоему сценарию, - нечто потр€сающее!`@` Ёто всЄ равно что сценарий и впр€мь будет..."`/
+` How dare you call it fishy!`@` The magic I'm casting on this script is really amazing, okay?!`@` You could say this script will certainly..."`/
 ;bg black,65
 ;E_A
 lsp 800,":c;bmp\black.bmp",0,0,250
@@ -4665,10 +4665,10 @@ print 25
 \
 
 ;БГsГУГNВћВ®ОqВњВбВ№В™БAЙљВЊВ©УЊИ”ЛCВ…МкВЅВƒВҐВйВћВЊВ™БA@БcБcВаВ§БAИ”ОѓВ™УrРЎВкУrРЎВкВ≈БAЙљВаВнВ©ВзВ»ВҐБB@
-` ¬едуща€ себ€ по-детски девочка в розовом о чЄм-то хвасталась, но...`@`моЄ сознание то исчезало, то по€вл€лось, и € ничего не могла разобрать.`\
+` The childish girl in pink was boasting about something, but...`@`my consciousness was fading in and out, and I couldn't understand anything.`\
 
 ;Б@ОДВћИ”ОѓВЌКЃСSВ…УrРЎВкБAН∞ВЌВаВ§БAВ”ВнВ”ВнВћЙHН™ХzТcВ∆М`ПуЛLЙѓГ}ГNГЙВ…ТЊВсВ≈ВҐВ≠ВћВЊВЅВљБcБcБcБB\
-` ¬ итоге оно мен€ окончательно покинуло, и мо€ душа стала тонуть в пушистом пуховом оде€ле и подушке......`\
+` In the end it left me completely, and my soul began to sink into my fluffy feather futon and memory foam pillow...`\
 ;ndRed: М`ПуЛLЙѓГ}ГNГЙ=memory foam pillow
 ;E_A
 
@@ -4680,7 +4680,7 @@ E_A
 ;БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БEБ|БE
 ;locate 0,6
 ;Б@ЧВТ©БB\
-` Ќа следующее утро.`\
+` The next morning.`\
 wait 500
 csp 800
 ;bgm1v 3,60
@@ -4702,11 +4702,11 @@ bg glob_1b,2
 
 ;Б@ЦЏВрКoВ№ВЈВ∆ВЈВЃБAП≈ВйЛCОЭВњВрЧ}В¶ЛмВѓСЂВ≈ГQГXГgГnГEГXВ…МьВ©ВЅВљБB@
 ;Б@ЛvВµВ‘ВиВ…ЙЃХ~В÷ЧVВ—В…ЧИВƒВҐВљРнРlВ…БgРвСќВћО©РMНмБhВрУ«ВсВ≈ВаВзВ§ВљВяВЊВЅВљБB@
-` ѕроснувшись, € бросилась к домику дл€ гостей, едва сдержива€ нетерпение.`\
-` Ѕаттлер посетил особн€к впервые за целую вечность, и € хотела, чтобы он прочитал работу, в которой € абсолютно уверена.`\
+` As soon as I woke up, I dashed over to the guesthouse as fast as I could, barely able to control my impatience.`\
+` Battler was visiting the mansion for the first time in forever, and I wanted to have him read the work I had "certain" confidence in.`\
 
 ;Б@ВљВ№ВљВ№О—ЙєВаВҐВљВћВ≈БAВ¬ВҐВ≈В…ХяВ№В¶ВƒБAУсРlВ…У«ВсВ≈ВаВзВ§В±В∆В…ВµВљБB\
-` Ўанон по случайности тоже оказалась там, так что € воспользовалась шансом схватить еЄ и заставила читать их обоих.`\
+` Shannon happened to be there as well, so I took the opportunity to capture her and made both of them read it.`\
 
 ;ld l,but_defA2,0
 ;ld r,sha_defA1,22
@@ -4722,49 +4722,49 @@ ld l,but_defA2,23
 ld l,but_waraiA2,80
 
 ;БuВ÷Б[БI@Б@ОйОuНБВ™ХССдВћЛrЦ{ВрВЋБ[БI@Б@В÷Б[БIБv@
-`"ќго!`@` “ы написала сценарий к постановке, ƒжессика?`@` ’м!"`\
+`"Wow!`@` You wrote a play script, Jessica?`@` Huh!"`\
 
 ;ld r,sha_waraiA1,80
 ld r,sha_defA1,24
 ld r,sha_waraiA1,80
 
 ;БuВ®ПмЧlВЌВЈВ≤ВҐВ≈ВЈБB@ЙљВ≈ВаПoЧИВйВсВ≈ВЈВЋБBБv\
-`"”дивительно, миледи.`@` ¬ы можете что угодно."`\
+`"You're amazing, Milady.`@` You can do anything."`\
 
 
 ld c,JES_tereruA2,24
 ;БuВҐВвВҐВвВҐВвВҐВвБB@ПЙВяВƒВ»ПгВ…БAВљВЅВљОOУъВµВ©ОЮК‘В™В»В©ВЅВљВ©ВзБAВаВћВЈВ≤ВҐСеЛкРнВЊВЅВљВЇБAВ¶В÷В÷БcБcБBБv@
-`"Ќет-нет, вовсе нет.`@` Ёто мой первый раз, и у мен€ было всего три дн€, так что битва была нелЄгкой, эхе-хе..."`\
+`"No, no, not at all.`@` It was my first time, and I only had three days, so it was a pretty close fight, ehehe..."`\
 
 
 ld l,but_defA1,80
 
 ;БuВ∆ВҐВ§ВнВиВ…ВЌБAО©РMВљВЅВ’ВиВћСеМЖНмВЊВЅВƒВнВѓВЊБBБv\
-`"Ќо всЄ равно это великий шедевр, в котором ты абсолютно уверена."`\
+`"But in spite of that, it's a great masterpiece that you have full confidence in."`\
 
 ld r,sha_waraiA3,80
 
 ;БuВ≠ВЈБB@В≈ВЌВ±ВћЛrЦ{ВрОДВљВњВЌУ«ВсВ≈БAКіСzВрР\ВµПгВ∞ВкВќЧ«ВҐВћВ≈ВЈВ©БHБv@
-`"*хи-хи*.`@` “ак вы хотите, что мы вдвоЄм прочитали ваш сценарий и высказали свои впечатлени€?"`\
+`"*giggle*.`@` So you want the two of us to read this script and give you our impressions, right?"`\
 
 ld l,but_futekiA1,80
 
 ;БuВљВЊУ«ВёВћВаЦ°ЛCВЋВ•В»БB@ВҐВЅВїВ≥БAОјНџВ…ЛrЦ{ВрЙЙВґВƒВЁВйВЅВƒВћВЌВ«В§ВЊБHБIБv\
-`"Ѕудет скучно просто читать.`@` ћожет, разыграем?!"`\
+`"It'd be kinda dry if we just read it.`@` Wouldn't it be better if we actually tried acting it out?!"`\
 
 bg glob_1e,26
 
 quakey 2,200
 ;БuВ¶БHБIБHБI@/
-`"Ё?!?!`@/
+`"Eh?!?!`@/
 ;quakey 2,200@/
 ;Б@ВнБAОДБAВ®О≈ЛПВ»ВсВƒВїВћБAВµВљВ±В∆В»ВҐВ≈ВЈВµБcБcБIБv@
-` я...€ никогда раньше ничего не разыгрывала, и!.."`\
+` I, I've never, um, done any acting before, and!.."`\
 
 
 ;БuКmВ©В…ВїВкВЌЦЉИƒВЊВЇБB@ОјНџВ…РнРlВљВњВ…ЙЙВґВƒВаВзВЅВƒБAВїВкВрМ©В»В™ВзН≈ПIГ`ГFГbГNВрВЈВйВћВаГAГКВЊВЇБBБv\
 ;<ОйОuНБ
-`"ќго, отлична€ иде€.`@` ≈сли вы его разыграете, € смогу понаблюдать и провести последнюю проверку."`\
+`"Wow, what a great idea.`@` If you guys actually perform it for me, I can watch and do a final check on it too."`\
 
 ;bg glob_1c,22
 ;ld c,but_defA2,0
@@ -4780,7 +4780,7 @@ ld c,but_defA2,23
 ld c,but_waraiA2,80
 
 ;БuВїВ§В∆В»ВиВбБAМИВ№ВиВЊМИВ№ВиВЊБI@Б@ВвВлВ§ВЇБAО—ЙєВњВбВсБI@Б@ВїВкВ∆ВаБAЙіВћВ®СКОиВЌВ®МЩВ©В»ВЯБHБv@
-`"“огда решено!`@` —делаем это, Ўанон!`@` »ли тебе неуютно быть со мной на одной сцене?"`\
+`"In that case, it's decided!`@` Let's do it, Shannon!`@` Or maybe you're uncomfortable being my co-star?"`\
 
 
 ld r,sha_odorokiA2,24
@@ -4792,44 +4792,44 @@ ld r,sha_hajiraiA1,80
 
 
 ;БuВїВїБAВїВсВ»В±В∆В†ВиВ№ВєВсГbБB@/
-`"Ќ-нет, вовсе нет.`@/
+`"N-no, not at all.`@/
 ;quakey 2,300@/
 ;В¬БAРTВсВ≈В®ИшВЂОуВѓВ≥ВєВƒВҐВљВЊВЂВ№ВЈБcБcБBБv\
-` я...€ смиренно выполню вашу просьбу..."`\
+` I, I will humbly fulfill your request..."`\
 
 ;bg black,22
 ;Б@В∆ВҐВ§ВнВѓВ≈БB@
 ;Б@УВУЋВ…ВаБAОДВћЛrЦ{ВћПЙЙЙВ™МИТиВµВљБB@
-` » так...`@
-` Ќеожиданно было решено впервые исполнить мой сценарий.`\
+` So...`@
+` It was sudden, but the first performance of my script was decided on.`\
 
 ;Б@ОДВЌР‘ГyГУХ–ОиВ…БAЛrЦ{Й∆ЛCОжВиВЊБB\
-` ƒержа в руке красную ручку, € важничала как сценарист.`\
+` With a red pen in one hand, I put on airs of being a scriptwriter.`\
 
 bg black,22
 *da
 ;ld l,but_waraiA1,23
 
 ;БuВ®БI@Б@Й§ОqЧlВ™УoПкВЈВйВћВ©ВжБI@Б@ВґВбВ†БAЙіБAЙ§ОqЧlВ»Б[БIБv@
-`"Ёй!`@` “ут есть принц!`@` “огда им буду €!"`@
+`"Hey!`@` There's a prince in this!`@` Okay, I'll be the prince then!"`@
 
 ;ld r,sha_defA1,24
 ;ld r,sha_waraiA3,80
 
 ;БuВ≈ВЌБAОДВЌГiГМБ[Г^Б[МУБAВ®ХPЧlВћЦрВрТSУЦВ≥ВєВƒВҐВљВЊВЂВ№ВЈВЋБBБv\
-`"ј € возьму на себ€ роль рассказчика и принцессы."`\
+`"Then I'll be in charge of the narration and play the princess."`\
 
 bg glob_1c,23
 ld l,but_defA2,23
 
 ;БuВґВбВ†БAВ≥ВЅВїВ≠БB@Н≈ПЙВЌО—ЙєВњВбВсВћГiГМБ[ГVГЗГУВ©ВзГXГ^Б[ГgВЊВ»БIБv@
-`"ќтлично, давайте начнЄм.`@` —перва твоЄ повествование, Ўанон!"`\
+`"Right, let's get started.`@` Your narration is up first, Shannon!"`\
 ;br
 ;fede 0,1000 
 ld r,sha_majimeA3,80
 
 ;БuВ≈БAВ≈ВЌБAБcБcОnВяВ≥ВєВƒВҐВљВЊВЂВ№ВЈБB@БcБcГRГzГУБBБv\
-`"“-тогда...начинаю.`@`  ... хм."`\
+`"T-then, ...I'll begin.`@` ...Ahem."`\
 ;br
 ;cl l,2
 ;cl l,24
@@ -4838,7 +4838,7 @@ cl r,0
 ld c,sha_fumanA1,24
 
 ;Б@О—ЙєВЌИЎВ№ВЅВƒВ©ВзХаВЁПoВйВ∆БAХ®МкВћОnВ№ВиВрНРВ∞ВйГiГМБ[ГVГЗГУВрУ«ВЁПгВ∞ВљБcБcБB\
-` Ўанон вышла вперЄд и зачитала повествование, положившее начало всей истории...`\
+` With that, Shannon walked forward and began to read the narration that marked the beginning of the story...`\
 bg black,22
 ;bg glob_1e,22
 
@@ -4846,35 +4846,35 @@ fede 0,2000
 E_A
 
 ;БuВ±В±ВЌБAВ®В∆ВђШbВћРҐКEВћЙЬР[В≠БB@БcБcГНГbГPГУЙ§НСВ∆МƒВќВкВйНСВ™В†ВиВ№ВµВљБBБv\
-`"Ёта истори€ берЄт начало в дали сказочного мира.`@`  ...Ќа той земле была страна под названием королевство –оккен."`\
+`"This is a story of a place deep in the world of fairy tales.`@` In this land, there was a country called Rokken Kingdom."`\
 ;br
 ;БuГНГbГPГУЙ§НСВЅВƒБAИјТЉВ»ГlБ[Г~ГУГOВЊВ»ВЯБBБv@
 ;БГРнРl
-`" оролевство –оккен...  ак просто."`@
+`"Rokken Kingdom is a pretty simplistic name."`@
 se1 10
 quakey 1,200
 ;БuРнРlБAВ§ВйВ≥ВҐВЅБB@/
-`"“ихо, Ѕаттлер.`@/
+`"Shush, Battler.`@/
 ;quakey 1,200@/
 ;Ц{Ф‘ТЖБIБv\
 ;БГОйОuНБ
-` Ќе во врем€ исполнени€!"`\
+` Not during the performance!"`\
 
 ;ld c,sha_majimeA1,22
 ;ld c,sha_majimeA1,80
 
 ;БuГНГbГPГУЙ§НСВћОRЙЬВ…ВЌБAВ®ХPЧlВ™ХяВзВ¶ВзВкВƒВҐВйБAВїВкВЌВїВкВЌСеВЂВ»УГВ™В†ВиВ№ВµВљБcБcБB@/
-`"ƒалеко в горах королевства –оккен сто€ла высока€-превысока€ башн€, и в этой башне была заточена принцесса...`@/
+`"Deep in the mountains of Rokken Kingdom, there was a tall, tall tower, and in that tower, a princess was imprisoned...`@/
 
 ;wait 400
 ld c,sha_odorokiA2,22
 
 ;БcБcБcБcВ¶БHБv@
-`  ......Ё?"`\
+` ...Eh?"`\
 
 se1 60
 ;Б@ГSГSБAГSГSГSГSГSБcБcБcБB/
-` *грохот*грохот*грохот*.`/
+` *rumble, rumble*.`/
 se2 63
 se3v 2,100
 quake 4,500
@@ -4896,11 +4896,11 @@ me1v 5,50
 
 ;БuВ»БAЙљВЊВЯБcБcБHБIБv@
 ;БuВ±ВкВЌБAИкСћБcБcБHБIБv@
-`"„-что происходит?!.."`@
-`" акого?!.."`\
+`"W-what's going on?!.."`@
+`"What the hell?!.."`\
 
 ;Б@О—ЙєВ™ГiГМБ[ГVГЗГУВрМкВиОnВяВйВ∆БB@РнРlВљВњВћОьВиВћМiРFВ™БAБcБcВЃВ…ВбВиВ∆ШcВЁБAТnЦ¬ВиВћВжВ§В»ЙєВрЧІВƒВљБB\
-`  ак только Ўанон начала читать повествование,`@` пейзаж вокруг них...стал лениво деформироватьс€, вызыва€ грохот, напоминающий землетр€сение.`\
+` As Shannon began to read the narration,`@` the scenery around them started to slowly warp, making a sound similar to that of an earthquake.`\
 csp bgsp
 
 
@@ -4908,32 +4908,32 @@ se1 64
 bg tower4,6
 
 ;Б@КOВћМiРFВЌОRЙЬВ…ИкХѕВµБAОRК‘В©ВзВЌГYГSГSГSГSВ∆БAБcБcЙљВ∆УГВ™РґВ¶ВƒВҐВйБI\
-` —цена сменилась на горную местность, и среди гор, сопровождаема€ громким гулом - невозможно, - по€вилась башн€!`\
+` The scenery outside completely changed to that of a mountain range, and from among the mountains, accompanied by a loud rumble...`@` Impossible! A tower was emerging!`\
 
 se3 21
 
 ;Б@ВїВ§БB@УГВЊБB@
 ;Б@Г^ГPГmГRВґВбВ»ВҐБB@Ц{УЦВ…УГВЊБB@
 ;Б@В®В∆ВђШbВћС}КGВ≈М©ВљВжВ§В»БAПdМъВ»ФЧЧЌВћВ†ВйРќСҐВиВћБcБcБAВ∆БAВ∆В…В©В≠УГВЊБB@
-` ƒа.`@` Ѕашн€.`@
-` Ќе бамбуковый побег,`@` а сама€ насто€ща€ башн€.`\
-`  ак в иллюстраци€х сказки. ƒостойно выгл€д€ща€ и сделанна€ из камн€... ¬ общем, это была башн€.`\
+` Yes.`@` A tower.`@
+` Not a bamboo shoot,`@` a real, actual tower.`\
+` It was just like something you'd see in a fairy tale illustration, made of stone and giving an impression of dignified strength... In other words, it was a tower.`\
 
 ;Б@БcБcОRЙЬВ…БAУГБB\
-` ...Ѕашн€ в горах.`\
+` ...A tower in the mountains.`\
 
 ;ld r,but_odorokiA2,24
 ;ld l,sha_odorokia2,23
 
 ld r,but_komaruA1,26
 ;БuВ±ВкВЅВƒБcБcБAН°ВћГiГМБ[ГVГЗГУТ ВиВ…В»ВЅВљВЅВƒВ±В∆В©БcБHБIБv@
-`"“о есть...твоЄ повествование стало правдой?!"`@
+`"So... your narration just now came true?!"`@
 
 ld l,sha_odorokia2,26
 ;ld l,sha_komaruA1,80
 
 ;БuВ®БAВ®ПмЧlБAБcБcВ±ВкВЌБAИкСћБcБcБBБv\
-`"ћ-миледи, ...что происходит?.."`\
+`"M-milady, ...what on Earth is happening?.."`\
 
 bg black,22
 
@@ -4945,7 +4945,7 @@ ld c,lam_majimeA1,22
 
 ;БuБcБcБcВїБAВїВ§ВҐВ¶ВќБcБcБAНрЦйБAВ®В©ВµВ»Ц≤ВрМ©ВљЛCВ™БcБcБB@БcБcОДВћЛrЦ{В…БAЦВЦ@ВрК|ВѓВйВ∆В©ЙљВ∆В©БcБcБB@БcБcВҐВвБAВїВсВ»ФnО≠В»БcБcБBБv\
 ;БГОйОuНБ
-`"......я...€ тут вспомнила... ѕрошлой ночью мне приснилось нечто странное...`@`  ...Ѕудто в мой сценарий добавили магию...`@` Ќет, чушь кака€-то..."`\
+`"...That reminds me... Last night, I sort of remember having a weird dream...`@` Something about magic being cast on my script...`@` No, that's ridiculous..."`\
 
 bg black,22
 
@@ -4960,20 +4960,20 @@ bg ":c;bmp\background\sbook\sakutaro01.bmp",0
 ld r,but_futekiA2,24
 
 ;БuВ÷В÷ВЅБAЦ ФТВ•ВЇБB@ВҐВҐВґВбВЋВ•В©БAЧ’ПкКіЦЮУ_В≈ВжБI@Б@С±ВѓВƒВЁВжВ§ВЇБIБIБv@
-`"’е-хех, интересно.`@` ѕочему бы и нет, € целиком за правдоподобность!`@` ѕродолжаем!"`\
+`"Hehe, how interesting.`@` Why not? Full points for realism!`@` Let's continue!"`\
 
 ;ld l,sha_komaruA1,23
 ld l,sha_odorokiA1,23
 
 
 ;БuБcБcВ®БAВ®ПмЧlБH@Б@С±ВѓВƒВжВлВµВҐВ≈ВЈВ©БHБv\
-`"...ћ-миледи?`@` Ќичего, если мы продолжим?"`\
+`"...M-milady?`@` Is it alright for us to continue?"`\
 
 ;ld c,jes_atyaA2,24
 ld c,jes_futekiA2,24
 
 ;БuВ±БAВ±В§В»ВиВбГДГPВЊВЇВЅБAПЧВЌУxЛєВЊБI@Б@ЧКВёВЇБAО—ЙєБB@С±ВѓВƒВ≠ВкБIБv\
-`"Ќ-нельз€ останавливатьс€. Ѕыть женщиной значит быть храброй!`@` ¬перЄд, Ўанон.`@` ѕродолжай!"`\
+`"W-we can't stop now! A woman must be brave!`@` Go ahead, Shannon.`@` Continue!"`\
 ;БГОйОuНБ
 
 
@@ -4981,14 +4981,14 @@ ld c,jes_futekiA2,24
 ld l,sha_komaruA1,80
 
 ;БuВЌБAВЌВҐБB@БcБcВ¶Б[В∆БcБcБB@/
-`"Ћ-ладно.`@`  ...Ё-э, ...`@/
+`"R-right.`@` ...Um.`@/
 
 ;bg black,22
 ;se1 22
 ;bg forest_P3b,6
 ;wait 1000
 ;БcБcУГВЌБAЯTСУВ∆ВµВљГWГГГУГOГЛВ…ИЌВ№ВкВƒВҐВ№ВµВљБBБv\
-`...башню окружали густые джунгли."`\
+`...The tower was surrounded by a dense jungle."`\
 
 ;bg black,22
 
@@ -43185,6 +43185,11 @@ if %tmp = 1 goto *b_sakuru_logo_shuuryou
 	delay 3000
 	csp 100
 	print 2
+   lsp 100,":c;bmp\title\Circle_logo\circle_logo_am.png",0,0
+   print 99,3000,"trvswave.dll/h"
+   delay 3000
+   csp 100
+   print 2
 ;		*b_sakuru_logo_shuuryou
 ;	lsp 100,":c;BMP\background\efe\text001.bmp",0,0
 ;	print 42

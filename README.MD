@@ -7,7 +7,13 @@ which is available exclusively in the Russian language.
 This mod *does not* add voices, since Hane has never actually been released by Alchemist, and therefore not voiced.
 This mod *does* add ADV mode.
 
-Current progress: Absolutely none! Working on the Tsubasa patch for now.
+Current progress:
+
+|Chapter|Translated|Playtested|Released since version|
+|--|--|--|--|
+|Jessica and the Killer Electric Fan|In progress|No|Not yet released|
+|Forgery no. XXX|No|No|Not yet released|
+|Postscript|No|No|Not yet released|
 
 <!--
 Installation instructions:
