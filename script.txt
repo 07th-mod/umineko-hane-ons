@@ -7535,21 +7535,21 @@ bg rose_1eP,23
 
 ;Б@еKеNТлЙАВћБAРFВ∆ВиВ«ВиВћеKеNВ™БAРFВрХѕВ¶ВƒВҐВ≠БcБcБB@
 ;Б@ВїВкВЌСSВƒБAФьВµВЂЙ©ЛаРFБB@
-` –азноцветные лепестки в розарии неожиданно изменили окрас...`\
-` ¬се они вдруг стали прекрасного золотистого цвета.`\
+` The different colored rose petals in the garden suddenly changed their color...`\
+` All of them were suddenly of a beautiful gold.`\
 
 ;Б@ВїВ±ВЌВаВЌВвБAЙEСгЛ{Й∆ВћеKеNТлЙАВ≈ВЌВ»ВҐБB@
 ;Б@Й©ЛаВћеKеNВ™НзВЂЧРВкВйБAБcБcЙ©ЛаЛљВЊВЅВљБB\
-` Ёто был уже не розарий семьи ”широми€,`@` а место, где цвели золотые розы, ...«олота€ земл€.`\
+` This was no longer the rose garden of the Ushiromiya family.`@` It was the place where golden roses bloomed, the Golden Land.`\
 
 bg black,22
 bg rose_3aP,22
 
 ;Б@РнРlВЌГKБ[ГfГУГ`ГFГAВ…НШВрЙЇВлВµБAЛуВрЛ¬ВЃБB@
-` Ѕаттлер сел на садовый стул и посмотрел на небо.`\
+` Battler sat on a garden chair and looked up to the sky.`\
 
 ;Б@ГНГmГEГFВЌЦВЦ@ВћГeГBБ[ГZГbГgВ≈НgТГВрЯєВкБAРнРlВ…К©ВяВйБB\
-` –онове сделал чай с помощью волшебного чайного сервиза и предложил его Ѕаттлеру.`\
+` Ronove made some tea with a magic tea set, and then offered it to Battler.`\
 
 ld c,BU3_MajimeA1,2
 
@@ -7558,7 +7558,7 @@ wait 1000
 ld c,BU3_FutekiA5,80
 
 ;БuБcБcБcЙіВ™В±В±В…ВҐВйБAВ∆ВҐВ§В±В∆ВЌБB@БcБcЙіВЌЙіВћЦрКДВрЙ ВљВµВƒВҐВҐБAБcБcВЅВƒВ±В∆ВЊВжВ»БBБv@
-`"......Ќу что, € здесь.`@`  ...«начит, мне больше не нужно притвор€тьс€?"`\
+`"...So, I am right here now.`@` ...It means I'd better play out my part as myself, right?"`\
 
 ;cl c,0
 ;ld l,BU3_FutekiA5,0
@@ -7566,7 +7566,7 @@ ld r,RON_DefA1,24
 ld r,RON_WaraiA2,80
 
 ;БuВ≥ВƒБAБcБcБcВ«В§В≈В≤ВіВҐВ№ВµВеВ§БBБv\
-`"„то ж, ......каковы наши действи€?"`\
+`"Well, ...how shall we proceed?"`\
 
 cl c,0
 ld l,BU3_NayamuA2,24
