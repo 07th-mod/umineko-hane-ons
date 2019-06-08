@@ -11,18 +11,16 @@ Current progress:
 
 |Chapter|Translated|Playtested|Released since version|
 |--|--|--|--|
-|Jessica and the Killer Electric Fan|In progress|No|Not yet released|
+|Jessica and the Killer Electric Fan|Yes|Yes|v0.5.0|
 |Forgery no. XXX|No|No|Not yet released|
 |Postscript|No|No|Not yet released|
 
-<!--
 Installation instructions:
 
 - Go to the [releases page](../../releases).
 - Download the latest version of the mod.
 - Extract the archive to the Umineko Hane directory (you need to own the Japanese game to use this!). Note: you *do* want to keep the subfolder, in other words, after extraction, your game should now contain a `[07th-Mod]` folder.
 - Run `[07th-Mod] Umineko Hane.exe` inside the `[07th-Mod]` folder and enjoy the currently-translated stories.
--->
 
 Main points of interest for developers:
 - `script.txt` is the main script file which is used by this mod. 

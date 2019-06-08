@@ -5004,11 +5004,11 @@ bg forest_P3b,6
 bgm1 68
 
 ;БuВ§В®ГbБAН°УxВЌГWГГГУГOГЛВ™РґВ¶ВƒВЂВљВЯБIБI@Б@ВЈВ∞В¶ВЈВ∞В¶БIБI@Б@ОЯВЌЙљВЊБHБIБv@
-`"ќго, теперь выскочили джунгли!`@` ”дивительно, просто потр€сающе!`@` „то дальше?!"`\
+`"Whoa, this time a jungle popped up!`@` Awesome, that's amazing!`@` What's next?!"`\
 
 
 ;БuВ®БAЙ§ОqИкНsВЌБAВїВ±В…ПZВёЦВХ®ВћМQВкВ…ПPВнВкБcБcВ№ВµВљБcБcБBБv\
-`"¬...в джунгл€х обитала группа монстров, котора€...напала на принца и его людей..."`\
+`"T-the jungle was inhabited by a group of monsters, who... attacked the prince and his men..."`\
 
 ;wait 600
 ;ld c,but_aseruA1,24
@@ -5016,12 +5016,12 @@ ld c,but_komaruA1,24
 ;bgmvol 0
 
 ;БuБcБcБcЦВХ®ВћБAБcБcЙљВЊВЅВƒБHБv\
-`"......√руппа... „то, прости?"`\
+`"...A group of... wait, what?"`\
 
 wait 500
 se1 60
 ;Б@БcБcГhГhБcБAБcБcГhГhГhГhГhБcБcБB/
-` ...*грохот*, ......*грохот*грохот*грохот*...`/
+` ...*rumble*, ...*rumble, rumble, rumble*...`/
 se2 61
 quakey 2,300
 wait 300
@@ -5034,8 +5034,8 @@ quakey 3,500\
 
 ;Б@ТбВҐТnЦ¬ВиВ™БAОЯСжВ…ЛяХtВЂБAСеВЂВ≠В»ВЅВƒВҐВ≠БB@
 ;Б@ГWГГГУГOГЛВ™ЧhВкБAГJГЙГtГЛВ»ТєВљВњВ™ФяЦ¬ВрВ†В∞В»В™ВзБAУ¶В∞ЛОВЅВƒВҐВ≠БB\
-` Ќизкий земл€ной гул постепенно становилс€ всЄ громче и ближе.`\
-` ƒжунгли дрожали, и красочные птицы разлетались в разных направлени€х.`\
+` The low rumbling of the ground was gradually growing both louder and closer.`\
+` The jungle shook, and colorful birds cried as they took flight in every direction.`\
 
 
 se1v 65,20
@@ -5053,7 +5053,7 @@ ld l,jes_aisowaraiA1,26
 
 
 ;БuБcБcВҐВвБAВЌВЌВЌБB@ВҐВЂВ»ВиГNГЙГCГ}ГbГNГXВЊВ∆БAЦ ФТВҐВ©В»ВЯВЅВƒОvВЅВƒБcБcБBБv\
-`"...Ё-э, ха-ха-ха.`@` я подумала, будет интересно, если тут же настанет кульминаци€..."`\
+`"...Uh, hahaha.`@` I thought it'd be interesting if there was a climax right away, or something like that..."`\
 
 cl r,0
 ;ld c,but_komaruA1,24
@@ -5061,20 +5061,20 @@ cl r,0
 ld c,but_aseruA1,24
 
 ;БuВїВћЦВХ®ВљВњВрБAЙіВ™ГoГbГTГoГbГTВ∆СёО°ВЈВйВсВЊВлБH@Б@ВїВ§В»ВсВЊВлБHБIБv@
-`"» € с лЄгкостью уничтожу этих монстров, да?`@` ƒа?!"`\
+`"And I'm gonna wipe out those monsters with no sweat, right?`@` Right?!"`\
 
 ld r,sha_odorokiA2,24
 ;ld r,sha_komaruA1,80
 
 ;БuБcБcВЂБAЛrЦ{В…ВЌБcБAЦВХ®ВљВњВ…ПPВнВкВƒБAВ–БAНУВҐЦЏВ…СШВнВ≥ВкВйВЅВƒПСВҐВƒВ†ВиВ№ВЈБBБv\
-`"...¬...в сценарии...сказано, что на вас нападут монстры, и вы встретите страшный конец."`\
+`"...T-the script...says you're attacked by the monsters and meet a terrible fate."`\
 
 me1v 17,70
 
 ld l,jes_atyaA3,80
 
 ;БuВўБAВўВзБB@ВїВ±В≈Й§ОqВ™ПЯВЅВњВбВЅВљВзБAЧ\СzТ ВиВћУWКJВ≈В¬В№ВсВ»ВҐВґВбВсБcБcБBБv\
-`"Ќ-ну, знаете...`@` ¬ такой ситуации ожидаешь, что принц победит. –азве не скучно?.."`\
+`"Y-you see...`@` In this kind of situation, everyone would expect the prince to win. Wouldn't that just be boring?.."`\
 
 ld c,but_odorokiA2,22
 
@@ -5087,16 +5087,16 @@ quake 3,300
 se3v 65,85
 
 ;БuВїВћНУВҐЦЏВ…СШВ§ВћВЌЙ§ОqЦрВћЙіВЊБ[БIБI@Б@ВЅВƒВҐВ§В©БAНУВҐЦЏВЅВƒЙљБHБI@Б@ЛпСћУIВ…ПСВҐВƒВ»ВҐБIБv\
-`"ѕринц, который встретит страшный конец, - это €!!!`@` » какой именно страшный конец?!`@` ¬ сценарии не написано!"`\
+`"The prince who's gonna meet that terrible fate is me!`@` And what kind of terrible fate is it anyway?!`@` The script says nothing about it!"`\
 
 
 ;Б@ВїВсВ»ВвВиВ∆ВиВрВµВƒВҐВйК‘В…ВаБAВ«ВсВ«ВсТnЦ¬ВиВЌЛяХtВҐВƒВ≠ВйБB@
-` ѕока разногласи€ продолжались, грохот становилс€ всЄ ближе.`\
+` While they were arguing, the rumbling continued to grow closer.`\
 ;wait 500
 
 se1 66
 ;Б@ГSГSГSГSГSГSГSГSГSГSГSГSГSГSГSГSГSБcБcГbБIБIБIБI\
-` *√–ќ’ќ“*√–ќ’ќ“*√–ќ’ќ“*√–ќ’ќ“*!!!`\
+` *RUMBLE, RUMBLE, RUMBLE, RUMBLE*!!!`\
 quake 5,1000
 
 
@@ -5104,7 +5104,7 @@ se2 66
 se1 3
 bg black,23
 ;БuВ–В¶В•В¶В•Б\Б\Б\Б\Б\Б\Б\Б\Б\Б\Б\ГbГbБIБIБIБIБIБIБIБv\
-`"’ь€-а-а-а-а-а-а-а-а-а-а-а!!!"`\
+`"Hieeeeeeeeeeeeeeeeeeee!!!"`\
 
 se1v 65,80
 bg cats_eye1b,2
@@ -5130,12 +5130,12 @@ se3v 62,90
 quakey 2,200
 
 ;Б@ГWГГГУГOГЛВрС~ВЂХ™ВѓВƒБAОRЧrВљВњВћСеМQВ™В±ВњВзВ…МьВ©ВЅВƒУЋРiВµВƒВ≠ВйБI@
-` ћногочисленное стадо козлов направл€лось через джунгли пр€мо к нам!`\
+` A large herd of goats was plowing through the jungle, straight toward us!`\
 
 ;Б@ОRЧrВЅВƒМЊВЅВƒВаБAОlВ¬ВсФЗВҐВґВбВ»ВҐБB@
 ;Б@ВЁВсВ»НХВҐЙНФцХЮВЁВљВҐВ»ВћВрТЕВƒВҐВƒБAРlК‘ВЁВљВҐВ…УсЦ{СЂВ≈ЛмВѓВƒВҐВйБB\
-` я сказала Џ00171козловЏ00187, но они не ходили на четырЄх конечност€х.`\
-`  аждый носил нечто вроде чЄрного фрака и бежал на двух ногах, как человек.`\
+` I say goats, but they weren't running on four legs.`\
+` They were each wearing something like a black tailcoat and running on two legs like a person.`\
 ;quakey 3,500
 mcl c,0
 se1 66
@@ -5143,10 +5143,10 @@ bg "bmp\background\sbook\1_a.bmp",0
 print 22
 
 ;Б@В«ВҐВ¬ВаВ±ВҐВ¬ВаБAВвВљВзВ∆ЛЎНЬЧ≤БXВ≈БAВаВћВЈВ≤В≠КЊПLВҐБAТjПLВҐБIБI@
-` ¬се они были чрезмерно мускулистыми, и от них исходил кошмарный запах мужского пота.`\
+` Every single one of them was excessively muscular, and gave off the horrible stench of male sweat!`\
 
 ;Б@ВїВкВжВиВаХ|ВҐВћВЌБAВ†Вћа£БXВ∆ВµВљР‘ВҐЦЏВ∆БAЯµВрВЊВзВЊВзЧлВЈВ†ВћМыВЊБI\
-` Ќо, что ещЄ пугающе, у них были огненно-красные глаза и гр€зно пускающие слюни рты!`\
+` But even more frightening than that were their flaming red eyes and messily drooling mouths!`\
 
 
 csp2 200
@@ -5157,20 +5157,20 @@ bg forest_P1bR,0
 ld r,sha_odorokiA2,24
 
 ;БuВ…БAУ¶В∞В№ВµВеВ§БIБI@Б@РнРlВ≥В№ГbБAВ®ПмЧlБIБIБv@
-`"ƒ-давайте бежать!`@` √осподин Ѕаттлер, миледи!!!"`\
+`"R-run!`@` Master Battler, Milady!!!"`\
 
 ;ld l,but_majimeA1,23
 ld l,but_odorokiA2,23
 
 ;БuНУВҐЦЏИ»СOВ…БIБIБ@У•ВЁТ„В≥ВкВйГbБIБI@Б@ОйОuНБВаЛ}В∞БIБIБv\
-`"ƒвинем отсюда до того, как страшный конец настигнет нас!`@` ƒавай, ƒжессика, шевелись!"`\
+`"Let's run away before that terrible fate can meet us!`@` Go, Jessica, hurry up!"`\
 
 ;ld c,jes_DefA1,24
 ;БuВнГbБAВнВ©ВЅВƒВйВЅВƒБcБcБA@/
-`"«-знаю...`@/
+`"O-okay...`@/
 bg black,1
 ;БcБcВ§ВнГbБIБIБv\
-`...ува!.."`\
+`...wah!.."`\
 
 ;bg black,25
 bg well_1c,25
@@ -5180,10 +5180,10 @@ quakey 3,200
 me2v 28,70
 
 ;Б@ОДВћСЂВ™БAЙцВµВ∞В»ФMС—РAХ®ВћН™ВЅВ±В…ИшВЅК|В©ВйБB@
-` ћо€ нога зацепилась за корень подозрительного тропического растени€.`\
+` My foot snagged on the root of a suspicious-looking tropical plant.`\
 
 ;Б@В†ВЅБAВ∆ОvВЅВљОЮВ…ВЌБAОДВЌТnЦ В…ИшВЅМJВиХ‘ВЅВƒВҐВљБB\
-` Ќе успев и ахнуть, € свалилась на землю.`\
+` I didn't even have time to scream before I toppled to the ground.`\
 
 bg forest_P1bR,0
 ld l,but_aseruA4,0
@@ -5194,8 +5194,8 @@ ld r,sha_odorokiA1,80
 
 ;БuВќБAФnО≠ГbБAОйОuНБВЯВ†В†В†В†ВЯВ†БIБIБv
 ;БuВ®ПмЧlВЯВ†В†В†ВЯВ†В†В†ВЯВЯБIБIБv\
-`"»-идиотка! ƒжессика-а-а-а-а!!!"`
-`"ћиледи-и-и-и-и!!!"`\
+`"J-jessica, you idiiiiiiiot!"`
+`"Miladyyyyy!!!"`\
 
 bg black,24
 bg forest_P2a,0
@@ -5206,11 +5206,11 @@ ld c,goa_defA1,24
 se1 66
 ;Б@ОRЧrВљВњВћСеМQВ™БAОДВрИщВЁНЮВаВ§В∆ВЈВЃВїВ±В№В≈ФЧВЅВƒВҐВйБB@
 ;Б@ВїВћПdЧ КіИмВкВйЛРСћВЌБAМQВ≈В»В≠ВƒВаБAОДВрВЎВµВбВсВ±В…ВµВƒВµВ№В§ВЊВлВ§БB@
-` ћен€ окружало и почти поглотило огромное стадо козлорогих.`\
-` ƒаже если не целым стадом, одного из этих громил точно будет достаточно дл€ того, чтобы раздавить мен€ и сделать плоской как блин.`\
+` The huge herd of goats swarmed toward me, and were on the verge of swallowing me up.`\
+` Even if there weren't a whole herd of them, a single one of those huge bodies would probably be enough to crush me as flat as a pancake.`\
 
 ;Б@БcБcО©Х™ВћПСВҐВљЛrЦ{В…ОEВ≥ВкВйЛrЦ{Й∆В»ВсВƒБAХЈВҐВљВ±В∆В»ВҐБB\
-` ...я никогда раньше не слышала о том, как сценариста убивал его же сценарий.`\
+` ...I've never heard of a scriptwriter being killed by their own script before.`\
 
 
 wait 300
@@ -5220,7 +5220,7 @@ mbg bite,25
 quake 3,500
 
 ;Б@ВђБAВђВ•В¶В¶В¶В¶В¶В•В¶В¶В¶В¶В¶В¶БcБcБIБIБIБ@@БcБcБcБcБcВ•БH\
-` √-гь€-а-а-а-а-а-а-а-а!!!`@` .........Ё?`\
+` Gyaaaaaaa!!!`@` ...Eh?`\
 
 E_A
 
@@ -5231,7 +5231,7 @@ mono 1
 ;bg white,68
 
 ;Б@ВїВћОЮБAКпР’В™ЛNВ±ВЅВљБB\
-` » вдруг случилось чудо.`\
+` Suddenly, a miracle occured.`\
 
 ;E_A
 se1 55
@@ -5245,7 +5245,7 @@ print 99,3000,"breakup.dll/llb"
 ;print 22
 
 ;Б@ОRЧrВљВњВћСеМQВ™БAИкРƒВ…В‘ВнВЅВ∆ТeВѓВƒБcБcБAЙљВ∆БAЦ≥РФВћГVГГГ{ГУЛ В…ХѕВнВЅВƒВµВ№ВЅВљВћВЊБB\
-` ѕо какой-то причине все козлорогие одновременно взорвались...и превратились в бесконечное множество мыльных пузырей.`\
+` For some reason, the goats all simultaneously burst open...and transformed into an infinite number of soap bubbles.`\
 
 ;lsp bgsp,":a;bmp\background\efe\1e.bmp",0,0
 ;print 22
@@ -5260,13 +5260,13 @@ bg different_spiral_1a,3
 
 ;Б@ОДВЌМґСzУIВ»ГVГГГ{ГУЛ ВћХЧВћТЖВ…ВҐВƒБB@
 ;Б@БcБcВ„ВµВбВ„ВµВбВ„ВµВбВ∆БAРќМ≤ВћП`УhВкВ…В»ВйВћВЊВЅВљБB@
-` я осталась сто€ть среди фантастической мыльной бури.`\
-` ...*хлоп*хлоп*хлоп* - мен€ вскоре покрыла мыльна€ плЄнка.`\
+` I was left standing in a fantastical storm of soap bubbles.`\
+` ...With a *pop, pop, pop*, I was soon covered in a soapy film.`\
 
 ;bg different_spiral_1a,22
 
 ;Б@ИкСћБAБcБcЙљОЦБcБcБB\
-` „то за...чЄрт...`\
+` What... the hell?..`\
 
 csp -1
 ;se1 52
@@ -5278,14 +5278,14 @@ ld r,sha_komaruA1,24
 ld r,sha_odorokiA2,80
 
 ;БuВ®ПмЧlБI@Б@В®ЙцЙдВЌВ≤ВіВҐВ№ВєВсВ©БcБIБv\
-`"ћиледи!`@` ¬ы не ранены?.."`\
+`"Milady!`@` Are you okay?.."`\
 
 ld c,Jes_komaruA1,26
 ld c,Jes_atyaA3,80
 
 ;БuБcБcВ±ВсВ»ВћБAЛrЦ{В…ВЌПСВҐВƒВЋВ•ВћВ…БcБcБBБv@
 ;БГОйОuНБ
-`"...Ќо € не писала в сценарии ничего подобного..."`\
+`"...But the script had nothing like this in it..."`\
 
 
 E_A
@@ -5293,26 +5293,26 @@ E_A
 ld r,sha_waraiA3,80
 
 ;БuВ≠ВЈБB@/
-`"*хи-хи*.`@/
+`"*giggle*.`@/
 bgm1 110
 ;В≈ВЈВ©ВзБAПCР≥ВрВ≥ВєВƒВҐВљВЊВЂВ№ВµВљБBБv\
-` ¬ообще-то это € вз€ла на себ€ смелость внести кое-какие изменени€."`\
+` You see, I took the liberty of making some amends."`\
 
 ;Б@О—ЙєВћОиВ…ВЌБAОДВ™У]ВсВЊОЮВ…ЧОВ∆ВµВљБAР‘ГyГУВ∆ЛrЦ{В™В†ВЅВљБB@
-` ¬ руке Ўанон были красна€ ручка и сценарий, который € обронила, когда упала.`\
+` In Shannon's hand, there was a red pen and the script that I dropped when I fell down.`\
 
 
 ;ld c,Jes_waraiA1,80
 
 ;Б@В¬В№ВиБB@ФёПЧВЌЩтЪlВћЛ@У]В≈БA/
-` ¬ общем,`@` быстро сообразив,`/
+` Basically,`@` in a moment of quick-wittedness,`/
 se1 4
 ;#CC3366
 ;БgОRЧrВљВњВЌГVГГГ{ГУЛ В…В»ВЅВƒПЅВ¶ВƒВµВ№ВЅВљБh/
-` она внесла поправки в сценарий, чтобы`/
+` she had amended the script so that`/
 ;#ffffff
 ;В∆БAПCР≥ВµВƒВ≠ВкВљВћВЊБB\
-` Џ00171козлорогие превратились в мыльные пузыри и исчезлиЏ00187.`\
+` "the goats turned into soap bubbles and disappeared".`\
 
 bg black,23
 bg forest_P2b,0
@@ -5320,13 +5320,13 @@ ld c,but_waraiA2,23
 ld c,but_waraiA1,80
 
 ;БuГiГCГXБAО—ЙєВњВбВсБBБv@
-`"Ќеплохо, Ўанон."`\
+`"Not bad, Shannon!"`\
 
 ld l,sha_defA1,23
 ;ld l,sha_hajiraiA3,80
 
 ;БuВ®ЦрВ…ЧІВƒВƒБAМхЙhВ≈ВЈБcБcБBБv\
-`"ƒл€ мен€ честь оказатьс€ полезной..."`\
+`"I'm honored that I could be of service..."`\
 
 
 bg black,23
@@ -5338,55 +5338,55 @@ ld c,jes_odorokiA1,23
 ;ld c,jes_ikariA1,80
 
 ;БuВµВ©ВµБAБcБcВ±ВиВбОQВЅВљВ»БcБcБB@В±В±БAГQГXГgГnГEГXВћВЌВЄВЊВлБH@/
-`"Ќо...что, чЄрт возьми...`@` ћы по-прежнему должны быть в домике дл€ гостей, верно?`@/
+`"But... man, what the hell...`@` We were supposed to be in the guesthouse, weren't we?`@/
 
 ;ld c,jes_ikariA1,80
 
 ;Б@В≈ВаБAКЃГbашВ…В«В±В©ВћГWГГГУГOГЛВЊВЇБH@Б@ФMС—ЙJЧ—ВЊВЇБAГtГ@ГУГ^ГWБ[ВЊВЇБHБI@Б@ОДВљВњБAЛrЦ{ВћРҐКEВ…ИшВЂР†ВиНЮВ№ВкВƒВйВЇБIБv\
-` Ќо это ведь €вно какие-то джунгли?`@` “ропический лес, фантази€, так?!`@` Ќас засосало в мир сценари€!"`\
+` But this is totally some kind of jungle, right?`@` It's a tropical forest, it's a fantasy, right?!`@` We've been sucked into the world of the script!"`\
 
 ;ld r,sha_komaruA1,24
 ld r,sha_odorokiA1,24
 
 ;БuБcБcГxБAГxГAГgГКБ[Г`ГFВ≥В№ВћЦВЦ@В≈ВµВеВ§В©БcБcБBБv@
-`"...Ќаверное, маги€ госпожи Ѕеатриче..."`\
+`"...Perhaps this is the magic of Lady Beatrice..."`\
 
 ld c,jes_atyaA2,80
 
 ;БuВ†ВћЦ≤БAБcБcЦ≤ВґВбВ»В©ВЅВљВћВ©В»БB@БcБcБcВ†ВћБAГsГУГNВћХѕВ»ЦВПЧВ™БAОДВћЛrЦ{В…В®В©ВµВ»ЦВЦ@ВрК|ВѓВвВ™ВЅВљВсВЊБcБcБBБv\
-`"“от сон...может, и не был сном.`@`  ......Ќу, что подозрительна€ розова€ ведьма заколдовала мой сценарий..."`\
+`"That dream... maybe it wasn't a dream?`@`  ...The one about a suspicious pink witch who cast a weird spell on my script..."`\
 
 ld l,but_niramuA3,23
 ;ld l,but_majimeA1,80
 
 ;БuОйОuНББB@ОQНlВ№В≈В…ХЈВ≠В™БAВ±ВћШbБAС±ВЂВЌВ«В§В»ВЅВƒВйВсВЊБBБv@
-`"ƒжессика.`@` “ак, дл€ справки.`@` „то в этой истории будет дальше?"`\
+`"Jessica.`@` Just for future reference.`@` What's going to happen next in this story?"`\
 
 ;ld c,jes_komaruA1,80
 ld c,jes_atyaA3,80
 
 ;БuВ¶ВЅВ∆ВїВћБAБcБcФgЧРЦЬПдВћЦ`МѓХ®МкВ…БcБAРFБXВ∆ВїВћБAБcБcГКГУГSВ∆ГnГ`Г~ГcВрНђВЇВƒВЃВ¬ВЃВ¬ВЃВ¬БcБcБBБv\
-`"Ё-э, посмотрим... Ёто приключенческа€ истори€, полна€ неожиданных поворотов, ...и тут много, ну... я будто смешала и вскип€тила €блоки с мЄдом..."`\
+`"Um, let's see... It's an adventure story full of twists and turns... and there's lots of, uh... I mixed in some apples and honey and let it simmer..."`\
 
 ;ld c,jes_ikariA2,80
 bg moon_1a,26
 se1 12
 quakey 2,300
 ;БuВЅВƒВ©БAОДБAВ±ВћОOУъК‘БAВўВ∆ВсВ«РQВ»ВҐВ≈ПСВҐВљВсВЊВЇБHБI@Б@У™БAЮNЮOВ∆ВµВƒВїВкВ≈ВаТчВяРЎВиК‘В…НЗВнВєВƒБI@Б@ВЊВ©ВзВїВћБAВ†ВћВ†ВћГbБIБIБv\
-`"—лушайте, € писала очень много всего, не спав целых три дн€, €сно?!`@` ѕеред глазами всЄ расплывалось, но € всЄ равно успела в срок!`@` ¬от почему, м-м, э-э!!!"`\
+`"Listen, I wrote a whole lot without sleeping for three days, okay!`@` My head's all fuzzy, but I still made it by the deadline!`@` That's why, um, um!!!"`\
 
 
 ;ld r,sha_komaruA1,80
 
 ;БuБcБcБcВ¬В№ВиБAВ®ПмЧlВаВжВ≠БAВ†ВзВЈВґВрКoВ¶ВƒВҐВ»ВҐВ∆ВҐВ§В±В∆В»ВсВ≈ВЈВЋБcБcБBБv@
-`"...“о есть, миледи, вы сами не помните большую часть этой истории..."`\
+`"...In other words, you don't remember much of what happens in the story either, Milady..."`\
 
 ;bg forest_P2a,0
 ;ld r,sha_komaruA1,0
 ;ld c,jes_komaruA3,22
 
 ;БuВ≤БAВ≤ВяВсБcБcБBБv\
-`"ѕ-простите..."`\
+`"S-sorry..."`\
 
 
 bg black,22
@@ -5394,47 +5394,47 @@ bg black,22
 ;bg Different_spiral_1a,22
 
 ;Б@ЛrЦ{ВћГyБ[ГWВрМЮВкВќБAБgХ®МкБhВ™РiНsВµВƒВµВ№В§БB@
-` ≈сли переворачивать страницы сценари€, истори€ будет продвигатьс€.`\
+` If we turned the pages of the script, its story would progress.`\
 
 ;Б@В∆В…В©В≠БB@ОДВљВњВЌВ±ВћГWГГГУГOГЛВ©ВзБAБcБcВҐВвБAХ®МкВ©ВзТEПoВЈВйХыЦ@ВрЛcШ_ВµБAОјСHВµВƒВЁВљБB\
-` “ак или иначе,`@` ...мы обсуждали различные способы выбратьс€ из этих джунглей...нет, из этой истории...и примен€ли их на практике.`\
+` Anyway,`@` ...we discussed various ways of escaping from this jungle... no, from this story... and tried them out.`\
 
 se1 1100
 bg Different_spiral_1b,22
 ;Б@В№ВЄБAЛrЦ{ВїВћВаВћВрХ®ЧЭУIВ…ФjЙуВЈВйВ±В∆БB@
-` —начала мы попробовали уничтожить сценарий.`\
+` First, we tried physically destroying the script.`\
 
 ;Б@БcБcВ«В§ВвВзБAЦВЦ@В∆ВвВзВ…ОзВзВкВƒВйВзВµВ≠БAУ•ВсВ≈ВаПRВЅВƒВаБAГVГПИкВ¬ХtВ©В»ВҐБB\
-` ...—уд€ по всему, его защищала маги€. —колько бы мы ни топтали его и ни пинали, у нас не вышло даже проделать в нЄм дырку.`\
+` ...It seemed that it was protected by magic or something, and no matter how much we stomped on it or kicked it, we couldn't even put a crease in it.`\
 
 se1 1010
 bg Different_spiral_1a,22
 
 ;Б@ОЯВ…БAМїНЁВћГyБ[ГWВ…С¶НјВ…БhВ®ВµВ№ВҐБhВ∆ПСВЂНЮВсВ≈ВЁВљБB@
-` ƒалее мы написали слово Џ00171 онецЏ00187 внизу текущей страницы.`\
+` Next, we tried writing "The End" at the bottom of the current page.`\
 ;Бg#CC3366
 
 ;#ffffffБh
 
 
 ;Б@ВїВµВљВзБAВїВћХґОЪВ™ПЯОиВ…ПЅВ¶ВƒБAВ≥ВзВ…Р‘ВҐОЪВ≈БA@/
-` ¬ тот момент буквы исчезли сами по себе, и по€вилось другое сообщение, написанное красными чернилами:`@/
+` At that point, the letters disappeared by themselves, and a different message in red ink rose into view:`@/
 se1 59
 ;Бu#ff0000Н≈МгВ№В≈ЙЙВґВ»ВҐВ∆РвСќВ…ПIВнВкВ№ВєВс#ffffffБvВ∆ХВВ©В—ПгВ™ВЅВƒВЂВљБB\
-` Џ00171#ff0000ѕока истори€ не дойдЄт до конца, она абсолютно точно не закончитс€#ffffffЏ00187.`\
+` "#ff0000Unless it is performed to completion, the story will certainly not end#ffffff."`\
 
 bg black,22
 
 
 ;Б@СЉВ…ВаРFБXВ∆ООВµВљВ™БAБcБcС ЦЏВЊВЅВљБB@
 ;Б@В±ВћРжВћХ®МкВрЦ≥ОЛВµВƒБAВ±В±В©ВзТEПoВЈВйВ±В∆ВЌПoЧИВ»ВҐВћВЊБB\
-` ћы проводили и другие эксперименты, ...но всЄ оказалось напрасно.`\
-` ¬ыбратьс€ отсюда, проигнорировав оставшуюс€ историю, было невозможно.`\
+` We tried experimenting in a variety of ways, ...but it was all useless.`\
+` Escaping this place by ignoring the rest of story was impossible.`\
 
 E_A
 
 ;БuУЦВиСOВ≈ВµВеБ[БH@Б@ОДВ™РвСќВћЦВЦ@ВрК|ВѓВљБAРвСќВћЛrЦ{В»ВћВжБH@Б@УrТЖВ≈В®ВµВ№ВҐВ»ВсВƒБAРвВ•ГbСќВ…ПoЧИВ»ВҐВсВЊВ©ВзБIБv\
-`"–азве не очевидно?`@` Ёто абсолютный сценарий, заколдованный моей магией абсолюта.`@` ≈стественно, он не закончитс€ на середине!"`\
+`"Isn't that obvious?`@` It's a script of certainty with my magic of certainty cast on it, right?`@` So it certainly can't end in the middle!"`\
 
 bg forest_P2b,22
 se1 57
@@ -5447,13 +5447,13 @@ bgm1 176
 ld l,jes_odorokiA1,23
 
 ;БuВ†БAБcБcВ†Б[БIБI@Б@В†ВсВљВЌОДВћЦ≤ВћТЖВ…ПoВƒВЂВљЦВПЧБIБIБv\
-`"A-...а-а-а-а-а!!!`@` “ы та ведьма из моего сна!"`\
+`"Ah, ...Ahhhhhh!!!`@` You're that witch who showed up in my dream!!!"`\
 ;БДОйОuНБ
 
 ld c,lam_akuwaraiA4,80
 
 ;БuГnГ@ГCБЩБ@ОДВћЦВЦ@БAВ®ЛCВ…ПҐВµВƒВйГDБH@/
-`"¬ точкуЏ09734  Ќу и, как вам мо€ маги€?`@/
+`"Exactly~ So, how are you liking my magic?`@/
 
 
 ld r,but_nayamuA3,24
@@ -5463,19 +5463,19 @@ quakex 2,200
 ld c,lam_odorokiA1,80
 
 ;Б@В†Т…ГbБAБcБcЙ£ВЅВљВнВЋБAРнРlБHБI@Б@В±ВћРвСќВћЦВПЧБAГЙГАГ_ГfГЛГ^ВњВбВсЧlВрЙ£ВЅВљВнВЋВ•БHБIБv@
-` ќй, ...ты вз€л и ударил мен€, Ѕаттлер?!`@` “ы ударил мен€, ведьму абсолюта, госпожу Ћ€мбдадельточку?!"`\
+` Ow! Battler, did you just hit me?!`@` You hit me, the Witch of Certainty, Lambdadelta-chan-sama?!"`\
 
 ld r,but_nayamuA2,80
 
 ;БuВ®СOВћВєВҐВЊВ∆ВнВ©ВкВќШbВЌСБВ•БI@Б@В∆ВЅВ∆В∆В±ВћВ®В©ВµВ»РҐКEВрПIВнВзВєВвВ™ВкБIБv\
-`"≈сли это ты виновата, тогда всЄ просто!`@` ѕоскорее положи конец этому безумному миру!"`\
+`"If this is all your fault, that makes things simple!`@` Hurry up and end this crazy world!"`\
 
 
 cl c,0
 ld c,lam_futekiA3,80
 
 ;БuВїВкВЌПoЧИВ»ВҐВнБ[БB@ВЊВЅВƒБAОДВЌВаВЌВвЦTКѕО“БB@В±ВћХ®МкВћЦaВђОиВЌОйОuНБВЊВаВћБB@ВЊВ©ВзОДВ…В≥В¶БAВ±ВћХ®МкВЌПIВнВзВєВзВкВ»ВҐВнБ[БBБv\
-`"Ќе выйдет.`@` —ейчас € простой наблюдатель.`@` Ёто истори€ ƒжессики.`@` ѕоэтому даже € не могу еЄ закончить."`\
+`"I can't do that.`@` At this point I'm just an observer.`@` The one spinning this story is Jessica.`@` So even I can't make the story end."`\
 
 se1 37
 se2 52
@@ -5488,7 +5488,7 @@ print 99,2000,"breakup.dll/lrb"
 ld l,jes_ikariA1,80
 
 ;БuВїВсВ»Ц≥Р”ФCВ»БIБIБv@
-`" ак чертовски безответственно!"`\
+`"That's ridiculously irresponsible!"`\
 
 cl r,0
 ld c,but_odorokiA2,24
@@ -5497,7 +5497,7 @@ se1 12
 quakex 2,300
 
 ;БuВїВћЦ≥Р”ФCВ»ЛrЦ{ВрПСВҐВљВћВЌТNВЊБ[БIБIБv\
-`"ј кто, в первую очередь, написал этот безответственный сценарий?!!"`\
+`"Who's the one who wrote this irresponsible script in the first place?!"`\
 
 bg black,24
 ;cl l,0
@@ -5508,13 +5508,13 @@ ld r,sha_komaruA1,24
 ld r,sha_odorokiA1,80
 
 ;БuВ∆БAБcБcВ∆В…В©В≠БB@Н≈МгВ№В≈В®О≈ЛПВрС±ВѓВйВµВ©В»ВҐБAВ∆ВҐВ§В±В∆В≈ВЈВЋБcБBБv@
-`"¬...в общем...`@` ¬ы имеете в виду, что нам остаЄтс€ лишь разыграть историю до конца?"`\
+`"A...anyway...`@` What you're saying is that we have no choice but to perform the story all the way to the end, right?"`\
 
 ;ld l,lam_akuwaraiA1,23
 ld l,lam_akuwaraiA2,23
 
 ;БuВїВ§ВҐВ§В±В∆ВжБB@ВґВбБAВ™ВсВќВЅВƒБ`БI@Б@ОДВЌГ|ГbГvГRБ[ГУВрФГВЅВƒВ≠ВйВнБ[БBБv\
-`"“очно.`@` Ћадно, удачи!`@` я за попкорном."`\
+`"You got it.`@` Okay, good luck~!`@` I'm off to get some popcorn."`\
 
 se1 57
 mbg white,1
@@ -5523,24 +5523,24 @@ mcbg 22
 
 ;Б@ГЙГАГ_ГfГЛГ^ВЌОpВрПЅВЈБB@
 ;Б@БcБcПуЛµВЌСеСћБAФcИђВ≈ВЂВљБB@
-` Ћ€мбдадельта исчезла.`@
-` ...“еперь мы хорошо понимали что к чему.`\
+` Lambdadelta disappeared.`@
+` ...We had a pretty good idea of the situation now.`\
 
 ;Б@У¶В∞ПкВ»ВµБB@РжВ÷РiВёСЉВЌВ»ВҐБB\
-` —пособа выбратьс€ нет.`@` ћожно только двигатьс€ дальше.`\
+` No way out.`@` No choice but to go forward.`\
 
 ;bg black,22
 
 ld r,sha_majimeA2,80
 
 ;БuВ≈ВаБAХРКнВЌВ†ВиВ№ВЈВЋБcБcБBБv@
-`"Ќо у нас есть оружие..."`@
+`"But we do have a weapon..."`@
 
 ;ld l,but_nayamuA3,23
 ld l,but_niramuA3,23
 
 ;БuОйОuНБВћБAВїВћР‘ГyГУВЊВѓВ™ЧКВиВЊВ»БcБBБv\
-`"ѕридЄтс€ положитьс€ на красную ручку ƒжессики..."`\
+`"We'll have to rely Jessica's red pen, huh..."`\
 
 bg black,22
 mono 1
@@ -5550,11 +5550,11 @@ bg "bmp\background\sbook\pen.bmp",22
 
 ;Б@Х®МкВЌЛrЦ{Т ВиВ…ОјНsВ≥ВкВйБB@
 ;Б@ВµВ©ВµБAС¶НјВ…Р‘ГyГУВ≈ПCР≥ВЈВйВ±В∆В…ВжВиБAХ®МкВрОЖИкПdВ≈ХѕНXВ≈ВЂВйВзВµВҐБB@
-` »стори€ будет развиватьс€ так, как написано в сценарии.`\
-` Ќо путЄм внесени€ изменений красной ручкой мы могли измен€ть историю по одной странице за раз.`\
+` The story would develop as written in the script.`\
+` However, it seemed that by amending it right away with the red pen, we could alter the story one page at a time.`\
 
 ;Б@ОДВљВњВЌБAРiВёВµВ©В»ВҐБB\
-` Ќам оставалось только продолжать.`\
+` We had no choice but to continue otherwise.`\
 
 ;wait 500
 ;ld c,jes_atyaA2,80
@@ -5562,12 +5562,12 @@ bg "bmp\background\sbook\pen.bmp",22
 mono 0
 bg different_spiral_1a,22
 ;Б@БcБcВ±ВћРжВ…ЙљВ™С“ВњОуВѓВƒВҐВйВћВ©БAЛѓВ¶В»В™ВзБB@
-` ƒаже если мы бо€лись того, что нас ждЄт.`\
+` Even though we were afraid of what awaited us.`\
 
 ;Б@ЙљВµВлБAИ”ОѓЮNЮOВ∆ВµВ»В™ВзГnБ[ГgВћВ®ВаВёВ≠В№В№В…ПСВҐВљВсВЊВ©ВзВ»БcБcБB@
 ;Б@ОДВ…В≥В¶БAВ±ВћРжВћУWКJВ™ВжВ≠ОvВҐПoВєВ»ВҐБB\
-` » вообще, € писала это в полусне, позвол€€ своей душе вести ручку...`\
-` ƒаже € толком не помню, как истори€ будет развиватьс€.`\
+` At any rate, I had written it while half-asleep, letting my pen be guided by my heart...`\
+` Even I couldn't fully remember how the story would develop.`\
 
 bg black,22
 ;mono 0
@@ -5579,26 +5579,26 @@ quakey 2,200
 ld c,jes_futekiA2,80
 
 ;БuЙЙВЅВƒВвВлВ§ВЇБIБI@Б@ВЂВЅВ∆ОДВћВ±В∆ВЊВ©ВзБAН≈МгВЌГnГbГsБ[ГGГУГhВ…ИбВҐВ»ВҐВЇБIБIБv\
-`"“огда давайте пройдЄм еЄ!`@` Ёто € еЄ написала, так что у неЄ наверн€ка будет счастливый конец!"`\
+`"Let's perform it, then!`@` I'm the one who wrote it, so I'm sure it'll have a happy ending!"`\
 
 ld l,but_odorokiA2,23
 ;ld l,but_aseruA1,80
 
 ;БuБcБcПСВҐВљЦ{РlВ™ЛLЙѓВ…В»ВҐВЅВƒВћВ™ХsИјВЊВ™В»Б[БBБv@
-`"... ак-то жутко, что автор истории этого не помнит."`\
+`"...It's kinda worrying that the person who wrote it can't remember it."`\
 
 ;ld r,sha_komaruA1,24
 ld r,sha_odorokiA2,24
 
 ;БuВ™БAВ™ВсВќВиВ№ВµВеВ§БcБcБBБv\
-`"ƒ-давайте постараемс€..."`\
+`"L-let's just do our best..."`\
 
 ;cl l,0
 ;cl r,0
 ;cl c,22
 ld l,but_niramuA3,80
 ;БuВжВµБB@БcБcО—ЙєВњВбВсБB@С±ВЂВћГiГМБ[ГVГЗГУВрЧКВёВЇВЅБBБv\
-`"Ћадно.`@`  ...Ўанон.`@` ѕродолжай читать повествование."`\
+`"Alright?`@` ...Shannon.`@` Go ahead with the next bit of narration, please."`\
 
 ld r,sha_majimeA3,80
 wait 500
@@ -5607,7 +5607,7 @@ bg white,1
 bg black,23
 
 ;Б@О—ЙєВЌКoМеВрМИВяБAОЯВћГyБ[ГWВрКJВ≠БB\
-` Ўанон приготовилась к худшему и перевернула страницу.`\
+` Shannon prepared herself for the worst, and turned the page.`\
 
 fede 0,1000
 E_A
@@ -5619,7 +5619,7 @@ E_A
 
 
 ;БuЦЎБXВ™ЦќВйГWГГГУГOГЛВрФ≤ВѓВйВ∆БAВїВ±ВЌРбНСВћВжВ§В»ПкПКВ≈ВµВљБBБv\
-`"¬ыйд€ из густых джунглей, они оказались в заснеженной стране."`\
+`"Emerging from the dense jungle, they found themselves in a snowy country."`\
 
 se3 52
 bg "bmp\background\sbook\sakutaro08.bmp",0
@@ -5627,22 +5627,22 @@ print 99,1000,"trvswave.dll/"
 ;me1 5
 
 ;Б@ГWГГГУГOГЛВЌР’М`ВаВ»В≠ПЅВ¶ЛОВиБAБcБcВЈВЃВ…ОДВљВњВЌИкЦ ВћЛвРҐКEВ…ХпВ№ВкВйБB@
-` ƒжунгли бесследно исчезли, ...и мы очутились посреди обширного заснеженного пол€.`\
+` The jungle vanished without a trace, ...and we found ourselves surrounded by a vast snow field.`\
 
 me1v 16,50
 
 
 ;Б@СЂР’ИкВ¬В»ВҐБAЦ≥НCВ»ЛвРҐКEБB@
 ;Б@ФёХыВ…ВЌХXЙЌВаМ©В¶БAЛуВ…ВЌГIБ[ГНГЙВ™ЛPВЂБAМґСzУIВ»МiРFВрМ©ВєВƒВҐВљБcБcБB\
-` Ќетронутое снежное поле без единого следа.`@
-` ¬ отдалении виднелись ледники, а в небе сверкало пол€рное си€ние. „удесна€ сцена...`\
+` It was pristine, without a single footprint.`@
+` We could see glaciers in the distance, and an aurora glittered in the sky. It was a wondrous scene...`\
 ;wait 300
 
 
 ;БuБcБcВ–ВгВ§БB@БcБcВ±ВиВбБAВЈВ∞В•МiРFВЊВ»БcБcБBБv@
 ;БuРбНСВ«В±ВлВ©БAБcБcУмЛ…БAВЅВƒКіВґВ≈ВЈВЋБcБBБv\
-`"...‘ью-ю.`@`  ... акой удивительный пейзаж..."`\
-`"Ёто не просто заснеженна€ страна, ...она больше напоминает —еверный полюс..."`\
+`"...*whistle*.`@` ...This is some pretty awesome scenery..."`\
+`"Rather than just a snowy country, ...it seems more like the North Pole, doesn't it..."`\
 ;wait 500
 
 me2v 5,70
@@ -5653,15 +5653,15 @@ bg "bmp\background\sbook\sakutaro06.bmp",22
 
 ;БuВ§ВнВ£БIБI@Б@ГuГЛГuГЛГuГЛБIБI@Б@ЙЈУxВ№В≈НƒМїВµВ»В≠ВƒВҐВҐВЅВƒВћВ…БHБIБv@
 ;БuВ≥БAК¶ВҐВ°ВҐВҐВҐВ°ВҐВҐБIБIБIБv@
-`"”ва!`@` Ѕр-р-р-р!`@` ќб€зательно было воспроизводить температуру?!"`\
-`"’-хо-о-о-о-олодно!!!"`\
+`"Wah!`@` Brrrrr!`@` Was it really necessary to reproduce the temperature?!"`\
+`"Cooooooooooooooooooolllllllddddddddd!!!"`\
 
 
 
 ;bg "bmp\background\sbook\sakutaro09.bmp",0
 ;ld c,but_aseruA2,22
 ;БuВ®БAЙіВЌЙ§ОqЧlВЊВЉБI@Б@ТNВ©ЙЈВ©ВҐПгТЕВрОЭВЅВƒЧИВƒВљВаВкБ[БIБI@Б@ГNГ\ГbБAВ±ВћРжВћЛrЦ{ВЌВ«В§В»ВЅВƒВйВсВЊБHБIБv\
-`"я...€ принц или как?!`@` ѕринесите мне тЄплое пальто!`@` „Єрт, так что сейчас происходит по сценарию?!"`\
+`"I'm the prince, aren't I?!`@` Somebody bring me a warm coat!!`@` Dammit, so what's happening in the script now?!"`\
 
 ;ld l,sha_komaruA1,23
 
@@ -5671,11 +5671,11 @@ bg "bmp\background\sbook\sakutaro06.bmp",22
 bg black,22
 
 ;БuВїБAВїВкВ™БcБcБB@УАВ¶ВƒОАВ…К|В©ВЅВљЙ§ОqВ…БA@/
-`"ѕ-посмотрим...`@` Ќ-на принца, который чуть на замЄрз до смерти,`@/
+`"L-let's see...`@`The prince, who was on the verge of freezing to death,`@/
 ;se1 38
 ;bg blood_1a,22
 ;БcБcРбТjВ™ПPВҐК|В©ВЅВƒВЂВƒБAНУВҐЦЏВ…В∆БcБcБBБv\
-` ...напал йети, и он встретил страшный конец..."`\
+` ...was attacked by a yeti, and met a terrible fate..."`\
 
 
 bg "bmp\background\sbook\sakutaro08.bmp",26
@@ -5688,21 +5688,21 @@ quakey 2,200
 me3v 17,70
 
 ;БuВ№БEВљБEВ©БHБIБHБI@/
-`"—Ќќ¬ј?!?!`@/
+`"AGAIN?!?!`@/
 ld c,but_aseruA3,80
 ;Б@ОйОuНБГ@ВЯВ†В†ВЯБAВ®СOВЌЙ§ОqВ…ЙљВ©Н¶ВЁВ≈ВаВ†ВйВћВ©ГbБIБIБv@
-` ƒжессика-а-а-а-а! “ы что, затаила на принцев какую-то обиду?!!"`\
+` Jessicaaaaaaaa! Do you have some kind of grudge against princes or something?!!"`\
 
 ld r,jes_atyaA3,24
 
 ;БuВҐБAВҐВвВїВћБI@Б@БcБcГTГNВ…В–В«ВҐОdОЦЙЯВµХtВѓВзВкВƒБAГNГ\Б`В±ВћЦмШYБ`ВЅВƒОvВЅВƒБAВ«В§ВаГTГNВ™Й§ОqЦрВзВµВҐВЅВƒХЈВҐВƒБA@ВїВћВ†ВћБAБcБcВҐВЅВ–ВЅВ–Б`БIБv\
-`"Ќ-нет, €, э-э!`@` ...—аку переложила на мен€ эту ужасную работу, так что € разозлилась на неЄ, а потом услышала, что она собираетс€ играть принца,`@` ну и пошло-поехало...ихи-хи~!"`\
+`"N-no, I, you see!`@` ...Saku was the one who pushed this awful job to me, so I was pissed off at her.`@` And then I heard that she was gonna play the role of the prince,`@` so, yeah, um, ...ihihi!~"`\
 
 ;E_MA
 bg black,1
 
 ;БwГEГSГKБ[Б[Б[Б[Б[Б[Б[Б[Б[Б[Б[БIБIБIБIБx/
-`[–-р-ра-а-а-а-а-а-а-а-а-ар-р!!!]`/
+`"Rrrrrooooooooaaaaaaaaaarrrrr!!!!"`/
 
 E_A
 
@@ -5717,7 +5717,7 @@ bg "bmp\background\sbook\sakutaro06.bmp",1
 quakex 3,200
 
 ;БuВ§ВђВбБ[ГbБAРбТjВЊБ[Б[Б[БIБIБv\
-`"”гь€-а-а-а-а, йети-и-и-и-и!!!"`\
+`"Ugyaaaaa, it's the yetiiiii!!!"`\
 
 
 ;bgm1 86
@@ -5728,27 +5728,27 @@ se2 20
 quakey 3,200
 
 ;Б@ГuГУГuГУБIБI@Б@РбТjВ™КџСЊВћВжВ§В»ЛРСеЮЮЦ_ВрГuГУГuГУРUВиЙсВЈБIБI@
-` *бум*бум*!`@` …ети с треском качнул огромным молотом размером с бревно!`\
+` *boom, boom*!!!`@` With a crash, the yeti swung an enormous club the size of a log!`\
 
 ;wait 300
 ;bg "bmp\background\sbook\sakutaro08.bmp",0
 ;ld c,jes_ikariA1,22
 
 ;Б@В§ВнБ[БAРнРlБ[ГbБAКлВ»ВЯВ†В†В†В†ВҐБIБIБI@
-` ”ва, осторо-о-о-о-о-ожно!!!`\
+` Uwa, be carefuuuuuuuuul!!!`\
 
 ;wait 300
 ;ld c,jes_atyaA2,80
 
 ;Б@ВЅВ∆БAХрСRВ∆ВµВƒВйПкНЗВґВбВ»ВҐВЇБAГVГiГКГIПCР≥БIБI\
-` —топ, не врем€ таращитьс€ в шоке! Ќужно пересмотреть сценарий!`\
+` Wait, this is no time to stand around looking surprised! Gotta revise the script!`\
 
 
 se1 59
 ;se1 4
 ;#CC3366
 ;БuРбТjВЌУЋСRБAЙьРSВµВƒБAЙ§ОqВљВњВ∆ЧFТBВ…В»ВйБIБIБv\
-`"#CC3366…ети вдруг передумал и подружилс€ с принцем и его людьми!#ffffff"`\
+`"#ff0000Suddenly, the yeti mended its ways, and befriended the prince and his men!#ffffff"`\
 ;#ffffff
 ;cl c,1
 
@@ -5760,7 +5760,7 @@ ld l,but_odorokiA2,22
 quakey 2,500
 
 ;БwГEГSБ[Б[Б[Б[Б[Б[БIБIБI/
-`[–о-о-о-о-о-а-а-а-а-а!!!`/
+`"Roaaaaaaaaa...`/
 
 ;ld l,but_aseruA2,22
 ;quakey 2,500
@@ -5771,12 +5771,12 @@ se1 47
 ` ...?!`@/
 bgm1 92
 ;Б@БcБcГEГzГbБA/
-` ...*кха*`/
+` ...*cough*`/
 
 quakex 2,200
 
 ;ГEГzГbБIБIБx/
-`кха*!]`/
+`cough*!"`/
 
 quakex 2,200\
 
@@ -5784,15 +5784,15 @@ ld r,sha_waraiA3,24
 ;ld r,sha_odorokiA1,80
 
 ;БuЧ«В©ВЅВљБcБcБB@КлВ»В©ВЅВљВ≈ВЈВЋБcБcБBБv@
-`"—лава богу...`@` ≈щЄ бы немного..."`@
+`"Thank goodness...`@` Wow, that was close..."`@
 
 ld l,but_komaruA1,80
 
 ;БuН°УxВЌВ±ВҐВ¬БAУйВкУйВкВµВ≠ВµЙяВђВЊВЇВЅБB@ФѓМ^ЧРВкВйВ©ВзБAВїВкИ»ПгБAХПВ≈ВйВ»ВЅБB@/
-`"Ќо теперь он как-то слишком дружелюбен.`@` Ёй, у мен€ на голове бардак, прекрати хлопать...`@/
+`"But now this guy's being too friendly.`@` Hey, my hair's gonna get messed up, so stop patting me on the head...`@/
 se1 48
 ;БcБcГoГiГiБH@Б@ВҐВзВЋВ•ВжБBВ¬Б[В©БAВїВкБAВ«В±В©ВзПoВµВљВсВЊВжВЅБBБv\
-`  ...Ѕанан?`@` Ќет, спасибо. ќткуда только ты его вз€л?"`\
+`  ...A banana?`@` No thanks. Where did you even get that from, anyway!?"`\
 
 se1 3
 cl l,24
@@ -5801,13 +5801,13 @@ wait 500
 ld r,sha_waraiA1,80
 
 ;БuВ®ПмЧlБB@В≥ВзВ…ПСВЂСЂВµВƒБAРбТjВ≥ВсВ…УєИƒУаВрВµВƒВаВзВҐВ№ВµВеВ§БBБv@
-`"ћиледи.`@` ƒавайте напишем чуть больше и сделаем мистера йети нашим проводником."`\
+`"Milady.`@` Let's write a bit more and make Mr. Yeti our guide."`\
 
 ld l,jes_futekiA2,23
 ;ld l,jes_odorokiA1,80
 
 ;БuВїВ§ВЊВ»БcБB@СБВ≠БAВ±В±В©ВзВ®В≥ВзВќВµВЋВ•В∆БAОДВљВњВЌОOРlБAГJГLХXВ…В»ВЅВњВ№В§ВЇБcБIБv\
-`"’ороша€ иде€...`@` ћы станем эскимо, если скорее не выберемс€ отсюда!.."`\
+`"Good idea...`@` If we don't hurry up and get out of here, we're gonna end up as popsicles!.."`\
 
 
 ;ld r,sha_waraiA3,80
@@ -5824,10 +5824,10 @@ fede 0,1000
 E_A
 
 ;Б@В±В§ВµВƒБB@
-` » так...`\
+` And so...`\
 
 ;Б@РбТjВ∆ЧFТBВ…В»ВЅВљЙ§ОqИкНsВЌБAРбТjВ…ИƒУаВµВƒВаВзВЅВƒБAЦ≥ОЦВ…РбНСВрФ≤ВѓВљВћВ≈ВµВљБcБcБB\
-` ѕринц и его люди, подружившиес€ с йети, благополучно выбрались из заснеженной сельской местности...`\
+` The prince and his men, having befriended the yeti, were guided safely out of the snowy countryside...`\
 
 ;E_A
 se1v 1010,50
@@ -5838,7 +5838,7 @@ wait 500
 bgm1 126
 
 ;Б@ОЯВ»ВйУпПКВЌБAО№ФMВћГ}ГOГ}В™ОѕВ¶ВљВђВйЙќОRТnС—БcБcБB\
-` —ледующим местом была вулканическа€ пропасть с кип€щей магмой...`\
+` The next rough spot was a volcanic region covered with boiling magma...`\
 
 ;me1v 20,70
 bg tower3,22
@@ -5848,13 +5848,13 @@ se1 13
 quakey 2,200
 
 ;БuВ«БAВ«В§ВҐВ§ГVГiГКГIВЊВжБIБI@Б@В±ВкБAВ«В§ВвВЅВƒХґЙїН’В≈ПгЙЙВЈВйВсВЊВжБHБIБv@
-`"ƒ-да что это за адский сценарий!`@`  ак ты планировала разыграть такое на культурном фестивале?!"`\
+`"W-what kind of a hellish scenario is this?!`@` How were you planning to perform this at a culture festival?!"`\
 
 ;ld r,jes_komaruA1,24
 ld r,jes_atyaA2,24
 
 ;БuВїВсВ»ВћТmВзВЋВ•ВЇБIБI@Б@ЙЙМАХФВћСеУєЛпТSУЦВ…ХЈВҐВƒВ≠ВкБIБIБv\
-`"ј € почЄм знаю!`@` —проси того, кто отвечает за пейзаж!"`\
+`"I have no idea!`@` I'm not in charge of the scenery!"`\
 
 ;mbg black,22
 
@@ -5866,7 +5866,7 @@ locate 0,5
 bg "bmp\background\sbook\pen.bmp",23
 
 ;БuВїВµВƒЙќОRТnС—В≈ВЌБAЛРСеВ»ЧГВрОЭВ¬Ч≥В™БAЙќВрХђВЂВ»В™ВзПPВЅВƒВЂВ№ВµВљБcБcБBБv\
-`"¬ вулканической местности на них, изверга€ плам€ изо рта, напал дракон с огромными крыль€ми..."`\
+`"And in the volcanic region, a dragon with massive wings attacked them, breathing flames from its mouth..."`\
 
 
 se1v 34,90
@@ -5883,7 +5883,7 @@ ld r,jes_ikariA1,26
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 
 ;БuБuВ§ВђВбБ[Б[Б[Б[Б[Б[Б[БIБIБIБIБvБv/
-`""”гь€-а-а-а-а-а-а-а-а!!!""`/
+`""Ugyaaaaaaaaaaaaaaa!!!""`/
 
 ld c,but_sakebuA2,0
 ld r,jes_nakuA3,1
@@ -5901,7 +5901,7 @@ se1v 2,100
 bg Well_1aN,2
 
 ;БuВїВµВƒОфВнВкВљХжТnВ≈ВЌБAЦ≥РФВћГ]ГУГrВљВњВ™ПPВЅВƒВЂВ№ВµВљБcБcБBБv@
-`"ј на прокл€том кладбище на них набросилось множество зомби..."`\
+`"And in the cursed graveyard, they were attacked by a countless number of zombies..."`\
 ;me1v 18,100
 ;wait 100
 ;me2v 18,100
@@ -5913,7 +5913,7 @@ ld c,but_odorokiA2,0
 ld l,jes_ikariA1,26
 
 ;БuБuВђВеВнВнБ[Б[Б[Б[Б[Б[БIБIБIБIБvБv/
-`""√ь€-ва-ва-а-а-а-а-а-а-а-а!!!""`/
+`""Ugyaaaaaaaaaaaaaaa!!!""`/
 
 ld c,but_nakuA1,0
 ld l,jes_nakuA1,1
@@ -5927,7 +5927,7 @@ se1v 2,100
 bg Hill_1cN,2
 
 ;БuТnНЦВћНїФЩВ≈ВЌБAЛРСеВ»У≈ГTГ\ГКВ™БAВїВћРKФцВрРUВиПгВ∞БcБcБBБv@
-`"¬ адских пустын€х высоко подн€л свой хвост гигантский €довитый скорпион..."`\
+`"In the deserts of hell, a giant poisonous scorpion raised its tail high..."`\
 
 se1 20
 wait 200
@@ -5943,7 +5943,7 @@ ld l,but_odorokiA2,0
 ld r,jes_ikariA1,26
 
 ;БuБuВ«В–В•В¶В¶В¶Б[Б[Б[Б[БIБIБIБIБvБv/
-`""»хи-и-и-и-и-и-и-и-и-и!!!""`/
+`""Ugyaaaaaaaaaaaaaaa!!!""`/
 
 ld l,but_sakebuA2,0
 ld r,jes_nakuA3,1
@@ -5956,7 +5956,7 @@ se1v 2,100
 bg Sub_P2a,22
 
 ;БuИЂЦВВћПјВ≈ВЌБAЛzММГqГЛВљВњВћМQВ™БAОЯБXВ…МїВкБcБcБBБv@
-`"¬ дь€вольском болоте одна за другой нападают полчище кровососущих пи€вок..."`\
+`"In the demons' swamp, hordes of bloodsucking leeches attacked, one after the other..."`\
 
 se3v 45,85
 ;fede 10,1800
@@ -5964,7 +5964,7 @@ se3v 45,85
 ld c,but_aseruA3,26
 
 ;БuВаВ§ВҐВҐЙЅМЄВ…ВµВлБ[Б[БIБIБIБIБv/
-`"ќ боже мо-о-о-о-о-о-ой!!!"`/
+`"Oh, come on already!!!"`/
 
 quakey 4,1000\
 
@@ -5977,13 +5977,14 @@ bg "bmp\background\sbook\sakutaro03.bmp",24
 ld l,sha_odorokiA2,23
 
 ;БuВ®ПмЧlГbБAСБВ≠БIБIБv@
-`"ћиледи, скорее!"`\
+`"Milady, hurry!"`\
 ;br
 ;ld c,jes_atyaA2,22
 ld c,jes_ikariA1,26
 
+se1 59
 ;БuВЊБAВЊВѓВкВ«ВаБAЙ§ОqВљВњВЌЦВЦ@ВћГoГКГДБ[В≈ОзВзВкБAЦ≥ОЦВ»ВћВ≈ВµВљВЅБA@/
-`"Ќ-но принца и его людей защитил магический барьер, и они остались целы и невредимы...`@/
+`"#ff0000But the prince and his men were protected by a magical barrier, and remained unharmed...#ffffff`@/
 
 textoff
 se1 57
@@ -6003,7 +6004,7 @@ ld c,jes_ikariA3,0
 ld l,sha_komaruA1,80
 
 ;В∆БcБcБBБcБcВЌВЯВЌВЯБIБv@
-` ¬от так... *фух*фух*!"`\
+` There... *huff*puff*!"`\
 
 me1v 5,50
 
@@ -6011,7 +6012,7 @@ ld r,but_aseruA2,26
 ld r,but_aseruA4,80
 
 ;БuВ№БAВ№ВљВµВƒВаКлЛ@ИкФѓБcБcБB@ВаВ§БAБcБcГwГgГwГgВЊВЇБcБcБBБv\
-`"—-снова едва успели в последнюю секунду...`@` „Єрт, ...€ выдохс€..."`\
+`"B-barely made it at the last second again...`@` Geez, ...I'm wiped out..."`\
 
 cl a,5
 se1v 13,50
@@ -6020,7 +6021,7 @@ quakey 2,200
 
 ;br
 ;Б@Й§ОqИкНsВљВњВЌБAРФБXВћУпПКВрМoВƒБAВаВ§ГwГgГwГgВ≈ВЈБB\
-` ѕринц и его люди перетерпели множество трудностей и вымотались.`\
+` The prince and his men had suffered many hardships, and were now wiped out.`\
 
 wait 500
 se1v 1010,50
@@ -6037,9 +6038,9 @@ locate 0,5
 ;me1 5
 ;Б@ВїВµВƒХССдВЌНƒВ—ГWГГГУГOГЛВ÷БcБcБB@
 ;Б@ЯTСУВ∆ЦќВЅВљБAФMС—РAХ®ВћЦќВЁВрС~ВЂХ™ВѓВйВ∆БcБcБB\
-` “еперь сцена снова стала джунгл€ми...`@
+` And now the stage had returned once again to the jungle...`@
 br
-` » когда они пробрались через густые заросли тропических растений...`\
+` When they managed to push their way through the dense thickets of tropical plants...`\
 
 
 bg tower4,22
@@ -6050,7 +6051,7 @@ mbg white,1
 mcbg 22
 setwindow 40,319,26,17,21,21,0,2,20,1,1,msgwnd,20,274
 ;БuВ∆БAУГВЊБI@Б@В¬ВҐВ…В®ХPЧlВћУГВ…ТHВиТЕВҐВљВЉБIБIБv\
-`"Ѕ-башн€!`@` ћы наконец-то дошли до башни принцессы!"`\
+`"The tower!`@` We f-finally made it to the princess' tower!"`\
 
 bg black,22
 
@@ -6061,7 +6062,7 @@ ld r,sha_waraiA2,24
 ;ld r,sha_waraiA2,80
 
 ;БuВвБAВвВЅВ∆ОДВ™В®ХPЧlЦрВрПoЧИВйВсВ≈ВЈВЋБcБIБv@
-`"«-значит, мне наконец пора сыграть принцессу!.."`\
+`"T-then, I can finally play the princess!.."`\
 ;/
 
 ;wait 1000@
@@ -6070,7 +6071,7 @@ ld c,jes_atyaA2,24
 ;silent 3,1
 
 ;БuВїВкВжВиКmВ©БAН≈Л≠Н≈ИЂВћСеЦВЦ@ОgВҐВ™МїВкВƒБAН≈МгВћЛ≠УGВ∆ВµВƒЧІВњН«В™ВйВЌВЄБcБcБIБv\
-`"Ќо перед этим, если € правильно помню, по€витс€ самый сильный и страшный колдун, и он будет последним врагом на нашем пути!.."`\
+`"But before that, if I remember correctly, the strongest and most terrible sorcerer is going to appear, and he'll be the final enemy standing in our way!.."`\
 
 bg black,22
 
@@ -6101,12 +6102,12 @@ csp bgsp
 print 2
 ;
 ;Б@УГВћУVХ”В…РlЙeВ™БB@
-` Ќа вершине башни виднелась человеческа€ фигура.`\
+` At the summit of the tower, there was a human figure.`\
 
 ;Б@СеВЂВ»ОљНХВћГ}ГУГgВрВ»В—В©ВєБAМ©ВйВ©ВзВ…К—Ш\В†ВйГVГЛГGГbГgВрМ©ВєХtВѓВƒВҐВ№ВЈБB@
 ;Б@ФёВ±ВїВЌБAБcБcВ®ХPЧlВрВ≥ВзВҐБAУГВ…Х¬ВґНЮВяВљБAН≈Л≠Н≈ИЂВћСеЦВЦ@ОgВҐБcБcБB\
-` ќн выгл€дел весьма внушительно и был в большой чЄрной накидке.`\
-` Ќесомненно, ...это тот, кто похитил принцессу и запер еЄ в башне. —амый сильный и страшный колдун...`\
+` He was wearing a large, jet-black cloak, and his silhouette had an imposing presence.`\
+` This was surely the one who had kidnapped the princess and locked her in the tower, the strongest and most terrible sorcerer...`\
 
 
 ld l,but_majimeA2,23
@@ -6117,7 +6118,7 @@ mbg white,1
 ld l,but_majimeB4,0
 mcbg 80
 ;БuВвВкБAОйОuНББIБIБv@
-`"ƒавай, ƒжессика!"`\
+`"Go, Jessica!"`\
 
 ;ld r,jes_atyaA2,24
 ld r,jes_futekiA2,24
@@ -6128,10 +6129,12 @@ se1 4
 quakey 2,200
 
 ;БuВаВ§БAКµВкВƒВйВЇБIБI@Б@БcБcСеЦВЦ@ОgВҐВЌБAВ–ВзВиВ∆ФтВ—Н~ВиБI/
-`"я уже натренировалась!`@` ...¬еликий колдун ловко спрыгнул с башни!`/
+`"I've got the hang of this now!"`\
+
+se1 59
+`#ff0000The great sorcerer leapt nimbly from the tower,...`/
 ;#ffffff
 ;Бv@
-`"`\
 
 se1 57
 mbg white,1
@@ -6148,20 +6151,20 @@ mbg white,1
 bg black,0
 mcbg 22
 se1 3
+se1 59
 ;Б@СеЦВЦ@ОgВҐВЌБAЙ§ОqВљВњЦЏК|ВѓВƒБAВ–ВзВиВ∆ФтВ—Н~ВиВ№ВЈБB\
-` ¬еликий колдун ловко спрыгнул с башни, устремившись к принцу и его люд€м.`\
+` ...directing his fall toward the prince and his men.`\
 
 se2 57
 mbg white,1
 mcbg 22
 ;Бu/
-`"`/
 ;#CC3366
+se1 59
 ;ВїВµВƒВїВћВ№В№ТnЦ В…МГУЋВµВƒОАЦSГbБIБIБI/
-`#CC3366» ни с того ни с сего он упал на землю и умер!!!#ffffff`/
+`And just like that, he crashed to the ground and died!#ffffff`\
 ;#ffffff
 ;Бv@
-`"`\
 
 ;bg tower4,65
 se1 12
@@ -6171,7 +6174,7 @@ bg blood_1ar,1
 quakey 4,600
 
 ;Б@ВїВµВƒВїВћВ№В№БAТnЦ В…МГУЋВµВƒБAОАВсВ≈ВµВ№ВҐВ№ВµВљБcБcБB\
-` » ни с того ни с сего он упал на землю и умер...`\
+` "And just like that, he crashed to the ground and died..."?!`\
 
 ;E_A
 ;wait 1000
@@ -6179,13 +6182,13 @@ quakey 4,600
 bg black,22
 se1 37
 ;БuВ‘ВнВЅВЌВЅВЌВЅВЌВЅВЌВЅВЌБIБI@Б@ЙљВїВкЙљВїВкБAПќВ¶ВйГDБ`БA/
-`"Ѕва-ха-ха-ха-ха!`@` „то за бред, не могу, так ве-есело,`/
+`"Bwahahahahahaha!`@` What the hell, what the hell, that's hilarious,`/
 ;
 ;se1 37
 ;quakey 3,200
 ;
 ;В†Б[В–ВбВЅВ–ВбВЅВ–ВбВЅВ–ВбБIБIБv\
-` ахь€-хь€-хь€-хь€!"`\
+` ahyahyahyahya!"`\
 
 fede 0,1000
 E_A
@@ -6196,19 +6199,19 @@ ld c,lam_akuwaraiA1,22
 bgm1 176
 
 ;Б@ВҐВ¬ВћК‘В…В©ГЙГАГ_ГfГЛГ^В™ВҐВƒБAВ®Х†ВрХшВ¶ВƒВ∞ВзВ∞ВзПќВЅВƒВҐВљБB\
-` ¬друг по€вилась Ћ€мбдадельта, держась за живот и громко сме€сь.`\
+` Lambdadelta had appeared when we weren't looking, and was clutching her stomach and laughing uproariously.`\
 
 
 ld c,lam_akuwaraiA4,80
 
 ;БuВ≥ВЯБAВ±ВкВ≈В±ВћТњУєТЖВаВ®ВµВ№ВҐВЋБB@ВҐВжВҐВжБAКіУЃВћГtГBГiБ[ГМВ÷БIБv@
-`"Ќа этом ваше сложное путешествие, кажетс€, подходит к концу?`@` Ќу что, пришло врем€ эмоционального финала!"`\
+`"But that's the end of your trouble-filled journey, huh?`@`Okay, time for the emotional finale!"`\
 
 ld r,but_defA1,24
 ;ld r,but_defA1,80
 
 ;БuМЊВнВкВ»В≠ВƒВаВїВ§ВЈВйВЇБI@Б@О—ЙєВњВбВсВЌВ®ХPЧlЦрБI@Б@ГiГМБ[ГVГЗГУВЌОйОuНБВ™ЧКВёВЇБIБv\
-`"ћогла бы и не говорить!`@` Ўанон, ты принцесса!`@` ƒжессика, читай!"`\
+`"We don't need you to tell us that!`@` Shannon, you're the princess now!`@` Jessica, take care of the narration!"`\
 
 
 cl c,24
@@ -6216,13 +6219,13 @@ ld l,sha_hajiraiA2,23
 ld l,sha_hajiraiA3,80
 
 ;БuВќБAБcБcРнРlВ≥ВсБBБv@
-`"Ѕа-...Ѕаттлер."`@
+`"Ba-battler..."`@
 
 cl r,0
 ld c,but_futekiA1,24
 
 ;БuБcБcН°ВЌЙ§ОqЧlВЊВЇБBБv\
-`"...я сейчас принц."`\
+`"...I'm the prince right now."`\
 
 
 ;cl r,0
@@ -6248,8 +6251,8 @@ mcbg 22
 
 ;БuЦ{УЦВЌГ`ГЕБ[ВрВЈВйЧ\ТиВ≈ВµВљВ™БAХsМТСSВ»ВћВ≈ГJГbГgВ…В»ВиБAУсРlВЌНKВєВ…ХйВзВµВ№ВµВљВ∆В≥БB@/
 ;ВяВ≈ВљВµВяВ≈ВљВµБBБv@
-`"≈сли честно, изначально на этом месте предполагалс€ поцелуй, но € посчитала его непристойным, поэтому обрезала эту часть и просто позволила им жить долго и счастливо.`@/
-` ¬сЄ хорошо, что хорошо кончаетс€."`\
+`"To be honest, there was originally supposed to be a kiss here, but I figured it'd be lewd, so I cut it and just had them live happily ever after...`@/
+` All's well that ends well, right?"`\
 
 
 se1 57
@@ -6259,13 +6262,13 @@ mcbg 22
 ;ld l,lam_majimeA1,80
 
 ;БuВ¶Б[БAЙљВжВ£БB@РнРlВ∆О—ЙєВћГLГXГVБ[ГУБAМ©ВљВ©ВЅВљВћВ…Б`БB@БcБcВ№ВЯВҐВҐВнБB@ГIГ`В™Ц ФТВҐВћВЌВ±ВкВ©ВзВЊВµБBБv\
-`"Ё-э-э, почему?`@` я хотела увидеть сцену поцелу€ Ѕаттлера и Ўанон~`@` ...Ќу, так или иначе~`@` ƒальше всЄ равно идЄт весЄла€ кульминаци€."`\
+`"Ehhh, come on!`@` I wanted to see Battler's and Shannon's kissing scene~`@` ...Oh, well, whatever~`@` That funny punchline is coming up next anyway."`\
 
 
 ld r,jes_komaruA1,80
 
 ;БuГIГ`БH@Б@ГIГ`В»ВсВ©ВЋВ•ВЇБH@Б@В±ВкВ≈ВаВ§БAХ®МкВЌВ®ВµВ№ВҐВЊВЇБcБHБv\
-`" ульминаци€?`@` Ќет никакой кульминации.`@` »стори€ уже закончена, видишь?.."`\
+`"What punchline?`@` There was none.`@` This is the ending already, you see?.."`\
 
 
 bg black,22
@@ -6278,12 +6281,12 @@ bg "bmp\background\sbook\pen.bmp",22
 me1v 16,50
 
 ;Б@ОйОuНБВћЛrЦ{ВЌБAКmВ©В…ВїВ±В≈ПIВнВЅВƒВҐВйБB@
-` ¬ерно. Ќа этом сценарий ƒжессики заканчивалс€.`\
+` It was true. Jessica's script had ended there.`\
 
 ;Б@ГIГ`В»В«В»ВҐБB@Й§ОqВЌВ®ХPЧlВрПХВѓПoВµБAГnГbГsБ[ГGГУГhБB@БcБcВћВЌВЄБB@
 ;Б@В»ВћВ…БAГЙГАГ_ГfГЛГ^ВЌРгВ»ВяВЄВиВрВЈВйВ∆БAЧвНУВїВ§В…БAВ…ВљВиВ∆ПќВ§БB\
-`  ульминации не было.`@` ѕринц спас принцессу, счастливый конец.`@`  ...¬роде как.`\
-` Ќо Ћ€мбдадельта всЄ равно облизала губы и холодно усмехнулась.`\
+` There was no punchline intended.`@` The prince rescued the princess, happy end.`@`  ...As far as I remember it, anyway.`\
+` And yet, Lambdadelta licked her lips, and gave them a cold smirk.`\
 
 
 bg black,22
@@ -6293,12 +6296,12 @@ ld l,lam_futekiA2,22
 ld r,but_odorokiA1,24
 
 ;БuБcБcВ±ВкВ≈ПIВнВиВЊВлБAГЙГАГ_ГfГЛГ^БI@Б@ЙіВљВњВрЙрХъВµВлБIБv@
-`"...¬сЄ кончено, Ћ€мбдадельта!`@` ¬ыпусти нас отсюда!"`\
+`"...It's over, Lambdadelta!`@` Let us go already!"`\
 
 ld l,lam_akuwaraiA3,80
 
 ;БuОДВаВЋБH@Б@ВїВ§ВµВƒВ†В∞ВљВҐВћВжБH@Б@БcБcБcВ≈ВаВЋБB@В№ВЊБAГIГ`В™С“ВЅВƒВйВћВжВЋВ•БBБv\
-`"«наешь что,`@` € бы тоже этого очень хотела.`@`  ...Ќо вас ещЄ ждЄт кульминаци€."`\
+`"You know,`@` I'd love to.`@` ...But the punchline is still waiting for you."`\
 
 E_A
 bgm1 171
@@ -6306,13 +6309,13 @@ bgm1 171
 ld r,but_odorokiA3,80
 
 ;БuГIГ`БcБcБAВЊВ∆БcБcБHБv\
-`" у-...кульминаци€?.."`\
+`"A punchline?!.."`\
 ;me1v 18,40
 
 ld l,lam_futekiA1,80
 
 ;БuВ¶В•БAВїВ§ВжБB@ГIБEГ`БB@БcБcВїВкВ™ЛCВ…УьВЅВљВ©ВзВ±ВїБAВ±ВћЛrЦ{В…ЦВЦ@ВрЧ^В¶ВљВсВЊВ©ВзБB@ВЋВ•БAГxГЛГУБAМ©ВƒВйВ£БHБI@Б@Ц ФТВ≠В»ВйВћВЌВ±В±В©ВзВжБIБIБv\
-`"ƒа, верно.`@`  уль-ми-на-ци€.`@`  ...я наделила этот сценарий магией лишь потому, что он мен€ заинтересовал.`@` Ёй, Ѕерн, ты наблюдаешь?!`@` ¬от-вот начнЄтс€ самое интересное!"`\
+`"Yes, that's correct.`@` A pu-n-ch-line.`@`  ...The whole reason I gave this script magic was because "that part" caught my interest.`@` Hey, Bern, are you watching?!`@` The good bit's about to start!"`\
 
 ;;mevol 1,20
 bg black,22
@@ -6322,47 +6325,47 @@ ld c,ber_defA1,0
 print 99,2000,"breakup.dll/Irp"
 
 ;Б@ЛХЛуВ…ГxГЛГУГJГXГeГЛВ™БAМЗРLВрВµВ»В™ВзОpВрМїВЈБB\
-` ¬ воздухе по€вилс€ зевающий силуэт Ѕернкастель.`\
+` Bernkastel's figure appeared floating in the air, still in the middle of a yawn.`\
 
 
 ld c,ber_defA2,80
 
 ;БuМ©ВƒВљВнВжБB@В±ВћСёЛьВ»В®О≈ЛПВрБAВЄВ§ВЅВ∆ВЋБB@БcБcБcВ≈БH@Б@ОДВрЦ ФТВ™ВзВєВйГЙГXГgВЌБAЦ{УЦВ…В†ВйВсВ≈ВµВеВ§ВЋБcБHБv@
-`"я наблюдала.`@` —кучна€ постановка.`@`  ...»?`@` Ќеужели у неЄ и вправду есть конец, который мен€ развлечЄт?.."`\
+`"Yeah, I've been watching it.`@` Such a boring play.`@`  ...So?`@` Does this thing really have an entertaining ending?.."`\
 ;ld r,lam_futekiA2,24
 ld r,lam_akuwaraiA4,22
 
 ;БuВ¶В•БAВаВњВлВсВжБB@ОДВ™ХџПЎВЈВйВнБBБv\
-`"ƒа, разумеетс€.`@` √арантирую."`\
+`"Yes, certainly.`@` I guarantee it."`\
 
 
 ;ld c,ber_waraiA4,22
 ld c,ber_waraiA4,80
 
 ;БuБcБcБcВ±ВћГxГЛГУГJГXГeГЛВћБB@БcБcЦ∞ЛCВрКoВ№ВЈТцУxВ…ВЌБAОhМГУIВ»ВсВ≈ВµВеВ§ВЋБHБv@
-`"......ќн достаточно забавен, чтобы...`@`прогнать мою сонливость?"`\
+`"...It's amusing enough...`@` to blow away even my boredom?"`\
 
 ld r,lam_akuwaraiA3,80
 
 ;БuВ≠ВЈВ≠ВЈВ≠ВЈБB@ВаВњВлВсВжБAГxГЛГУБ`БB@БcБcБcОhМГУIВ»ГNГЙГCГ}ГbГNГXВ™БAН°В©ВзОnВ№ВйВнБBБv\
-`"*хи-хи*хи-хи*хи-хи*.`@` ƒа, Ѕерн~`@` ......¬есЄла€ кульминаци€ вот-вот начнЄтс€."`\
+`"*giggle, giggle, giggle*.`@` Yes, Bern~`@` ...The stimulating climax is just about to start."`\
 
 ld l,jes_komaruA1,23
 ;ld l,jes_ikariA1,80
 ;se1 11
 
 ;БuБcБcВ®В§В®В§БB@В®ШbТЖВЈВ№ВЋВ•ВѓВ«ВжБB@БcБcОДВћЛrЦ{ВЌВ±ВкВ≈Ц{УЦВ…В®ВµВ№ВҐВЊВЇБB@ГNГЙГCГ}ГbГNГXВ»ВсВƒБAВ«В±В…ВаПСВҐВƒВЋВ•ВЇБB@/
-`"...Oу.`@` »звините, что прерываю, но...`@`мой сценарий на этом закончен.`@` Ќигде не написана кульминаци€.`@/
+`"...Um.`@` I'm sorry to interrupt you two, but...`@` my script is over.`@` There are no punchlines anywhere.`@/
 ;se1 11
 ;ВўВзВЅБBБv\
-` ¬идите?"`\
+` Here, look."`\
 
 
 ld r,lam_futekiA2,0
 ld c,ber_akuwaraiA4,80
 
 ;БuВ≠ВЈВ≠ВЈВ≠ВЈВ≠ВЈБBБv@
-`"*хи-хи*хи-хи*хи-хи*хи-хи*."`\
+`"*giggle, giggle, giggle, giggle*."`\
 
 ld r,lam_akuwaraiA6,0
 ld c,ber_akuwaraiA1,80
@@ -6371,10 +6374,10 @@ wait 100
 se2 37
 
 ;БuВ†ВЅВЌВЌВЌВЅВЌВЅВЌВЅВЌВЌВЌВЌВЌВЌВЌВЌВЌБIБIБIБv@
-`"јха-ха-ха-ха-ха-ха-ха-ха-ха-ха-ха!!!"`\
+`"Ahahahahhahahahhahahahhahahhahahahahahhahahaha!!!"`\
 
 ;Б@РвСќВ∆КпР’ВћЦВПЧВ™БAО„ИЂВ»УµВ≈ПќВҐУ]В∞ВйБB\
-` ¬едьм абсолюта и чудес со злом в глазах перекосило от смеха.`\
+` With an evil look in their eyes, the Witches of Certainty and Miracles convulsed with laughter.`\
 
 E_A
 se1v 61,100
@@ -6392,11 +6395,11 @@ se3v 60,90
 quake 3,300
 
 ;Б@ВїВћОЮБAСеТnВ™ЧhВкВƒВ–В—КДВкВљБB@/
-` «емл€ вдруг вздрогнула и треснула. `@/
+` At that moment, the earth shuddered and cracked open. `@/
 se1v 66,100
 bgm1 152
 ;БcБcЙљВЊГbБAСеТnРkБHБIБHБI@
-` ...„то?! «емлетр€сение?!?!`\
+` ...What the?! An earthquake?!`\
 
 se3v 65,80
 wait 100
@@ -6408,7 +6411,7 @@ quakey 4,500
 quakex 4,500
 
 ;Б@ГSГSГSГSГSБAГYГSГSГSГSГSГSГSГSБIБIБI\
-` *грохот*грохот*грохот*, *грохот*грохот*грохот*грохот*грохот*!!!`\
+` *rumble, rumble, rumble*, *rumble, rumble, rumble, rumble, rumble*!!!`\
 
 se1v 64,85
 
@@ -6420,15 +6423,15 @@ bg "bmp\background\sbook\sakutaro05.bmp",25
 quakey 3,300
 
 ;Б@УГВЌВ™ВзВ™ВзВ∆ХцВкЛОВиБAБcБcВїВµВƒВџВЅВ©ВиВ∆БAЛРСеВ»БAВ№ВйВ≈ЙќМыВћВжВ§В»МКВ™КJВ≠БB@
-` Ѕашн€ рухнула, ...оставив на своЄм месте зи€ющую дыру, похожую на кратер.`\
+` The tower collapsed, ...leaving in its place a gaping, crater-like hole.`\
 
 ;Б@БcБcЙљВЊВжБAВ±ВћМКВЌБI\
-` ...ќткуда она вз€лась?!`\
+` ...Where did that hole come from?!`\
 
 me1v 17,85
 
 ;Б@ВїВћТкВрМ©ВƒБA@БcБcИкУѓВЌРвЛеВЈВйБB@
-` ¬смотревшись в еЄ глубины,`@` ...все потер€ли дар речи.`\
+` When we looked into its depths,`@` ...all of us were struck speechless.`\
 
 E_B
 
@@ -6440,10 +6443,10 @@ se1v 34,70
 bgm1 153
 
 ;Б@ЪXВиВрПгВ∞ВйБAЛРСеВ»РщХЧБB@
-` ќгромна€, воюща€ бур€.`\
+` A vast, howling whirlwind.`\
 
 ;Б@ВҐВвБAБcБcРоХЧБcЛ@БcБcБcБH\
-` Ќет, ...электрический...вентил€тор?`\
+` Coming from a... electric fan?`\
 
 ;ld r,but_odorokiA2,0
 ;ld c,jes_atyaA2,22
@@ -6452,21 +6455,21 @@ bgm1 153
 me2v 5,70
 
 ;БuЙљВЊВ±ВиВбВЯВ†В†В†В†ВЯВ†В†БHБIБHБIБv@
-`"Ёто ещЄ что за чЄрт?!?!"`@
+`"What the hell is that?!?!"`@
 
 ;ld c,jes_atyaA2,22
 ;ld c,jes_ikariA1,80
 
 ;БuМКВћТкВ…БAЛРСеВ»РоХЧЛ@В™ВЃВйВЃВйЙсВЅВƒВйВЉБcБHБIБv\
-`"Ќа дне дыры вращаетс€ огромный вентил€тор?!.."`\
+`"There's a huge electric fan spinning away at the bottom of the hole?!.."`\
 
 bg different_spiral_1a,22
 bg different_spiral_1b,22
 ;Б@В™ВзВ™ВзВ∆МКВћТкВ…КвВ™ХцВкЧОВњВйУxВ…БAВїВкВЌТіНВСђВ≈ЙсУ]ВЈВйЛРСеРоХЧЛ@ВћГtГ@ГУВ…Н”В©ВкВƒХ≤БXВ…В»ВйБB@
-` ќгромный вентил€тор вращалс€ с неверо€тной скоростью, и каждый раз, когда скала осыпалась в глубины дыры, лопасти рвали еЄ на мелкие кусочки.`\
+` The enormous fan was rotating at an incredible speed, and every time a crag crumbled away in the depths of the hole, it was smashed up and reduced to tiny pieces by the blades.`\
 
 ;Б@ВїВкВЌБAЛРСеВ»ЛРСеВ»БAБcБcОEРlРоХЧЛ@ВЊВЅВљБIБI\
-` ќгромный, невообразимый, ...электрический вентил€тор-убийца!`\
+` It was a huge, enormous, ...killer electric fan!`\
 
 bg black,22
 ;bgm1 103
@@ -6475,7 +6478,7 @@ bg black,22
 ;ld l,sha_odorokiA2,23
 ;
 ;БuВ†ГbБAКлВ»ВҐБIБI@Б@ВЂВбБ[БIБIБIБv\
-`"Ѕ-берегитесь!`@`  ь€-а!!!"`\
+`"W-watch out!`@` Kyaah!"`\
 
 ;bg black,1
 bg "bmp\background\sbook\sakutaro05.bmp",28
@@ -6487,13 +6490,13 @@ wait 300
 
 ;Б@ТnКДВкВЌВ№ВЊВ№ВЊС±ВЂБAСSВƒВрРоХЧЛ@В…ИщВЁНЮВёВ©ВћВжВ§В…БAВ«ВсВ«ВсХцВкВƒМКВ™НLВ™ВЅВƒВҐВ≠БI@
 ;Б@СБВ≠У¶В∞В»ВҐВ∆БAБcБcОДВљВњВаМКВ…ИщВЁНЮВ№ВкВƒВµВ№В§БIБI\
-` «емл€ продолжала трескатьс€, и всЄ стало рушитьс€ в посто€нно расшир€ющуюс€ дыру, будто вентил€тор засасывал всЄ это!`\
-` ≈сли мы скорее отсюда не выберемс€, ...то в конечном итоге тоже упадЄм туда!`\
+` Cracks continued to open up in the earth, and everything began to collapse into the ever-widening hole, as if it were all being devoured by the fan!`\
+` If we didn't get out of there fast, ...we'd end up falling into that hole too!`\
 
 ld c,but_aseruA3,24
 
 ;БuВ±В±ВаХцВкВйВЉБI@Б@ОйОuНББAО—ЙєВњВбВсБI@Б@СЦВкГbБAСБВ≠БIБIБIБv\
-`"“ут всЄ рушитс€!`@` ƒжессика, Ўанон!`@` Ѕежим, быстрее!!!"`\
+`"Everything is crumbling away!`@` Jessica, Shannon!`@` Let's run for it, hurry!!!"`\
 
 ;ld l,sha_odorokiA1,63
 ;ld l,sha_komaruA1,23
@@ -6501,14 +6504,14 @@ ld l,sha_odorokiA1,23
 
 
 ;БuРнРlВ≥В№ГbБI@Б@КлВ»ВҐГbБIБIБv@
-`"√осподин Ѕаттлер!`@` ќсторожнее!!!"`\
+`"Master Battler!`@` Look out!!!"`\
 
 ld c,but_odorokiA2,80
 se1 12
 quakey 2,500
 
 ;БuВ§В®БHБI@/
-`"”ва?!`@/
+`"Uwah?!`@/
 ;cl c,25
 se1 27
 
@@ -6517,21 +6520,21 @@ cl c,1
 quakey 3,700
 bg black,25
 ;Б@В§ВнВЯВ†В†В†В†В†В†В†В†В†В†В†В†В†БIБIБIБv@
-` ј-а-а-а-а-а-а!!!"`\
+` Aaaaaaaaaaaaahhhhhh!!!"`\
 ;se3 27
 
 ;Б@В≥ВзВ…ТnЦ В™СеВЂВ≠КДВкБAРнРlВрИщВЁНЮВёБB\
-` «емл€ треснула шире, и Ѕаттлера поглотило.`\
+` The earth opened wider, and Battler was swallowed up.`\
 se1 13
 ;Б@ВїВћРнРlВћШrВрБAОЖИкПdВћВ∆В±ВлВ≈О—ЙєВ™ТЌВёВ™БAБcБcФёПЧВаМКВ…ИшВЂР†ВиНЮВ№ВкБAХ–ОиВ≈ВїВћЙПВ…В‘ВзВ≥В™ВЅВƒВµВ№В§БcБB\
-` Ўанон едва успела схватить его за руку, ...но еЄ тоже зат€нуло в дыру, оставив болтатьс€ на одной руке, держащейс€ за край...`\
+` Shannon just barely managed to grab hold of his arm, ...but she too was dragged into the hole, leaving her dangling by one arm from the edge...`\
 
 bg "bmp\background\sbook\sakutaro05.bmp",22
 
 ;ld r,jes_ikariA1,22
 
 ;БuРнРlВЯВ†В†БIБI@Б@О—ЙєВсВсВсВсБIБIБv\
-`"Ѕаттле-е-е-ер!!!`@` Ўано-о-о-он!!!"`\
+`"Battleeeer!!!`@` Shannooooon!!!"`\
 
 
 ;bg black,25
@@ -6544,34 +6547,34 @@ bg "bmp\background\sbook\fan2.bmp",22
 ;ld c,but_niramuA3,80
 
 ;БuБcБcВїБAВїВћОиВрЧ£ВµВƒБAПгВ…В†В™ВкБAО—ЙєВњВбВсБIБIБv@
-`"...ќ-отпусти мою руку и взбирайс€, Ўанон!"`@
+`"...L, let go of my arm and climb up, Shannon!"`@
 
 ;ld r,sha_odorokiA1,80
 
 ;БuВ≈БAПoЧИВ№ВєВсБcБI@Б@ВїВсВ»В±В∆ВµВљВзБcБcБAРнРlВ≥ВсВ™БcБcБIБIБv\
-`"Ќ-нет!..`@` ≈сли € это сделаю, ...вы!.."`\
+`"N-no!..`@` If I do that, you will...!"`\
 
 se1v 20,50
 quakey 2,100
 ;se1 3
 
 ;Б@РнРlВћМCВ™БAХ–ХыБAТEВ∞ВƒЧОВњВйБB@
-` Ѕотинок Ѕаттлера соскочил и упал в пропасть.`\
+` One of Battler's shoes slipped off and tumbled into the abyss.`\
 se1 79
 
 ;Б@ВїВкВЌЛРСеРоХЧЛ@В…ИщВЁНЮВ№ВкБAВќВзВќВзВ…Н”ВѓВƒФтВ—ОUВЅВљБcБcБB\
-` ≈го засосало в вентил€тор, растерзало и рассе€ло...`\
+` It was sucked into the fan, torn to pieces, and scattered...`\
 
 ld l,but_kuyasigaruA1,23
 ld l,but_aseruA3,80
 
 ;БuЙіВћОиВрЧ£ВєБcБI@Б@В±ВћВ№В№ВґВбБAУсРlВ∆ВаОАВсВґВ№В§ВЉБIБIБv@
-`"ќтпусти мою руку!..`@` »наче мы оба погибнем!!!"`@
+`"Let go of my hand!..`@` At this rate, we're both going to die!!!"`@
 ld r,sha_odorokiA1,24
 ;ld r,sha_ikariA2,80
 
 ;БuБcБcВїВћЦљЧяВ…ВЌБAП]В¶В№ВєВсВЅБIБIБv\
-`"...я не могу подчинитьс€ этому приказу!"`\
+`"...I can't obey that order!"`\
 
 ;cl a,22
 
@@ -6581,14 +6584,14 @@ ld c,jes_atyaA2,26
 ld c,jes_ikariA3,80
 
 ;БuО—ЙєБAВµВЅВ©ВиБcБIБI@Б@Н°БAИшВЂПгВ∞ВйВ©ВзБIБI@/
-`"Ўанон, держись!..`@` я вас вытащу!`@/
+`"Shannon, hold tight!..`@` I'll pull you both up!`@/
 ;se1 27
 
 ;bg black,1
 ;bg "bmp\background\sbook\sakutaro05.bmp",62
 ;quakey 4,400
 ;Б@БcБcВ†В†ГbБIБIБv@
-` ...ј-а-а!!!"`\
+` ...Aaaaahhh!!!"`\
 
 se1 27
 bg black,1
@@ -6599,23 +6602,23 @@ quakey 4,400
 
 ;Б@НƒВ—СеВЂВ»ТnКДВкВ™ЛNВ±ВиБAОйОuНБВрМ«ЧІВ≥ВєВƒВµВ№В§БB@
 ;Б@ГsГУГ`ВћУсРlВрПХВѓВ…НsВ≠В±В∆В≥В¶ПoЧИВ»ВҐБcБIБI\
-` ¬ земле по€вилась ещЄ одна огромна€ трещина, и ƒжессика оказалась отделена от остальных.`\
-` ƒвое других были в беде, а она даже не могла помочь им!..`\
+` Another huge fissure appeared in the earth, and Jessica found herself separated from the others.`\
+` The other two were in trouble, but she couldn't even go and help them!..`\
 ;br
 
 ld c,jes_ikariA2,62
 ;БuРнРlВЯВ†В†В†В†В†БA/
-`"Ѕаттле-е-е-ер!`/
+`"Battleeeeeer!`/
 
 quakey 2,300@/
 
 ;О—ЙєВсВсВсВсВсВсГbБA/
-` Ўано-о-о-он!`/
+` Shannoooooon!`/
 
 quakey 2,300@/
 
 ;Т{РґВІВ®В®В®В®В®В®В®ВІВ®В®В®БIБIБv/
-` „Єрт возьми-и-и-и-и!!!"`/
+` Dammiiiiiiiiiiiiit!!!"`/
 
 quakey 3,700\
 ;wait 500
@@ -6630,24 +6633,24 @@ se2 37
 wait 100
 se3 37
 ;БuВ†ВЅВЌВЌВЌВЌВЌВЌВЌВЌБAВ†Б[ВЅВЌВЅВЌВЌВЌВЌВЌВЌВЌВЌВЌВЌВЌБIБIБv/
-`"јха-ха-ха-ха-ха-ха-ха, а-аха-ха-ха-ха-ха-ха-ха-ха-ха-ха-ха!!!"`/
+`"Ahhahahahahahahaha, aaahhahhahahahahahahahahahaha!!!"`/
 ;quakex 3,600@
 ;quakex 2,200@
 \
 
 ;Б@РвЦ]В…Л©В‘ОйОuНБВрБAБcБcГxГЛГУГJГXГeГЛВЌМ©ЙЇВлВµВ»В™ВзБAЪ}ПќВ§БB\
-` √л€д€ вниз на ƒжессику, кричащую в отча€нии, ...Ѕернкастель рассме€лась.`\
+` Looking down on Jessica, who was crying out in despair, ...Bernkastel sneered.`\
 
 ld r,ber_waraiA4,80
 
 ;БuВ»В©В»В©ИЂВ≠В»ВҐГNГЙГCГ}ГbГNГXВЊВнБB@БcБcРнРlВ∆О—ЙєВ™БAФ“ВЂУчВ…В»ВйВ∆В±ВлВрМ©ВєХtВѓВƒВ©ВзБAОйОuНБВаУѓВґЦЦШHВрТHВйВћВЋБB@БcБcИЂВ≠В»ВҐВнБB@СfУGВ»ГIГ`ВжБBБv@
-`"Ќеплоха€ кульминаци€.`@`  ...–аз € увижу, как Ѕаттлер с Ўанон преврат€тс€ в гамбургер. Ќадеюсь, ƒжессика закончит так же?`@` ...Ќедурно.`@` √одна€ концовка."`\
+`"Nice climax.`@` ...Since I get to see Battler and Shannon be turned into hamburger. Jessica will go the same way, righ?`@` ...Not bad.`@` It's a fine punchline, alright."`\
 
 ld l,lam_futekiA3,23
 ld l,lam_akuwaraiA3,80
 
 ;БuВ≈ВµВеВ§БH@Б@В≠ВЈВ≠ВЈБB@И§ВµВƒВйВнБAГxГЛГУБB@БcБcВ†В»ВљВћНDВёХ®МкВ»ВсВƒБAВ®М©Т ВµВ»ВсВЊВ©ВзВЯБBБv\
-`"¬от видишь?`@` *хи-хи*хи-хи*.`@` Ћюблю теб€, Ѕерн.`@`  ...¬едь € знаю, какие истории ты любишь больше всего."`\
+`"Right?`@` *giggle, giggle*.`@` I love you, Bern.`@` ...Because I know exactly what kinds of stories you love the most."`\
 
 bg "bmp\background\sbook\sakutaro02.bmp",0
 ld c,jes_ikariA2,25
@@ -6655,25 +6658,25 @@ se1 6
 quakey 2,100
 
 ;БuВ”ВіВѓВсВ»БAВ®СOВзБIБI/
-`"ƒа пошли вы!`/
+`"Screw you!`/
 
 ;se1 7
 ;quakey 3,200@/
 
 ;Б@ОДВћЛrЦ{ВрБAВжВ≠ВаВ±ВсВ»НУВҐВаВћВ…БIБIБv@
-`  ак вы посмели превратить мой сценарий в этот кошмар!!!"`\
+` How dare you turn my script into this nightmare!"`\
 
 ;ld r,ber_defA2,24
 ld r,ber_waraiA3,22
 
 ;БuНУВҐВаЙљВаБB@В†В»ВљВћПСВҐВљЛrЦ{ВґВбВ»ВҐБBБv\
-`" ошмар или нет,`@` ты сама это написала."`\
+`"Nightmare or not,`@` you were the one who wrote this."`\
 
 ld c,jes_ikariA1,80
 quakey 3,200
 
 ;БuОДВЌВ±ВсВ»НУВҐВ±В∆ВЌПСВҐВƒВ»ВҐБIБIБv/
-`"я не писала ничего подобного!!!"`/
+`"I didn't write anything like this at all!!!"`/
 @
 ;quakey 3,200@
 
@@ -6681,7 +6684,7 @@ ld l,lam_akuwaraiA4,24
 ;ld l,lam_majimeA1,80
 
 ;БuН°В№В≈В≥ВсВіВсПСВҐВƒВ†ВЅВљВґВбВ»Б[ВҐБBБv\
-`"Ќо это же ты написала всю ту чушь, котора€ была ранее?"`\
+`"You wrote all that messed-up stuff earlier, though, didn't you?"`\
 
 ;ld c,jes_ikariA2,80
 
@@ -6693,30 +6696,30 @@ bg "bmp\background\sbook\pen.bmp",22
 ;bgmvol 30
 
 ;Б@КmВ©В…БAВ±ВкВ№В≈ВЌПСВҐВƒВ†ВЅВљБB@
-` ƒа, всЄ до того момента было еЄ работой.`@
+` It was true, everything before now had been her work.`@
 
 ;Б@ВЊВ©ВзВ±ВїБAПСВЂТЉВєВљБB\
-` ѕотому ƒжессика и внесла изменени€.`\
+` Which is why Jessica revised it.`\
 
 
 ;ld c,jes_komaruA3,22
 ;Б@ВЊВ™БAВ±ВћОEРlРоХЧЛ@В…В¬ВҐВƒВЌБAПСВҐВƒВ≥В¶В»ВҐБI@
-` Ќо она ничего не писала об этом электрическом вентил€торе-убийце!`\
+` But she hadn't written anything at all about this killer electric fan to begin with!`\
 
 ;Б@ОйОuНБВЌБAУсРlВ™ПХВ©ВйВ∆ЙљУxВаПСВЂНЮВёВћВЊВ™БA@НїХlВ…ПСВҐВљХґОЪВ™ФgВ…ПЅВ¶ВйВ©ВћВжВ§В…БAВЈВ£ВЅВ∆ПЅВ¶ВƒВµВ№В§БB\
-` ƒжессика снова и снова писала о том, что Ѕаттлер и Ўанон спаслись, но слова просто исчезали, будто были написаны на песчаном пл€же и их смывало волнами.`\
+` Jessica tried over and over to write about Battler and Shannon being saved, but the letters just vanished, as if they had been written on a sandy beach and then washed away by the waves.`\
 
 se1 6
 ;ld c,jes_ikariA3,80
 ;БuЙљВ≈ВЊВжБIБI@/
-`"¬ чЄм дело?!!`@/
+`"What's going on?!`@/
 se2 7
 ;Б@В«В§ВµВƒПCР≥В≈ВЂВ»ВҐВсВЊБHБI@/
-` ѕочему € не могу переписать?!`@/
+` Why can I not revise this?!`@/
 ;ld c,jes_ikariA2,80
 se3 27
 ;Б@Т{РґВ®В®В®В®В®В®ВІВ®В®ВІБIБIБv\
-` ѕрокл€-а-а-атье!!!"`\
+` Dammiiiiiiit!!!"`\
 
 
 bg black,22
@@ -6725,7 +6728,7 @@ bg black,22
 ;ld c,but_aseruA4,25
 
 ;Б@РнРlВрТЌВёО—ЙєВћШrВ™БAОЯСжВ…МјКEВ…ЛяХtВҐВƒВҐВ≠БcБcБB\
-` –ука Ўанон, держаща€ Ѕаттлера, всЄ больше ослабл€ла хватку...`\
+` Shannon's grip on Battler was growing weaker by the moment...`\
 wait 500
 bg black,1
 ;bg black,22
@@ -6736,22 +6739,22 @@ mono 0
 
 se1 59
 ;#CC3366БgРоХЧЛ@В™О~В№ВйБIБh#ffffff@Б@С ЦЏБIБI/
-` #CC3366Џ00171¬ентил€тор остановилс€!Џ00187#ffffff`@` Ќе годитс€!`/
+` #ff0000The electric fan stopped!#ffffff`@` Doesn't work!`/
 ;se1 59
 @
 wait 200
 se1 59
 ;#CC3366БgУсРlВЌКпР’УIВ…ПХВ©ВйБIБh#ffffff@Б@С ЦЏБHБI/
-` #CC3366Џ00171ќни вдвоЄм чудом спаслись!Џ00187#ffffff`@` ¬сЄ равно не так?!`/
+` #ff0000The two were miraculously saved!#ffffff`@` Still doesn't work?!`/
 ;se1 59
 \
 wait 200
 se1 59
 ;#CC3366БgВ±ВћХ®МкВЌПIЧєВµВƒОДВљВњВЌПХВ©ВйБIБh#ffffff/
-` #CC3366Џ00171»стори€ закончилась, и мы были спасены!Џ00187#ffffff`/
+` #ff0000The story ended, and we were saved!#ffffff`/
 ;se1 59
 ;@Б@БcБcВ«В§ВµВƒВ±ВкВаС ЦЏВ»ВсВЊБIБI\
-``@` ...ѕочему ничего не работает?!!`\
+``@` ...Why is nothing working?!!`\
 wait 400
 ;br
 bg "bmp\background\sbook\sakutaro02.bmp",0
@@ -6760,19 +6763,19 @@ ld c,Jes_ikariA2,22
 ld c,Jes_ikariA3,80
 
 ;БuЙљВ≈ВЊБIБI@Б@ЙљВ≈БAН°В№В≈ВЌПСВЂНЮВяВљВћВ…БAН°УxВЊВѓВЌХґОЪВ™ПСВѓВ»ВҐВсВЊБHБIБv\
-`"ѕочему?!`@` ѕосле всего того, что € уже написала, почему € не могу написать ещЄ?!"`\
+`"Why?!`@` After everything else I wrote in red before, why can't I write more?!"`\
 
 ;ld r,lam_majimeA1,24
 ld r,lam_akuwaraiA2,24
 
 ;БuВЊВЅВƒБAХ®МкВЌВаВ§БAПIВнВЅВƒВйВсВ≈ВµВеВ§БH@Б@ПCР≥ВЌХ®МкВћТЖВ…ВЈВйВаВћВжБBБv@
-`"“ак ведь истори€ уже закончена.`@` ¬нести изменени€ можно только в самой истории."`\
+`"Well, the story's already over, right?`@` You can only make revisions within the actual story."`\
 
 ;ld l,ber_defA1,23
 ld l,ber_waraiA3,23
 
 ;БuХ®МкВћКOВрБAПCР≥В»ВсВƒПoЧИВ»ВҐБBБv\
-`"Ќельз€ пересмотреть что-либо за еЄ пределами."`\
+`"It's impossible to revise anything outside of it."`\
 
 ;wait 500
 ;br
@@ -6781,7 +6784,7 @@ ld l,ber_akuwaraiA4,80
 se1 37
 
 ;БuБuВ≠ВЈВ≠ВЈВ≠ВЈВ≠ВЈВ≠ВЈВ≠ВЈВ≠ВЈВ≠ВЈБIБvБv\
-`""*хи-хи*хи-хи*хи-хи*хи-хи*хи-хи*!""`\
+`""*giggle, giggle, giggle, giggle, giggle*!""`\
 
 
 ;bg black,1
@@ -6795,31 +6798,31 @@ ld c,Jes_ikariA1,80
 quakey 3,200
 
 ;БuГNГ\ГbГ^ГМВ™БIБI/
-`"„Єрт подери!!!`/
+`"Dammit all to hell!!!`/
 
 ;quakey 3,200@/
 `@/
 
 ;Б@В±ВћН≈ИЂВћГIГ`В™БAВ®СOВзВћХ®МкВћГNГЙГCГ}ГbГNГXВЊВЅВƒМЊВ§ВћВ©ВжБIБI@Б@БcБcЦВПЧВ«ВаВяБIБI@Б@ВжВ≠ВаГbБAВжВ≠ВаОДВћЛrЦ{ВрВяВњВбВ≠ВњВбВ…ВµВƒБAБcБcВЁВсВ»ВрВ±ВсВ»ЦЏВ…БIБIБv\
-` ’отите сказать, этот кошмар - кульминаци€ истории?!`@` ...„Єртовы ведьмы!`@`  ак вы смеете, как вы смеете портить мой сценарий...и заставл€ть всех так страдать?!"`\
+` Are you saying this nightmare is the climax of the story?!`@` ...You damned witches!`@` How dare you, how dare you screw up my script, ...and make everyone suffer like this!?"`\
 
 
 ld r,lam_akuwaraiA3,80
 
 ;БuВїВћВяВњВбВяВњВбВ»ЛrЦ{ВрПСВҐВљВћВЌСSВƒВ†ВсВљВжБ[БHБv@
-`"“ы сама написала весь этот дурацкий сценарий."`\
+`"The one wrote this whole screwed-up script was you, wasn't it?"`\
 
 ld l,ber_waraiA4,80
 
 ;БuБcБcВ±ВћБAР¶ОSВ»ГoГbГhГGГУГhВаК№ВяВƒВЋБH@Б@В≠ВЈВ≠ВЈВ≠ВЈБBБv\
-`"...ƒаже чудовищный конец.`@` *хи-хи*хи-хи*."`\
+`"...Even this gruesome bad end, you know?`@` *giggle, giggle*."`\
 
 ld c,Jes_ikariA3,80
 ;ld c,Jes_DefA1,80
 quakey 3,400
 
 ;БuОДВЌПСВҐВƒВ»ВҐБI@Б@В±ВсВ»БcБcБAОEРlРоХЧЛ@В…ВЁВсВ»В™ИщВЁНЮВ№ВкВƒОАВсВ≈ВµВ№В§В»ВсВƒБAВ«В±В…ВаПСВҐВƒВ»ВҐГbБIБIБv/
-`"Ќет!`@` я никогда не писала ничего такого...такого, что всех поглощает электрический вентил€тор-убийца и они умирают!!!"`\ 
+`"No!`@` I never wrote anything about everyone being swallowed up by a killer electric fan and dying!!!"`\ 
 ;quakey 3,400\
 ;`\
 
@@ -6828,24 +6831,24 @@ mcl c,22
 ld r,lam_akuwaraiA1,80
 
 ;БuВ†ВзВїВ§БHБv@
-`"ќ, да ну?"`\
+`"Oh, really?"`\
 
 ld l,ber_defA2,80
 
 ;БuБcБcОДВљВњВЌБAВ†ВсВљВ™Р‘ТpВрВ©В©В»В≠ВƒНѕВёВжВ§В…БB@В±В§ВµВƒЛ≥В¶ВƒВ†В∞ВƒВйВ∆ВҐВ§ВћВ…ВЋБBБv\
-`"...ћы просто хотим объ€снить тебе,`@` чтобы ты не стала посмешищем."`\
+`"...And here we were, just trying to explain things to you,`@` so you wouldn't be made a laughingstock."`\
 
 ;wait 500
 
 ld r,lam_majimeA1,80
 
 ;БuВ±ВћОqБAГpБ[ВЅВџВҐВаВћБB@ВЂВЅВ∆ВнВ©ВЅВƒВ»ВҐВнБ[БBБv@
-`"ќна така€ бумажна€.`@` Ќе понимает, наверное."`@
+`"This girl is pretty paper-ish.`@` She probably doesn't get it."`@
 
 ld l,ber_waraiA3,80
 
 ;БuВїВћВжВ§ВЋБB@БcБcВ≠ВЈВ≠ВЈВ≠ВЈВ≠ВЈВ≠ВЈБBБv\
-`"ѕохоже на то.`@`  ...*хи-хи*хи-хи*хи-хи*хи-хи*."`\
+`"Guess so.`@`  ...*giggle, giggle, giggle*."`\
 
 bg black,2
 ;bg black,22
@@ -6860,23 +6863,23 @@ wait 600
 ;ld r,sha_odorokiA1,80
 
 ;БuБcБcРнРlВ≥ВсБcБcБAВ≤ВяВсВ»В≥ВҐБcБcБB@БcБcБcВаВ§БAБcБcБcШrВ™БcБcБcБcБBБv@
-`"...Ѕаттлер, ...простите...`@`  ......ћо€ рука... сейчас......"`\
+`"...Master Battler, I'm sorry...`@` ...My hand... is about to..."`\
 
 ;ld c,but_niramuA3,80
 
 ;БuБcБcБcВҐВҐВсВЊБcБB@СБВ≠ВїВћОиВрЧ£ВєБcБB@Ч£ВµВљВзБAО—ЙєВњВбВсВЊВѓВ≈ВаФЗВҐПгВ™ВйВсВЊВЉБcБIБv\
-`"......Ќичего...`@` —корее отпусти мен€...`@` ј потом поднимись наверх и не огл€дывайс€!.."`\
+`"...It's fine...`@` Hurry up and let go of me...`@` And then climb up, without looking back!.."`\
 
 ;ld r,sha_odorokiA2,80
 
 ;БuОДВЊВѓРґВЂОcВЅВљВиВµВ№ВєВсБcБI@Б@БcБcОАВ В»ВзБAБcБcОДВаИкППВ≈ВЈБIБIБv@
-`"я не выживу одна!..`@`  ...≈сли вы умрЄте, ...€ отправлюсь следом!"`\
+`"I can't live by myself!..`@`  ...If you're going to die, ...I'm going with you!"`\
 
 
 ;ld c,but_odorokiA1,80
 
 ;БuФnО≠ВрМЊВ§В»БAРґВЂОcВкБIБIБv@
-`"Ќе глупи, ты должна жить!"`\
+`"Don't be stupid, you have to live!"`\
 ;/
 ;quake 2,300@
 
@@ -6884,14 +6887,14 @@ wait 600
 ;quakey 3,400
 
 ;БuВ†В»ВљВЌЙ§ОqЧlВ≈БAОДВрПХВѓВ…ЧИВљВсВ≈ВµВеВ§БHБI@Б@ВаВ§ОДВрБAВ–В∆ВиВЏВЅВњВ…ВµВ»ВҐВ≈БcБIБIБv/
-`"¬ы - принц, который пришЄл спасти мен€, так?!`@` я больше не хочу быть одна!.."`/
+`"You're the prince who came to save me, aren't you?!`@` I don't want to be alone anymore!.."`/
 quakey 3,500\
 
 ;Б@КRВћЙПВ…ТЌВ№ВйО—ЙєВћОwВ™БAБcБcИкЦ{ИкЦ{БAБcБcККВиЧОВњВƒВҐВ≠БcБcБB@
-` ќдин за другим, ...пальцы Ўанон, которыми она ухватилась за скалу, ...начали ослабл€ть хватку...`\
+` One by one,...Shannon's fingers, clutching the face of the cliff,... began to lose their grip...`\
 
 ;Б@БcБcВаВ§БAБcБcБcС ЦЏБcБcБcБB\
-` ...¬сЄ было...напрасно...`\
+` ...It was all... useless...`\
 
 wait 500
 
@@ -6905,14 +6908,14 @@ se1 20
 bg black,25
 
 ;БuВ†В†ГbБIБIБIБIБIБv@
-`"ј-а-а-а-а-а-а-а-а!!!"`\
+`"Aaahhhhhhhhhhhh!!!"`\
 ;cl c,0
 ;cl r,65
 ;wait 300
 ;bg black,25@
 
 ;Б@О—ЙєВ∆РнРlВћСћВ™БAУёЧОВ÷МьВѓВƒБAЧОВњВйБB\
-` Ўанон и Ѕаттлер упали в ад.`\
+` Shannon and Battler tumbled down to hell.`\
 
 ;wait 300
 ;bg white,65
@@ -6925,8 +6928,8 @@ ld c,sha_komaruA1,2
 
 ;Б@ОEРlРоХЧЛ@В…ИщВЁНЮВ№ВкВйВ№В≈ВћБAТИВрЧОЙЇВЈВйЩЛУяВ≈БAБcБcРнРlВЌО—ЙєВрХшВЂТчВяВйБB@
 ;Б@ВєВяВƒБAН≈КъВћПuК‘ВЊВѓВЌБAИкППВ…М}В¶ВзВкВйВжВ§В…БB@
-` ¬ момент свободного падени€, прежде чем их засосЄт электрический вентил€тор-убийца, ...они крепко обн€лись.`\
-` „тобы хот€ бы вместе встретить свой конец.`\
+` In the moment of free fall before they were sucked into the killer electric fan, ...they hugged each other tightly.`\
+` So that at the very least, they would be able to meet their ends together.`\
 
 se1 20
 bg white,26
@@ -6948,7 +6951,7 @@ bg black,26
 ;E_A
 
 ;Б@УсРlВЌКoМеВрМИВяБAЧЉЦЏВрНdВ≠б“ВЅВљБcБcБB\
-` ќни закалили себ€, плотно закрыв глаза...`\
+` The two steeled themselves, shutting their eyes tightly...`\
 
 ;bg black,65
 wait 1500
@@ -6958,15 +6961,15 @@ E_A
 se1 13
 
 ;Б@ГhГTГbБIБI/
-` *хлоп*!`/
+` *thump*!`/
 ;quakey 4,200@
 ;br
 quakey 4,200\
 
 ;БuБcБcВ¶БHБIБv@
 ;БuВ†ВкБHБIБv\
-`"...Ё?!"`@
-`"„то?!"`\
+`"...Eh?!"`@
+`"What?!"`\
 
 bg G2F_R1b,46
 
@@ -6974,37 +6977,37 @@ bgm1 43
 
 ;Б@ВїВ±ВЌБAУёЧОВ≈ВаВ»ВѓВкВќБAОEРlРоХЧЛ@ВћТЖВ≈ВаВ»ВҐБB@
 ;Б@БcБcГQГXГgГnГEГXВћБAГxГbГhВћПгВЊВЅВљБB@
-` ќни были не в аду и не посреди электрического вентил€тора-убийцы,`@` ...а на кровати в домике дл€ гостей.`\
+` They weren't in hell, nor were they in the middle of the killer electric fan's blades,`@` ...they were on a bed in the guesthouse.`\
 
 ;Б@УсРlВЌВµВќВµВћК‘БAХрСRВ∆ВµВљВ№В№ХшВЂТчВяВ†ВЅВƒВҐВљБcБcБB\
-` ћгновение они сидели, крепко держа друг друга в изумлении...`\
+` For a moment, they sat there holding each other tightly in amazement...`\
 
 ld c,sha_odorokiA1,6
 
 ;БuБcБcЦ≤БAБcБcВЊВЅВљВћВ≈ВµВеВ§В©БBБv@
-`"...Ќам всЄ...приснилось?"`@
+`"...Was that... a dream?"`@
 
 ld l,but_niramuA3,22
 
 ;БuВҐВвБB@БcБcЦ≤ВЊВЅВљВнВѓВаВЋВ•БBБv\
-`"Ќет.`@`  ...Ёто не мог быть сон."`\
+`"No.`@`  ...It couldn't possibly be."`\
 
 bg G2F_R1a,22
 
 ;Б@УсРlВћСћВ…ВЌБAВљВЅВљН°БAКRВћВ†ВњВ±ВњВ≈ОCВЅВљПЭВ™ОcВЅВƒВҐВйБB@
 ;Б@В†ВћБAЦљМЬВѓВћСеЦ`МѓВЌБAКmВ©В…ОјНЁВµВљВћВЊБB@
-` ќни по-прежнему были в царапинах от скалы, которые получили пару минут назад.`\
-` ѕриключение, в котором они рисковали собой, случилось на самом деле.`\
+` Their bodies were still covered with scratches from the cliff face they had been scraped against just a few moments earlier.`\
+` That great adventure in which they'd risked their lives really had happened.`\
 
 ;Б@БcБcМ≥ВћРҐКEВ…ЦяВЅВƒВ±ВкВљВ∆ВҐВ§В±В∆ВЌБA@БcБcХ®МкВ™Ц≥ОЦВ…БAБuПIЧєБvВрМ}В¶ВљВ∆ВҐВ§В±В∆ВЊБB\
-` ...‘акт их возвращени€ в реальный мир...`@`означает, что истори€ достигла своего конца.`\
+` ...The fact that they'd returned to their own world...`@`meant that the story had safely reached its "end".`\
 
 
 ;Б@ОйОuНБВ™БAЙљВзВ©ВћПCР≥ВрВµВƒБAХ®МкВрПIВнВзВєВƒВ≠ВкВљВ…ИбВҐВ»ВҐБB@
-` ќчевидно, ƒжессика сумела закончить еЄ каким-то пересмотром.`\
+` It was clear that Jessica had managed to revise the story at the very end.`\
 
 ;Б@БcБcВµВ©ВµБAОйОuНБВћОpВЌВ±В±В…ВЌВ»В©ВЅВљБB\
-` ...Ќо еЄ самой нигде не было.`\
+` ...But Jessica herself was nowhere to be seen.`\
 
 
 bg black,2
@@ -7017,51 +7020,51 @@ bg mjes_1b,22
 
 
 ;Б@ОйОuНБВћОpВЌБcБcБB@
-` „то касаетс€ ƒжессики...`@
+` In the meantime, Jessica...`@
 
 bgm1 110
 
 ;Б@О©ОЇВћКwПKКчВћСOВ…В†ВЅВљБB@
-` ќна была на письменном столе в своей комнате.`\
+` ...was in front of the writing desk in her own room.`\
 
 ;Б@КчВћПгВ…ВЌБAЛrЦ{В∆Р‘ГyГУБB@
 ;Б@ВїВ±В…БAОйОuНБВ™УЋВЅХЪВµВƒВҐВљБB\
-` Ќа столе лежали сценарий и красна€ ручка.`@
-` ƒжессика рухнула на них.`\
+` Lying on the desk were the script and the red pen.`@
+` Jessica had collapsed on top of them.`\
 
 ld l,lam_akuwaraiA4,0
 ld r,ber_defA2,22
 
 ;Б@ВїВћЧЉШeВ…ВЌГЙГАГ_ГfГЛГ^В∆ГxГЛГУГJГXГeГЛВ™ЧІВЅВƒВҐВйБB\
-` Ћ€мбдадельта и Ѕернкастель сто€ли по разные стороны от неЄ.`\
+` Lambdadelta and Bernkastel were standing on opposite sides of her.`\
 
 
 bg black,22
 bg "bmp\background\sbook\pen.bmp",22
 
 ;Б@ФёПЧВЌН≈МгВћН≈МгВ…БAИкГЦПКБAПCР≥ВрВµВљБB@
-` ¬ самый последний момент ей удалось пересмотреть одну строку.`\
+` At the very last moment, she had managed to revise one single line.`\
 
 ;Б@ВїВкВ≈БAХ®МкВЌПIЧєВрМ}В¶БAРнРlВљВњВЌЛ~ВнВкВљВћВЊБB\
-` ѕоэтому истори€ закончилась, и Ѕаттлер с Ўанон были спасены.`\
+` Because of that, the story had ended, and Battler and Shannon had been saved.`\
 
 
 ;Б@ВµВ©ВµБAБcБcВ«В§ВвВЅВƒПХВ©ВЅВљВћВЊВлВ§БB@
-` Ќо...спасены как?`\
+` But... how?`\
 
 ;Б@ВїВаВїВаБAВ†ВсВ»ЛРСеРоХЧЛ@В™МїВкВйВ»ВсВƒБAВ«В±В…ВаПСВҐВƒВ»ВҐБB@
 ;Б@ЙЅХMВµВƒВаБAХ®МкВЌВаВ§ПIВнВЅВƒВйВ©ВзВ∆БAОуВѓХtВѓВзВкВ»В©ВЅВљБB\
-` ƒжессика ничего не писала насчЄт огромного электрического вентил€тора.`\
-` —колько бы она ни переписывала историю, изменени€ не принимались, ведь истори€ уже закончилась.`\
+` Jessica hadn't written anything about that huge electric fan in the first place.`\
+` No matter how many times she'd tried to revise it, the change hadn't been accepted because the story was already over.`\
 
 
 ;Б@В≈ВаБAОйОuНБВЌКmВ©В…ПCР≥ВµВљБB@
 ;Б@ВїВкВаБAВљВЅВљВћИкХґОЪВЊВѓБB@
-` Ќо ƒжессика точно внесла изменение.`@
-` ќна изменила одну-единственную букву.`\
+` However, Jessica had certainly made a revision.`@
+` She had changed a single letter.`\
 
 ;Б@БcБcВїВкВЅВƒБAВ¬В№ВиБcБcБH\
-` ...»наче говор€...`\
+` ...In other words...`\
 
 
 bg black,22
@@ -7073,44 +7076,44 @@ ld r,ber_waraiA4,22
 ld r,ber_waraiA3,80
 
 ;БuБcБcБcВ≠ВЈВ≠ВЈБB@Ч«В©ВЅВљВнВЋБB@Р‘ВЅТpВрВ©В©В»В≠ВƒБBБv@
-`"......*хи-хи*хи-хи*.`@` ћолодец.`@` “еперь ты не станешь посмешищем."`\
+`"...*giggle, giggle*.`@` Good for you.`@` Now you won't be made a laughingstock."`\
 
 ld c,jes_tereruA1,6
 
 ;БuВЌБAБcБcВЌВҐБB@БcБcВ«В§ВаБAВ†ВиВ™В∆В§В≤ВіВҐВ№ВЈБBБv@
-`"ƒ-да.`@`  ...—пасибо вам большое."`\
+`"Y-yeah...`@` Thank you so very much."`\
 
 ;Б@КчВ…УЋВЅХЪВµВƒВҐВљОйОuНБВ™БAВ®ВЄВ®ВЄВ∆КзВрПгВ∞ВйБB@
 ;Б@ВїВћКзВЌБAР‘Ц ВµВƒВҐВƒР^ВЅР‘ВЊВЅВљБB\
-` ƒжессика, до сих пор лежаща€ на столе, робко подн€ла голову.`\
-` ≈Є лицо было €рко-красным от смущени€.`\
+` Jessica, who was still slumped over the desk, timidly raised her head.`\
+` Her face was bright red with embarrassment.`\
 
 
 ld l,lam_akuwaraiA4,80
 
 ;БuГpБ[ВћОДВ™МЊВ§ВћВаЙљВЊВѓВ«ВІБB@БcБcГJГbГRВ¬ВѓВƒЙpМкОgВ§ОЮВЌБ[БAВњВбВсВ∆ГXГyГЛВрМ©ВљХыВ™ВҐВҐВнВжБ[БBБv@
-`"я - бумага и не в том положении, чтобы это говорить, но...`@`если хочешь круто вставл€ть английские слова, лучше убедись, что они написаны верно."`\
+`"Because I'm so paper, I'm in no position to be saying this...`@`but if you want to insert cool-looking English words...`@` you should really make sure that you've spelled them right."`\
 
 ld r,ber_defA2,80
 
 ;БuБcБcБcВњВ»ВЁВ…БB@ВeВhВmВЌГtГЙГУГXМкВжБBБv@
-`"...... стати.`@` Ќа самом деле Џ00171FINЏ00187 - французское слово."`\
+`"...By the way,`@` the word "FIN" is actually French."`\
 
 
 ld c,jes_tereruA2,80
 
 ;БuВЌБAВЌВҐБcБcБB@БcБcЙљВ©ГwГУВЊВ»Б[В∆ВЌОvВЅВƒВ№ВµВљБcБcБBБv\
-`"ƒ-да...`@`  ...“о-то € подумала, что что-то не так..."`\
+`"Y-yeah...`@` ...I thought something was off about it..."`\
 
 ld r,ber_waraiA4,80
 
 ;БuЦ∞В≠ВƒПСВЂК‘ИбВ¶ВљВћВжВЋБHБv@
-`"“ы просто ошиблась, потому что теб€ клонило в сон, верно?"`\
+`"You just miswrote it because you were sleepy, right?"`\
 
 ld c,jes_tereruA1,80
 
 ;БuБcБcВҐВвБAВїВћБAБcБcБcВ†ВЌВЌВЌВЌВЌВЌВЌВЌВЌБcБcБBБv\
-`"...Ќет, э-э, ......аха-ха-ха-ха-ха-ха..."`\
+`"...No, um, ...ahahahahahahahahaha..."`\
 
 
 bg black,22
@@ -7120,10 +7123,10 @@ bg black,22
 ;ld c,jes_tereruA2,22
 
 ;Б@Х®МкВћПIВнВиВ…ГJГbГRВ¬ВѓВƒБAБГВeВhВmБДВ∆ПСВ±В§В»ВсВƒОvВЅВƒБB@
-` ќна подумала, что было бы круто написать Џ00171FINЏ00187 (конец) в конце истории.`\
+` She'd thought it would be cool to write <FIN> at the end of the story.`\
 
 ;Б@БcБcБГВeВ`ВmБДВЅВƒПСВҐВƒВµВ№ВЅВљВ»ВсВƒБAБcБcТpВЄВ©ВµВ≠ВƒТNВ…ВаМЊВ¶В№ВєВсБB\
-` ...Ќо слишком смутилась, чтобы сказать, что...она по ошибке написала Џ00171FANЏ00187 (вентил€тор).`\
+` ...But she was far too embarrassed to ever tell anyone...`@` that she ended up writing <FAN> by mistake.`\
 ;bg black,22
 ;mono 0
 ;bg black,1
@@ -7135,12 +7138,12 @@ wait 500
 ld l,ber_waraiA3,22
 
 ;БuБcБcЦ∞В≠ВƒБAПСВЂК‘ИбВ¶ВљВћВжВЋБHБv@
-`"...“ы просто ошиблась, потому что теб€ клонило в сон, так?"`\
+`"...What was that? I'll ask again. You just miswrote it because you were sleepy, right?"`\
 
 ld r,jes_tereruA2,80
 
 ;БuВаБAБcБcВаВњВлВсГbГXВжБcБcБB@БcБcВҐВ–БAБcБcВҐВ–В–В–В–В–В–В–БcБcБcБBБv\
-`"¬е-...верно...`@`  ...»хи, ...ихи-хи-хи-хи-хи......"`\
+`"Y-yeah...`@` Ihi, ihihihihihi..."`\
 
 
 ;bgmvol 70
@@ -38939,24 +38942,24 @@ itoa2 $Free1,%Hour : add $SaveTime,$Free1 : add $SaveTime,"ОЮ"
 itoa2 $Free1,%Minute : add $SaveTime,$Free1 : add $SaveTime,"Х™"
 
 ; Use abbrev. month name
-if %Morth = 1 mov $SaveTime,"январьЏ00032"
-if %Morth = 2 mov $SaveTime,"‘евральЏ00032"
-if %Morth = 3 mov $SaveTime,"ћартЏ00032"
-if %Morth = 4 mov $SaveTime,"јпрельЏ00032"
-if %Morth = 5 mov $SaveTime,"ћайЏ00032"
-if %Morth = 6 mov $SaveTime,"»юньЏ00032"
-if %Morth = 7 mov $SaveTime,"»юльЏ00032"
-if %Morth = 8 mov $SaveTime,"јвгустЏ00032"
-if %Morth = 9 mov $SaveTime,"—ент€брьЏ00032"
-if %Morth = 10 mov $SaveTime,"ќкт€брьЏ00032"
-if %Morth = 11 mov $SaveTime,"Ќо€брьЏ00032"
-if %Morth = 12 mov $SaveTime,"ƒекабрьЏ00032"
-itoa $Free1,%Day : add $SaveTime,$Free1 : add $SaveTime,",Џ00032"
+if %Morth = 1 mov $SaveTime,"January "
+if %Morth = 2 mov $SaveTime,"February"
+if %Morth = 3 mov $SaveTime,"March "
+if %Morth = 4 mov $SaveTime,"April "
+if %Morth = 5 mov $SaveTime,"May "
+if %Morth = 6 mov $SaveTime,"June "
+if %Morth = 7 mov $SaveTime,"July "
+if %Morth = 8 mov $SaveTime,"August "
+if %Morth = 9 mov $SaveTime,"September "
+if %Morth = 10 mov $SaveTime,"October "
+if %Morth = 11 mov $SaveTime,"November "
+if %Morth = 12 mov $SaveTime,"December "
+itoa $Free1,%Day : add $SaveTime,$Free1 : add $SaveTime,","
 ; Use 12-hour time (AM/PM)
-if %Hour = 0 mov $Free2,"Џ00032утра" : itoa $Free1,12
-if %Hour > 0 && %Hour < 12 mov $Free2,"Џ00032утра" : itoa $Free1,%Hour
-if %Hour = 12 mov $Free2,"Џ00032утра" : itoa $Free1,12
-if %Hour > 12 && %Hour < 24 mov $Free2,"Џ00032вечера" : sub %Hour,12 : itoa $Free1,%Hour : add %Hour,12
+if %Hour = 0 mov $Free2," AM" : itoa $Free1,12
+if %Hour > 0 && %Hour < 12 mov $Free2," AM" : itoa $Free1,%Hour
+if %Hour = 12 mov $Free2," AM" : itoa $Free1,12
+if %Hour > 12 && %Hour < 24 mov $Free2," PM" : sub %Hour,12 : itoa $Free1,%Hour : add %Hour,12
 add $SaveTime,$Free1 : add $SaveTime,":"
 if %Minute < 10 add $SaveTime,"0"
 itoa $Free1,%Minute : add $SaveTime,$Free1 : add $SaveTime,$Free2
