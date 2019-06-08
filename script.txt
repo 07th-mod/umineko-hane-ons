@@ -7197,13 +7197,13 @@ ld r,MAR_NiyariA1,23
 ld r,MAR_WaraiA2,80
 
 ;БuВ§Б[В§Б[БI@Б@еKеNВ™ВҐВЅВѕВҐБI@Б@еKеNВ™ВҐВЅВѕВҐБI@Б@В§Б[БIБIБv@
-`"”-у, у-у!`@` —только роз!`@` —только роз!`@` ”-у!"`\
+`"Uu-uu, uu-uu!`@` So many roses!`@` So many roses!`@` Uu-!"`\
 
 ;ld l,JES_DefA1,23
 ld l,JES_WaraiA1,23
 
 ;БuВ±ВзБAР^ЧҐШ±ВЯБAВ†ВсВ№ВиВЌВµВбВЃВ∆В№ВљУ]В‘ВЉБ`БIБv\
-`"ћари€, не торопись так, а то снова упадЄшь!"`\
+`"Maria, don't be so hasty, you'll fall again!"`\
 
 se1 3
 cl a,23
@@ -7212,46 +7212,46 @@ ld c,GEO_HohoemiA1,23
 ld c,GEO_WaraiA2,80
 
 ;БuВўВзБAОйОuНБВњВбВсБAР^ЧҐШ±ВњВбВсБI@Б@РжВ…В®СcХГВ≥В№ВљВњВ…В≤И•ОAВ…НsВ±В§БBБv\
-`"Ёй, ƒжессика, ћари€!`@` ѕойдЄмте дл€ начала поздороваемс€ с дедушкой и остальными."`\
+`"Hey, Jessica, Maria!`@` Let's go and say hello to Grandpa and the others, first."`\
 
 cl c,23
 
 ld r,HID_WaraiA2,23
 
 ;БuВўВсВ№БAВ±ВћеKеNТлЙАВЌВҐВ¬М©ВƒВагYЧнВвВ»ВЯБcБIБv@
-`"Ётот розарий так красив каждый раз, когда € его вижу."`\
+`"This rose garden is so darn beautiful every time I see't...ain't it?"`\
 
 ld c,EVA_WaraiA1,23
 
 ;БuОДВЌЙьСХВЈВйСOВћХыВ™НDВЂВЊВЅВљВнВЯБA@СSВ≠МZВ≥ВсВЅВƒЦ{УЦВ…ГZГУГXВ™В»ВҐВсВЊВ©ВзВЯБcБcБBБv\
-`"ћне он гораздо больше нравилс€ до реконструкции.`@` ” брата совсем нет чувства стил€."`\
+`"I liked it much better before the remodelling.`@` My brother's got no sense of style at all."`\
 
 ld l,RUD_WaraiA1,23
 
 
 ;БuОoЛMВЌВҐВ¬ВаВїВкВќВЅВ©МЊВЅВƒВвВ™ВсВ»ВЯБcВЅВƒБA/
-`"“ы умеешь что-нибудь ещЄ, кроме как жаловатьс€?`/
+`"Can't you do anything else but complain?`/
 
 se1 10
 ld l,RUD_OdorokiA1,80
 
 ;ГCГeГeБI@Б@О®ИшВЅТ£ВйВсВґВбВЋВ•ВвВҐБIБIБv\
-` јй-ай!`@` “олько не уши, не т€ни за уши!"`\
+` Ouchouch!`@` Not the ears, don't pull the ears!"`\
 
 cl c,0
 cl a,23
 
 ;БuВ†ВЌВЌВЌБv@БuВ§В”В”В”Бv@БuВЂВбВЅВЂВбБv@
-`"јха-ха-ха",`@`"”фу-фу-фу",`@`" ь€-ха-ха-ха".`\
+`"Ahahaha",`@`"Ufufufufu",`@`"Kyahahahahaha".`\
 
 ;Б@РeС∞ЙпЛcВ…ВвВЅВƒЧИВљРeС∞ВљВњВ™БAВҐВ¬ВаВ∆ХѕВнВзВ»ВҐЙпШbВрТeВ№ВєВ»В™ВзеKеNТлЙАВрХаВ≠БB\
-` „лены семьи, прибывшие на семейное собрание, гул€ли по розарию, как всегда спор€.`\
+` The family members, coming for the family conference, strolled around the rose garden, bickering like always.`\
 
 ;Б@ВµВ©ВµН°ФNВЌБAЛОФNВ№В≈В∆ВЌП≠ВµВЊВѓИбВ§БB@
-` Ќо этот год немного отличалс€ от прошлого.`\
+` But this year was slightly different from the last.`\
 
 ;Б@БcБcВUФNК‘БAЙEСгЛ{Й∆ВрЧ£ВкВƒВҐВљРнРlВ™БAЛAВЅВƒВЂВљВ±В∆В≈В†ВйБB\
-` ...¬едь вернулс€ Ѕаттлер, который целых шесть лет не контактировал с семьЄй ”широми€. `\
+` ...Because, after having been apart from the Ushiromiya family for six years, Battler had returned. `\
 
 bg black,23
 bg garden_1c,23
@@ -7259,36 +7259,36 @@ ld c,BUT_DefA1,23
 ld c,BUT_WaraiA1,80
 
 ;БuШZМђУЗВаВЄВҐВ‘ВсЛvВµВ‘ВиВЊВ™БAГzГУГgСКХѕВнВзВЄБAЙЃХ~ВаТлЙАВаГfГPГFВжВ»ВЯБcБIБv\
-`"ѕрошло столько времени, но, как и ожидалось, особн€к и сад по-прежнему огромны!.."`\
+`"It really has been a long time, but just as expected, the mansion and the garden are still huge!.."`\
 
 ld l,JES_AkuwaraiA1,23
 
 ;БuВЅВљВ≠БAВUФNВаВ≤Ц≥НєСњВµВвВ™ВЅВƒБI@Б@В–ВеВЅВ±ВиЛAВЅВƒВЂВљВ∆ОvВЅВљВзБAВ±ВсВ»В…ГfГPГFР}СћВ…В»ВиВвВ™ВЅВƒВжБBБv@
-`"„Єрт, спуст€ шесть лет без единого звонка € даже подумать не могла, что первым делом после возвращени€ ты заметишь, насколько огромно это место!"`\
+`"Damn, after 6 years of no contact at all I can't believe that the first thing you've noticed after coming back is "the mansion and the garden are still huge"!`\
 
 ld r,GEO_WaraiA1,24
 
 ;БuВЌВЌВЌВЌБB@ОйОuНБВњВбВсВЌВ±ВћВUФNК‘БAРнРlВ≠ВсВ™ВҐВ»В≠ВƒВ¬В№ВзВ»ВїВ§ВЊВЅВљВ©ВзВЋБB@ВїВкВ…ВµВƒВаБAГfГPГFР}СћВ∆ВҐВ§ВћВЌУѓКіБB@РнРlВ≠ВсВЌБAЦ{УЦВ…СеВЂВ≠В»ВЅВљВЋБBБv\
-`"’а-ха-ха.`@` ¬ижу, ты скучала эти шесть лет без Ѕаттлера, да, ƒжессика?`@` Ќо розарий не единственное, что кажетс€ огромным.`@` Ѕаттлер, ты тоже очень вырос!"`\
+`"Hahaha.`@` Looks like you got bored in these 6 years without Battler, huh, Jessica?`@` But the area here is not the only thing that seems huge.`@` Battler, you've grown quite a lot as well!"`\
 
 cl r,23
 ld r,MAR_DefA1,24
 ld r,MAR_fukigenA1,80
 
 ;БuР^ЧҐШ±БAВњВЅВ∆ВаСеВЂВ≠В»ВзВ»ВҐБB@ВҐВ¬В№В≈МoВЅВƒВаБAФwВ™РLВ—В»ВҐБBВ§Б[БBБv@
-`"ј ћари€ совсем не выросла, правда?`@` ¬рем€ идЄт, а € всЄ того же размера, у-у."`\
+`"Maria didn't grow at all, did she?`@` Time passes, but I always remain the same size, uu-."`\
 
 
 ld c,BUT_DefA1,80
 
 ;БuСеПдХvВЊВЇБB@Р^ЧҐШ±ВаВїВћУаБAВҐБ[ВЅВѕВҐРLВ—ВйВ©ВзВжВ£БB@ВїВкВ±ВїБAПгВ…ВаСOВ…ВаВ»Б[БI@Б@ВҐБ[ВЅВ–ВЅВ–ВЅВ–БIБv\
-`"Ќе переживай.`@` “ы тоже скоро начнЄшь расти.`@` » вверх, и вперЄд!`@` »хи-хи-хи!"`\
+`"Don't worry.`@` You'll start growing soon too.`@` In a whole variety of ways!`@` Ihihihihi!"`\
 
 se1 3
 cl r,23
 
 ;БuБHБHБH@Б@Г}Г}Б[БB@ФwВЅВƒСOВ…ВаРLВ—ВйБHБv\
-`"???`@` ћама?`@` –азве можно расти вперЄд?"`\
+`"???`@` Mama?`@` Are there many ways one can grow?"`\
 
 ld l,JES_IkariA1,80
 
@@ -7296,37 +7296,37 @@ se1 10
 quakey 1,100
 
 ;БuВ±ВзБAГGГНРнРlГbБIБI@Б@Р^ЧҐШ±В…В®В©ВµВ»ШbВрВЈВйВсВґВбВЋБ[ВЇБIБIБv@
-`"Ёй, извращенец Ѕаттлер!!!`@` Ќе учи ћарию таким странным штукам!"`\
+`"Hey, Battler, you pervert!!!`@` Don't teach Maria such weird stuff!"`\
 
 cl c,0
 ld r,BUT_KomaruA1,23
 
 ;БuВ§ВнВЅВљВљВљВљВљБI@Б@ОйОuНБВћЦ\ЧЌХ»ВЌСКХѕВнВзВЄВЊВ»ВЯБI@Б@ВҐВЅВ–В–В–В–БIБv\
-`"”ва-а-а!`@` Ќасильственные тенденции ƒжессики тоже не изменились!`@` »хи-хи-хи-хи!"`\
+`"Uwaaa!`@` Jessica's violent ways haven't changed at all either!`@` Ihihihihi!"`\
 
 bg black,22
 bg rose_G1a,22
 ld c,RUD_WaraiA2,23
 
 ;БuВўВзБAНsВ≠ВЉГKГLЛ§БAВґВбВкВ†В§ВћВЌМгВ≈В…ВµВлВ°БIБv@
-`"Ёй, реб€тн€, пошли уже, повал€ть дурака вы сможете и позже!"`\
+`"Hey, let's go you brats, you can fool around later!"`\
 
 ld l,KIR_DefA1,23
 ld l,KIR_WaraiA2,80
 
 ;БuВUФNВ‘ВиВћНƒЙпВЊВаВћБB@ЛїХ±ВµВƒВйВћВжБAВЁВсВ»БBБv\
-`"Ёто их перва€ встреча за шесть лет.`@` ¬се они так взволнованны."`\
+`"It's the first time they met in 6 years.`@` They're all pretty excited."`\
 
 ld r,GOH_DefA1,24
 ld r,GOH_omakaseA2,80
 
 ;БuВ≥В≥БAКFЧlХыБB@ГQГXГgГnГEГXВ÷В≤ИƒУаВҐВљВµВ№ВЈБB@В«В§ВЉВ±ВњВзВ÷БAВ«В§ВЉВ«В§ВЉБcБcБBБv@
-`"„то ж, дамы и господа.`@` я провожу вас в домик дл€ гостей.`@` ѕрошу сюда..."`\
+`"Now, everyone.`@` I will lead you to the guesthouse.`@` Please come along, this way..."`\
 
 ld c,RUD_DefA1,80
 
 ;БuВсБcБH@Б@В«В§ВµВљВжБAРнРlВЯБH@Б@В±ВЅВњВЊВЇБHБv\
-`"Ё?..`@` ¬ чЄм дело, Ѕаттлер?`@` „то-то увидел?"`\
+`"Eh?..`@` What's the problem, Battler?`@` Did you see something?"`\
 
 mcl c,0
 bg black,24
@@ -7334,62 +7334,62 @@ bg rose_1ar,0
 ld c,BUT_MajimeA6,24
 
 ;Б@ЛљУcВ…С£В≥ВкБAКFБAГQГXГgГnГEГXВ÷МьВ©В§ВћВ…БB@РнРlВЊВѓВЌБAЧIСRВ∆БAБcБcВ†ВйВҐВЌХрСRВ∆БAеKеNТлЙАВрТ≠ВяВљВ№В№БAСЂВрО~ВяС±ВѓВƒВҐВљБB\
-` ѕосле того как их позвал √оуда, все направились в домик дл€ гостей.`@` ќдин только Ѕаттлер продолжал рассматривать розарий...спокойно или, может, слегка изумлЄнно.`\
+` After being called by Gohda, everyone headed towards the guesthouse.`@` Only Battler continued to gaze at the rose garden... calmly and with a little bit of surprise in his eyes.`\
 
 ld r,GEO_DefA1,24
 
 ;БuВ«В§ВµВљВсВЊВҐБAРнРlВ≠ВсБBБv@
-`"„то такое, Ѕаттлер?"`\
+`"Battler, what's up?"`\
 
 cl c,0
 ld l,BUT_NayamuA5,24
 
 ;БuИЂВ°БB@РжВ…НsВЅВƒВƒВ≠ВкВйВ©БBБv\
-`"»звини. ћожете пойти вперЄд?"`\
+`"Ah, sorry. Just go ahead wihtout me."`\
 
 ld c,MAR_DefA1,24
 ld c,MAR_OdorokiA1,80
 
 ;БuБcБcВ§Б[БH@Б@БcБcРнРlБAВ«В§ВµВљВћБcБHБv@
-`"...”-у?`@` ...Ѕаттлер, что-то не так?.."`\
+`"...Uu?`@` ...Battler, is something wrong?.."`\
 
 ld l,BUT_NayamuA4,80
 
 ;БuХЧВ…БAУЦВљВЅВƒВҐВљВҐВсВЊБB@БcБcП≠ВµВЊВѓВ»БBБv@
-`"я просто хочу подольше посто€ть на ветру.`@`  ...≈щЄ немного."`\
+`"I just want to feel the wind a little longer.`@` ...Just give me a bit."`\
 
 cl r,23
 ;ld r,JES_AtyaA2,24
 ld r,JES_AkuwaraiA1,24
 
 ;БuЙљВрГLГUВ»В±В∆ВрБcБI@Б@ВїВсВ»ВћМгВ≈ВЊВЅВƒБAВҐВ≠ВзВ≈ВаПoЧИВйВЇБ[БHБv\
-`"„его это ты такой самодовольный?..`@` ѕозже у теб€ будет куча времени на это."`\
+`"What's up with you being so smug?..`@` Can't you do that as much as you want later?"`\
 
 ;Б@В≥ВЅВЂВ№В≈ВЌБAВЁВсВ»В∆В†ВсВ»В…В”ВіВѓВƒВҐВљВћВ…БB@
 ;Б@РнРlВћХ\ПоВЌБAВҐВ¬ВћК‘В…В©ЧJВҐВрКіВґВ≥ВєВйВаВћВ…В»ВЅВƒВҐВљБB@
-` “олько что он беспечно дурачилс€ с кузенами.`\
-` Ќо лицо Ѕаттлера ни с того ни с сего помрачнело.`\
+` Until just now he had been carelessly fooling around with his cousins.`\
+` ЌBut now, all of a sudden, Battler's expression showed a slight hint of gloom.`\
 
 ;Б@ВїВћУµВћТЖВ…БAВҐВ∆В±ВљВњВћОpВЌВ»ВҐБB\
-`  узены не отражались в его глазах.`\
+` His eyes did not reflect his cousins.`\
 
 ;Б@еKеNВћЙ‘В—ВзВ™ХСВҐОUВйеKеNТлЙАВћМхМiВ©БA@БcБcВ†ВйВҐВЌБAВїВћФёХыВћБAКDРFВћЛуВ™ЙfВЅВƒВҐВйВЊВѓВЊВЅВљБB\
-` ¬ них отражались только лепестки роз, кружащие по розарию,`@` ...и даже серое небо на горизонте.`\
+` The only thing it reflected, was the sight of the rose petals dancing through the rose garden,`@` ...or maybe even the grey sky at the horizon.`\
 
 cl c,23
 ld c,GEO_HohoemiA1k,24
 
 ;БuБcБcБcВїВ§В©ВҐБB@ВґВбВ†БAНsВ±В§В©БAВЁВсВ»БBБv\
-`"......’орошо.`@` Ќу что, пойдЄмте."`\
+`"...Alright then.`@` Well, let's go, everyone."`\
 
 
 ;Б@ВUФNВ‘ВиВћШZМђУЗБAБcБcВҐВвБAЙEСгЛ{Й∆В»ВћВЊБB@
 ;Б@РнРlВ…ВЊВЅВƒБAРSВћРЃЧЭВ…ВнВЄВ©ВћОЮК‘В™ХKЧvВ…ИбВҐВ»ВҐБB@
-` –оккенджима спуст€ шесть лет...хот€ нет, семь€ ”широми€.`\
-` Ѕыло €сно, что Ѕаттлеру требовалось чуть больше времени, чтобы разобратьс€ в своих чувствах.`\
+` Battler came back to Rokkenjima -- no, the Ushiromiya family -- after six years.`\
+` It was clear that he needed some time to sort out his feelings.`\
 
 ;Б@ПчО°ВЌВїВ§О@ВµБAОйОuНБВ∆Р^ЧҐШ±В…БAРжВ…НsВЅВƒВҐВжВ§В∆С£ВЈБB\
-` ƒжордж пон€л и попросил ћарию и ƒжессику пойти вперЄд вместе с ним.`\
+` George understood that, and so he asked Maria and Jessica to accompany him ahead.`\
 
 cl c,0
 cl r,22
@@ -7397,38 +7397,38 @@ bg black,22
 
 
 ;Б@ЙљВµВлБAВUФNВаМoВЅВљВћВЊБB@
-` ¬сЄ-таки прошло шесть лет.`\
+` After all, it's been six years.`\
 
 ;Б@О©Х™ВљВњВЌВUФNСOВ…ЦяВЅВљВжВ§В…В≥ВЅВЂВ№В≈ВЌВµВбВҐВ≈ВҐВљВ™БA@БcБcВїВкВЌВ†В≠В№В≈ВаВUФNСOВћВ±В∆В≈В†ВЅВƒБB@
 ;Б@В†ВкВ©ВзВћТЈВҐОЮК‘В™БAФёВћРgТЈВвСћКiВ™ВїВ§В≈В†ВйВжВ§В…БAБcБcРSВ≥В¶ВаБB@СеВЂВ≠ХѕВ¶ВљВ…ИбВҐВ»ВҐВћВЊБB\
-` “олько что они играли так, будто вернулись в прошлое шестилетней давности,`@` ...но так было шесть лет назад.`\
-` —пуст€ столько времени дело €вно было не только в росте и особенност€х, ...но и в его разуме.`@` ќн наверн€ка сильно изменилс€.`\
+` Just now, they had been playing the same way they used to six years ago,`@` but despite that, it was still six whole years.`\
+` After such a long time it was surely not just his height and features, but his mind as well.`@` He must have changed severely.`\
 
 bg rose_1ar,0
 ld c,BUT_FutekiA4,22
 
 ;Б@ВїВћХ\ПоВ…ВЌБAВUФNСOВћБAВ№ВЊВ№ВЊОqЛЯВЊВЅВљН†ВћРнРlВ∆ВЌВ№ВЅВљВ≠ИбВ§ЙљВ©В™ХВВ©ВсВ≈ВҐВйБB@
 ;Б@ОйОuНБВаВїВ§О@ВЈВйБB\
-` ¬ его выражении всплыло нечто другое, не похожее на Ѕаттлера шестилетней давности, который был самым обычным ребЄнком.`\
-` ƒжессика тоже так подумала.`\
+` In that expression, one could see something entirely different than the Battler from 6 years ago, who was just a child.`\
+` Jessica thought so as well.`\
 
 ld r,JES_MajimeA1,24
 ld r,JES_futekiA1,80
 
 ;БuВнВ©ВЅВљБB@БcБcВґВбВ†ОДВљВњВЌРжВ…НsВЅВƒВйВЇБB@МгВ≈В»БAРнРlБcБIБv@
-`"ѕон€ла.`@`  ...ћы пойдЄм вперЄд.`@` ”видимс€ позже, Ѕаттлер!.."`\
+`"Got it.`@` ...We're gonna go ahead.`@` See you later, Battler!.."`\
 
 ld c,BUT_futekiA5,80
 
 ;БuБcБcБcВ†ВЯБB@МгВ≈В»БBБv\
-`"......ƒа.`@` ƒо скорого."`\
+`"...Yeah.`@` Later."`\
 
 cl r,23
 
 ;Б@ШOНјВ…МƒВќВкВљР^ЧҐШ±В™УцВвВ©В…ЛмВѓПoВµБAВїВкВрПчО°В∆ОйОuНБВаТ«В§БB@
 ;Б@МгВ…ВЌБAР√В©В…ХЧВ™РБВ≠еKеNТлЙАВ…БAРнРlВћОpВЊВѓВ™ОcВЅВљБB\
-` ћарию позвала –оза, и она побежала к ней. ƒжордж и ƒжессика последовали за ней.`\
-` ѕосле этого в розарии среди тихо дующего ветра осталс€ один Ѕаттлер.`\
+` Maria spurted ahead hastily when she was called by Rosa, and George and Jessica followed her.`\
+` After that, the only thing left in the rose garden, among the silently blowing wind, was Battler's figure.`\
 
 textoff
 
@@ -7441,27 +7441,27 @@ E_A
 
 
 ;БuБcБcБcБcБcБcБcБcБcБcБcБcБcБBБv\
-`"............................"`\
+`"..."`\
 
 ;Б@РeС∞ВљВњВћОpВ™СSВƒГQГXГgГnГEГXВ…ПЅВ¶ВљВћВрМ©УЌВѓВйВ∆БA@БcБcРнРlВЌП≠ВµВЊВѓЛCВрК…ВяВљВ©ВћВжВ§В…БAЧЉМ®ВћЧЌВрФ≤ВЂБAВЌВЯБAВЅВ∆Ч≠СІВрВ¬ВҐВљБB\
-` ”бедившись, что все члены семьи вошли в домик дл€ гостей,`@` ...Ѕаттлер расслабилс€, сбросил с плеч напр€жЄнность и коротко вздохнул.`\
+` After he had made sure that all signs of the family members had vanished into the guesthouse,`@` ...Battler relaxed a little, let the tension leave his shoulders and sighed shortly.`\
 
 me1v 16,50
 
 ld c,BUT_NayamuA4,80
 
 ;Б@БcБcРнРlБAРнРlБB@БcБcРнРlВ≠ВсБAРнРlВ≠ВсБAВ©БB\
-` ...Ѕаттлер.`@`  ...Ѕаттлер...`\
+` ...Battler.`@` ..."Battler", huh?...`\
 ld c,BUT_futekiA4,80
 ;Б@ЙEСгЛ{РнРlБB@
-` ”широми€ Ѕаттлер.`\
+` "Ushiromiya Battler".`\
 
 ;Б@ЙіВћЦЉСOВ∆ВҐВ§В±В∆В…В»ВйБB@ЙљУxВаВїВћЦЉСOВрМƒВќВкВљБB@
 ;Б@БcБcВїВкВ™ЙіВћЦЉВ»ВћВЊВлВ§В©ВзБAВїВ§В»ВйВсВЊВлВ§В»БB@
 ;Б@ВµВ©ВµБAЙіВЌБAЙіВћТmВйЙEСгЛ{РнРlВ∆ВЌБAБcБcОcФOВ»В™ВзБAИўВ»ВйВћВЊБB\
-` ћоЄ им€.`@` ћен€ называли им много раз.`\
-` ...Ќичего удивительного, раз мен€ так зовут.`\
-` Ќо € и ”широми€ Ѕаттлер, которого € знаю... √рустно признавать, что они совершенно разные.`\
+` That's supposed to be my name.`@` I have been called by it many times.`\
+` ...Obviously. That's what a name is.`\
+` But, as sad as it is to admit, the "Ushiromiya Battler" that I know and myself are completely different people.`\
 
 ;E_MA
 bg white,24
@@ -7479,16 +7479,16 @@ se2 22
 bfly1 11
 
 ;Б@ВїВћОЮБAЛ≠ВҐХЧВ™еKеNТлЙАВрРБВЂВ ВѓВљБB@
-`  ак раз в этот момент по розарию пронЄсс€ сильный порыв ветра.`\
+` It was then that a forceful wind blew through the rose garden.`\
 
 ;Б@ИкРƒВ…еKеNВћЙ‘В—ВзВ™ХСВҐОUВиБAХСВҐПгВ™ВиБAМґСzУIВ»ХЧМiВрМ©ВєВљБB\
-` ¬ мгновение ока лепестки роз разлетелись и закружили, раскрыва€ фантастический пейзаж.`\
+` In the blink of an eye, the rose petals scattered and danced about, revealing a fantastic scenery.`\
 
 ;Б@ВµВ©ВµБAБcБcВїВћХСВҐПгВ™ВЅВљЙ‘В—ВзВљВњВ™БA@В№ВйВ≈ОЮК‘В™УАВиВ¬ВҐВљВ©ВћВжВ§В…БAТЖЛуВ…УЃВЂВрО~ВяВƒВµВ№В§БB@
-` Ќо...эти кружащие лепестки зависли в воздухе, будто застыв во времени.`\
+` But then...those dancing rose petals, as if they were frozen in time, stopped moving in midair.`\
 
 ;Б@В»ВћВ…БAХЧВЊВѓВЌРБВЂВ ВѓВƒВҐВйБAИўРҐКEБB\
-` Ёто был параллельный мир, где лишь дул ветер.`\
+` That was a parallel world, where only the wind blew.`\
 
 se3 22
 cbfly 0
@@ -7507,7 +7507,7 @@ bgm1 163
 ld c,RON_AkuwaraiA1,80
 
 ;БuБcБcРнРlВ≥В№БB@В®ЛAВиВ»В≥ВҐВ№ВєБBБv\
-`"√осподин Ѕаттлер.`@` — возвращением."`\
+`"Lord Battler.`@` Welcome back."`\
 
 ld r,BU3_NayamuA5s,2
 
@@ -7516,18 +7516,18 @@ wait 2000
 ld r,BU3_NayamuA4,22
 
 ;БuГНГmГEГFВ©БB@БcБcМ≥ЛCВїВ§ВЊВ»БB@В«ВкВ≠ВзВҐВ‘ВиВ»ВсВЊБH@Б@ЙіВљВњВЌБBБv\
-`"ќ, –онове.`@`  ...’орошо выгл€дишь.`@` —колько времени прошло с нашей последней встречи?"`\
+`"Oh, Ronove.`@` ...You're looking good.`@` How long has it been since we last met?"`\
 
 cl c,0
 ld l,RON_DefA1,24
 
 ;БuВkВБВОВДБ@ВПВЖБ@ВФВИВЕБ@ВЗВПВМВДВЕВОБ@ВЧВЙВФВГВИВћМгВ…БA@ВsВТВЙВОВЙВФВЩБ@ВПВЖБ@ВФВИВЕБ@ВЗВПВМВДВЕВОБ@ВЧВЙВФВГВИВ≈В≤ИкППВ≥ВєВƒТЄВЂВ№ВµВљБB@БcБcВҐВ¶БAГxГЛГУГJГXГeГЛЛ®ВћГQБ[ГАВ™Н≈МгВ…В»ВиВ№ВЈВ©ВзБcБcБBБv\
-`"ѕосле «емли золотой ведьмы € имел честь быть на вашей стороне во врем€ “роицы золотой ведьмы.`@`  ...¬прочем, если учесть, что игрова€ доска леди Ѕернкастель вроде как была последней..."`\
+`"After 'Land of the Golden Witch',`@` I had the privilege to be at your side during 'Trinity of the Golden Witch'.`@`  ...No, if we consider that Lady Bernkastel's gameboard is supposed to be the last..."`\
 
 ld r,BU3_futekiA4,80
 
 ;БuБcБcВ÷ВЅБB@В«ВкВ≠ВзВҐВ‘ВиВ«В±ВлВ©БAВ¬ВҐВ≥ВЅВЂЙпВЅВљВќВ©ВиБAВґВбВЋВ•В©БBБv\
-`"...Ќеважно.`@` —колько бы времени ни прошло, мы снова встретились."`\
+`"...No matter.`@` However long it was, we met again anyway."`\
 
 
 bg white,23
