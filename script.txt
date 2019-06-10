@@ -7368,7 +7368,7 @@ ld r,JES_AkuwaraiA1,24
 ;　さっきまでは、みんなとあんなにふざけていたのに。@
 ;　戦人の表情は、いつの間にか憂いを感じさせるものになっていた。@
 ` Until just now he had been carelessly fooling around with his cousins.`\
-` ﾍBut now, all of a sudden, Battler's expression showed a slight hint of gloom.`\
+` But now, all of a sudden, Battler's expression showed a slight hint of gloom.`\
 
 ;　その瞳の中に、いとこたちの姿はない。\
 ` His eyes did not reflect his cousins.`\
@@ -7756,7 +7756,7 @@ me1v 17,90
 ;「身動きの出来ない譲治の兄貴の目の前で！@　紗音ちゃんの首をゆっくりと絞めて殺したならッ、譲治の兄貴は何色の涙を零してくれるのかな？@　息子が犯人だと知って、そして頭を叩き割られる瞬間、クソ親父は何色の血を零してくれるのかな？@　あぁ、夏妃伯母さんの涙が見てみたい。@朱志香をぐちゃぐちゃのぎったぎたに殺してやって、@その死体をさも、たった今みつけたッ、みたいにしてやって。@夏妃伯母さんがどんな顔して、どんな涙を流しながら駆け寄るのか。@あの美人が、どんなぐしゃぐしゃな顔で泣くのか、見てみたいッ。@……あぁ、俺も一緒に泣いてやるだろうぜ。@そして泣きじゃくる伯母さんを胸に抱き締めて、俺も一緒に泣いてやるだろうぜ。」\
 `"I want it in front of George's eyes, while he cannot move!`@` What colour might the tears be he is going to shed, when I will be slowly strangling Shannon to death in front of his eyes?"`\ 
 `"What colour might the blood that idiot father is going to spill be, when I'll blow his head off the moment he learns that his son is the culprit?"`\
-`"Aah, I want to see the tears of Aunt Natsuhi.`@` I will smash Jessica to a bloody, sticky pulp,`@` and then I will pretend I would have just found her corpse.`@` What face might Aunt Natsuhi show, and what tears might she shed while starting to run?`@` With what kind of crumpled face might that beauty cry? I want to see."`\
+`"Aah, I want to see the tears of Aunt Natsuhi.`@` I will smash Jessica to a bloody, sticky pulp,`@` and then I will pretend I would have just found her corpse.`\` What face might Aunt Natsuhi show, and what tears might she shed while starting to run?`@` With what kind of crumpled face might that beauty cry? I want to see."`\
 `"...Aah, and I will cry along with her.`@` And then I will press her crying to my chest, and will make her think I am crying along with her."`\
 
 ;「……そして、………俺は最低最悪な下衆の顔で、泣き声とも笑い声ともつかない声で、@ぅっく、ぇっく、……くく、くっくくくく、はっははははははは、はっははははっはっはっははははは！！@　見てぇんだろ？@　お前らが見てぇのはそういう話なんだろ？！@　はははは、見せてやるよ。@この俺が、@“犯人たりえる右代宮戦人”がッ、お前らに最高のエンターテイメントを見せてやるッ、@/
@@ -8064,7 +8064,7 @@ ld l,BU3_MajimeA6s,23
 `"...That might happen.`@/
 ld l,BU3_FutekiA4,80
 ;……以前に聞いた、お前の音色も忘れられない。@お前は最高のバイオリンだったよ。@あの音色は、まさに天国から聞こえるかのようだった。@;……だが、もうしばらくはいい。@大事に大事にもったいぶる。@……それが、長く長く、永遠に愛でる唯一のコツなんだからよ。」\
-`  ...After I heard it once, I will never forget your sound ever again.`@` ou were the most perfect violin.`@` That sound, it was as if it was coming from heaven itself."`\
+`  ...After I heard it once, I will never forget your sound ever again.`@` You were the most perfect violin.`@` That sound, it was as if it was coming from heaven itself."`\
 `"...But I can wait a little longer.`@` Because it is something really, really important.`@` ...Because that is the one sound that I have loved for a long, long time, and will love for all eternity."`\
 
 ld r,BEA_AkuwaraiA1,80
@@ -8098,7 +8098,7 @@ ld l,BU3_nayamuA2,80
 ld r,BEA_FutekiA2,80
 
 ;「……うむ。@認めようぞ。@……そなたは、“そなた”である。@……再び会えて嬉しいぞ。@……そして、そなたは出会う度に、強く、美しく、………そして恐ろしくなる。」\
-`"...Hmm.`@` I'll acknowledge it.`@` ...You are'you'.`@` ...I am so happy to be able to meet you again.`@` ...And through meeting you, being able to become stronger, more beautiful, ...and more dreadful."`\
+`"...Hmm.`@` I'll acknowledge it.`@` ...You are 'you'.`@` ...I am so happy to be able to meet you again.`@` ...And through meeting you, being able to become stronger, more beautiful, ...and more dreadful."`\
 
 cl l,22
 bg black,22
@@ -8499,7 +8499,7 @@ br
 se1 59
 locate 0,3
 ;　もう決まっております。@恐らく、ここを皆さんがお読みの頃には、本格的に制作がスタートしているものと思います。@
-` I've already decided.`@` Maybe, when you'll be reading those words, its production will have already had a full-blown start.`@
+` #ff0000I've already decided.#ffffff`@` Maybe, when you'll be reading those words, its production will have already had a full-blown start.`@
 br
 ;　なるべく、新年の早い内から、作品概要をご紹介していきたいと思っておりますので、どうかご期待いただければ幸いです。\
 ` If possible, I'd like to give a summary introduction in the beginning of the new year, therefore please look forward to it.`\
@@ -8525,7 +8525,7 @@ br
 ;　皆さんはご健康でお過ごしですか？@
 ;　昨年は、救急車も初体験し、体のあちこちを病む、実に多難な年でした。\
 ` How are you? Are you feeling well?`@
-` ﾂLast year I've been taken away with the ambulance for the first time, my body was hurting everywhere, all in all it's been a year full of troubles.`\
+` Last year I've been taken away with the ambulance for the first time, my body was hurting everywhere, all in all it's been a year full of troubles.`\
 locate 0,3
 ;　体が調子を崩したら。@面倒臭がらずに病院へ行って下さいね。@
 ` If your body starts falling apart,`@` and you smell trouble, please go to a hospital.`@
