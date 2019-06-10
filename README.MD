@@ -18,7 +18,6 @@ Main points of interest for developers:
 - `script.txt` is the main script file which is used by this mod. 
 This is the file where the English translation is being added to.
 ***IMPORTANT***: this file is encoded in Shift-JIS, and must remain in this encoding!
-- `script-old.txt` is the old English translation (from before the PS3 patch). Editing this is pointless, merely consult it for the English text.
 - `nscmake.exe` is the script compiler. Run it with `nscmake script.txt` to produce a playable version of the script.
 - `nscdec.exe` is the script *de*compiler. Run it with `nscdec nscript.dat` to get the script back out of the game if you somehow messed up the editable copy.
 - `nsadec.exe` is the nsa unarchiver. It's mostly useless for this project, however, it may be useful for obtaining English resources from various other Umineko modifications.
