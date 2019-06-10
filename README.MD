@@ -16,7 +16,6 @@ Installation instructions:
 
 Main points of interest for developers:
 - `script.txt` is the main script file which is used by this mod. 
-This is the file where the English translation is being added to.
 ***IMPORTANT***: this file is encoded in Shift-JIS, and must remain in this encoding!
 - `nscmake.exe` is the script compiler. Run it with `nscmake script.txt` to produce a playable version of the script.
 - `nscdec.exe` is the script *de*compiler. Run it with `nscdec nscript.dat` to get the script back out of the game if you somehow messed up the editable copy.
