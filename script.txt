@@ -8469,76 +8469,76 @@ bg black,22
 bg Mlib_1c,22
 locate 0,3
 ;Б@В±ВсВ…ВњВЌБAЧ≥ЛRОm07В≈ВЈБB@
-` «дравствуйте, –юкиши07 на месте.`@
+` Hello, Ryuukishi07 here.`@
 br
 ;Б@ВаВµВ±В±ВрРVФNВ…В®У«ВЁВћКFВ≥ВсВЌБAВ†ВѓВ№ВµВƒВ®ВяВ≈В∆В§В≤ВіВҐВ№ВЈБB\
-` ∆елаю счастливого Ќового года всем, кто читает это в Ќовый год.`\
+` I wish a happy new year to everyone reading this in the new year.`\
 locate 0,3
 ;Б@В±ВћУxВЌБAФёКЁЙ‘СжУсЦйВ∆Й©ЛаЦ≤СzЛ»ВbВqВnВrВrВрУѓОЮНwУьВµВƒВҐВљВЊВЂВ№ВµВƒБAРљВ…В†ВиВ™В∆В§В≤ВіВҐВ№ВЈБB@
-` ’отелось бы воспользоватьс€ случаем, чтобы поблагодарить вас за покупку Џ00171’иганбана - ночь втора€Џ00187 и Џ00171Musou Kyoku CROSSЏ00187.`@
+` I would like to take the occasion to thank you deeply for buying both Higanbana 2nd Night and Golden Fantasia at the same time.`@
 br
 ;Б@БwВ§ВЁВЋВ±ЙHБxВвБAПђНыОqВ»В«БAН°ЙсВЌГIГ}ГPВрРFБXВ∆ХtВѓВƒВЁВ№ВµВљВ™Ф@ЙљВЊВЅВљВ≈ВµВеВ§В©БB@
 ;Б@В®КyВµВЁВҐВљВЊВѓВљВ»ВзНKВҐВ≈ВЈБB\
-` ¬ам понравились различные дополнительные материалы вроде Umineko Hane и буклета?`@` Ѕуду рад, если да.`\
+` Did you enjoy the various extras attached this time, like Umineko Hane, or the booklet?`@` I would be happy if you did.`\
 ; БwВ§ВЁВЋВ±БxВћВSФNК‘ВЌБAТЈХ“ВћРІНмВ≈ЦZВµВ≠БAВїВкВЊВѓВ…К|В©ВиРЎВиВЊВЅВљВћВ≈БA@ХљРђВQВRФNВЌБAКiУђГQБ[ГАВвГIГ}ГPБAВїВћСЉВҐВлВҐВлВ»В±В∆В…ТІРнВ≈ВЂВƒКyВµВ©ВЅВљВ≈ВЈБB@
 locate 0,3
-` я четыре года был зан€т длительным процессом разработки Umineko и вкладывал в него все силы,`@` поэтому преодолевать в 2011-м различные трудности вроде создани€ файтинга, бонусных дисков и прочего было одним удовольствием.`@
+` I was so busy with the creation of Umineko for four years, putting all of my energy into that,`@` that I actually had fun overcoming various challenges in 2011, like creating the fighting game, the bonus discs, and other stuff.`@
 br
 ;Б@ПЙВяВƒВћВ±В∆ВЊВзВѓВ≈БAЛкШJВаСљВ©ВЅВљВ≈ВЈВ™БAФсПнВ…КyВµВҐИкФNВ≈ВµВљБB\
-` ѕоскольку это было ново дл€ мен€, возникало много сложностей, но год оказалс€ неожиданно зан€тным.`\
+` Since it was new to me, there have been a lot of problems, but it was an unexpectedly fun year.`\
 
 bg black,22
 bg Mlib_1b,22
 locate 0,3
 ;Б@В≥ВƒБAЦ{ФNБiХљРђВQВSФNБjВЌБAНƒВ—БAРVВµВҐНмХiВ…ТІРнВЈВйЧ\ТиВ≈ВЈБB@
-` ¬ этом году € планирую начать новую работу.`@ 
+` Well then, this year (2012), I plan to challenge myself with a new work.`@ 
 br
 ;Б@БwВ–ВЃВзВµБxБwВ§ВЁВЋВ±БxБwЙ©ЛаЦ≤СzЛ»БxБwФёКЁЙ‘БxВ…С±В≠БAОЯВћНмХiВЌБcБcБB\
-` ћоим следующим вкладом после Higurashi, Umineko, Ougon Musou Kyoku и Higanbana будет...`\
+` My next installment, after Higurashi, Umineko, Golden Fantasia and Higanbana will be Rose Guns Days.`\
 
 se1 59
 locate 0,3
 ;Б@ВаВ§МИВ№ВЅВƒВ®ВиВ№ВЈБB@Л∞ВзВ≠БAВ±В±ВрКFВ≥ВсВ™В®У«ВЁВћН†В…ВЌБAЦ{КiУIВ…РІНмВ™ГXГ^Б[ГgВµВƒВҐВйВаВћВ∆ОvВҐВ№ВЈБB@
-` я уже решил.`@` ¬озможно, когда вы будете читать эти слова, его разработка уже будет в самом разгаре.`@
+` I've already decided.`@` Maybe, when you'll be reading those words, its production will have already had a full-blown start.`@
 br
 ;Б@В»ВйВ„В≠БAРVФNВћСБВҐУаВ©ВзБAНмХiКTЧvВрВ≤П–ЙоВµВƒВҐВЂВљВҐВ∆ОvВЅВƒВ®ВиВ№ВЈВћВ≈БAВ«В§В©В≤КъС“ВҐВљВЊВѓВкВќНKВҐВ≈ВЈБB\
-` ѕо возможности € бы хотел в начале этого года дать краткое описание, поэтому ожидайте с нетерпением.`\
+` If possible, I'd like to give a summary introduction in the beginning of the new year, therefore please look forward to it.`\
 locate 0,3
 ;Б@КFВ≥ВсВ…КyВµВсВ≈ВҐВљВЊВѓВйВ±В∆ВрИкФ‘В…БA@В±ВкВ№В≈ВћРҐКEКѕВ∆ВЌВ№ВљИкЦ°ИбВЅВљВаВћВрВ®УЌВѓВЈВйВ¬ВаВиВ≈ВЈБB@
-` –ади самого главного - вашего удовольстви€,`@` € хочу, чтобы мо€ нова€ работа немного отличалась от тех, которые уже написаны.`@
+` With your enjoyment as the most important thing,`@` I want to make a new setting a little different from those I created until now.`@
 br
 
 ;Б@ОДВаБAВ±ВкВ№В≈В…Х`ВҐВљВ±В∆ВћВ»ВҐРVВµВҐРҐКEКѕВ÷ВћТІРнВ…БAН°В©ВзВнВ≠ВнВ≠В™О~В№ВиВ№ВєВсБB@
-` ћне тоже приносит много радости погружение в задачу разработки совершенно нового мира.`@
+` I too am excited by thinking of diving myself in this challenge of drawing a brand new world.`@
 br
 
 
 ;Б@РVФNУxВаБAВ№ВЈВ№ВЈВ…В™ВсВќВЅВƒВҐВЂВ№ВЈВћВ≈БAВ«В§В©ВжВлВµВ≠В®КиВҐТvВµВ№ВЈБI\
-` ¬ этом году € продолжу делать всЄ возможное, так что оставайтесь с нами!`\
+` I will keep doing my best this year too, so please keep following us!`\
 
 bg black,22
 bg NAN_R1a,22
 locate 0,3
 ;Б@В±В±В©ВзВЌВзВ≠В™ВЂВ≈ВЈБB@
-` ј теперь несколько заметок.`@
+` And now for some scribbles.`@
 br
 ;Б@КFВ≥ВсВЌВ≤МТНNВ≈В®ЙяВ≤ВµВ≈ВЈВ©БH@
 ;Б@НрФNВЌБAЛ~Л}О‘ВаПЙСћМ±ВµБAСћВћВ†ВњВ±ВњВрХaВёБAОјВ…СљУпВ»ФNВ≈ВµВљБB\
-`  ак дела? ¬ы хорошо себ€ чувствуете?`@
-` ¬ прошлом году мен€ впервые увезли на машине скорой помощи - всЄ болело, в целом тот год был полон непри€тностей.`\
+` How are you? Are you feeling well?`@
+` ¬Last year I've been taken away with the ambulance for the first time, my body was hurting everywhere, all in all it's been a year full of troubles.`\
 locate 0,3
 ;Б@СћВ™Т≤ОqВрХцВµВљВзБB@Ц У|ПLВ™ВзВЄВ…ХaЙ@В÷НsВЅВƒЙЇВ≥ВҐВЋБB@
-` ≈сли почуете беду, об€зательно сходите в больницу.`@
+` If your body starts falling apart,`@` and you smell trouble, please go to a hospital.`@
 br
 ;Б@В†В»ВљВ™МТНNВ≈В†ВкВќБAВ†В»ВљВћОьВиВћРlВаБAВЁВсВ»НKВєВ»ВћВ≈ВЈВ©ВзБB\
-`  огда вы здоровы, люди вокруг вас тоже счастливы.`\
+` If you're healthy, people around you will feel happy too.`\
 
 locate 0,3
 ;Б@Ч≥ЛRОm07ВаВаВ§ВґВЂБAХsШfВћФNБB@
-` ћне скоро стукнет 40.`@
+` I will soon be tunrning 40.`@
 br
 ;Б@ЛCНЗВ∆Н™РЂВжВиВаБAВµВЅВ©ВиВ∆ВµВљГXГPГWГЕБ[ГЛВ∆МТНNУIРґКИВ™Х®ВрМЊВ§ФNЧоВ…В»ВЅВƒВЂВ№ВµВљБB\
-` Ѕоевой дух и сила воли уход€т, и в этом возрасте начинаешь задумыватьс€ о ведении здорового образа жизни.`\
+` Fighting spirit and willpower aside, it's become an age of tighter schedules and in which we started talking about having a healthier lifestyle.`\
 
 bg black,22
 bg Mlib_1c,22
@@ -8546,26 +8546,26 @@ bg Mlib_1c,22
 locate 0,3
 ;Б@СnНмКИУЃВаБAВ№ВЊВ№ВЊБAВ№ВЊВ№ВЊС±ВѓВƒВҐВЂВљВҐВ∆ОvВҐВ№ВЈБB@
 ;Б@ВїВћИ„В…ВЌМТНNСжИкБB@
-` я по-прежнему хочу ещЄ долгое врем€ заниматьс€ своим делом.`@` ѕоэтому здоровье на первом месте.`@
+` I still want to keep doing my production activity for a very long time.`@` Therefore, health comes first.`@
 br
 ;Б@ВїВµВƒЙљВжВиБB@
 ;Б@В±ВсВ»ОДВрН°В№В≈ОxВ¶ВƒВ≠ВкВљГXГ^ГbГtВЁВсВ»В…СќВЈВйКіО”ВћЛCОЭВњВ≈ВЈБB\
-` » прежде всего,`@` хотелось бы от всей души поблагодарить всех сотрудников, поддерживающих мен€.`\
+` And above all,`@` I want to thank from the bottom of my heart all of the staff members who supported me until today.`\
 locate 0,3
 ;Б@ГXГ^ГbГtВћВЁВсВ»ВћПХВѓВ™В†ВйВ©ВзВ±ВїБAКyВµВ≠НмЛ∆ВрВЈВйВ±В∆В™ПoЧИВ№ВЈБB@
 ;Б@ГXГ^ГbГtВћТNВ™Ф≤ВѓВƒВаБAВїВкВЌРђЧІВµВ№ВєВсБB@
-` »менно благодар€ им мне было так интересно заниматьс€ всем этим.`@` Ѕез кого-либо из них было бы иначе.`@
+` It is thanks to them that I could have fun working.`@` If even one of them wasn't there, this couldn't have been possible.`@
 br
 ;Б@Ч≥ЛRОm07ВЌБAЧКВкВйТЗК‘ВљВњВ…ИЌВ№ВкВƒБAЦ{УЦВ…НKВєВ≈ВЈБB\
-` я очень рад тому, что окружЄн товарищами, на которых можно положитьс€.`\
+` I'm truly happy I'm surrounded by comrades I can rely on.`\
 locate 0,3
 ;Б@ВЁВсВ»БAВҐВ¬ВаВҐВ¬ВаБAЦ{УЦВ…В†ВиВ™В∆В§БI@
-` —пасибо за всЄ!`@
+` Thanks for everything, everyone!`@
 br
 se1 4
 
 ;Б@В№ВљИкППВ…ГpГУГfГ~ГbГNВвВлБ[ВЋБI\
-` ƒавайте снова сделаем вместе что-нибудь крупное.`\
+` Let's make something huge together again, shall we?`\
 
 bg black,22
 
@@ -8574,55 +8574,55 @@ bg "bmp\background\sbook\gohoubi.bmp",22
 ;Б@В«Б[ВсБI@
 ;Б@Н]СРУVРmРжРґВ©ВзВ®Р≥МОВЅВџВҐГCГЙГXГgВрВҐВљВЊВЂВ№ВµВљБ[БI\
 locate 0,3
-` “а-да!`@
-` Ёкуса “акахито прислал мне новую иллюстрацию на новогоднюю тему!`\
+` Ta-dah!`@
+` Ekusa Takahito-sensei sent me a new-year-themed illustration!`\
 
 ;Б@НХРнРlВ∆РнРlВћГCГЙГXГgГЙГtВ©ВзБA@БuВ®Р≥МОВЅВџВ≠ВµВƒВ≠ВЊВ≥ВҐБIБvВ∆ВћВнВ™В№В№ВрХЈВҐВƒВҐВљВЊВЂЦ{УЦВ…В†ВиВ™В∆В§В≤ВіВҐВ№ВЈБ`БI@
 locate 0,3
-` «арисовка тЄмного Ѕаттлера и Ѕаттлера,`@` поэтому спасибо, что выслушали мою эгоистичную просьбу сделать еЄ Џ00171новогоднейЏ00187~!`@
+` It's a rough draft for an illustration of Black Battler and Battler,`@` so thanks for listening to my selfish request of making it 'new year-ish'!~`@
 br
 ;Б@В§Б[ВсБAСfР∞ВзВµВҐГCГЙГXГgВрВҐВљВЊВѓВƒБAЦ{УЦВ…КрВµВҐВ≈ВЈБI\
-` ƒа, € так счастлив, что получил такую красивую иллюстрацию!`\
+` Yeah, I'm so happy I received an illustration that beautiful!`\
 locate 0,3
 ;Б@ВҐВвВҐВвР^Ц ЦЏВ»ШbБB@
 ;Б@Ч≥ЛRОm07ВаВ≈ВЈВЋБA@В©В¬ВƒВЌСfУGВ»ГCГЙГXГgВрХ`ВЂВљВ≠ВƒБAВЄВҐВ‘ВсВ∆КGВћЧыПKВрВµВљВаВсВ»ВсВ≈ВЈВжБB\
-` Ќет, серьЄзно.`@
-`  огда-то € и сам хотел рисовать красивые иллюстрации и много практиковалс€ в рисовании.`\
+` No, I'm serious.`@
+` Once,`@` I wanted to draw beautiful illustrations too, and I practiced my drawing a lot.`\
 locate 0,3
 ;Б@В≈ВаБAКFВ≥ВсВаВ≤СґТmВћТ ВиБcБcБB@
-` Ќо, как вы уже знаете...`@
+` But as you already know...`@
 br
 ;Б@В§Б[ВсБAС ЦЏВЊВ»ВЯБAНЋФ\В»ВҐВ»ВЯБB@
 ;Б@В«В§ВвВЅВљВзБAВ±ВсВ»СfУGВ»ГCГЙГXГgВ™Х`ВѓВйВћВ©В»ВЯБB\
-` ƒа, всЄ бесполезно, у мен€ совсем нет таланта, правда?`@` »нтересно, как ему удалось нарисовать такой замечательный рисунок.`\
+` Yeah, it's useless, I really haven't got any talent, huh?`@` I wonder how he managed to draw a picture this beautiful.`\
 locate 0,3
 ;Б@ВЈВЅВ≤В≠Ч]ТkВ≈ВЈВ™БB@
 ;Б@НрФNБAГrГWГЕГAГЛГAБ[ГcВ≥ВсВжВиПoВљБuВqВЕВЧВТВЙВФВЕБvВ≈ВЌБAО©Х™ВћГVГiГКГIВ…ФуПгВҐВљВйРжРґВ…ГCГЙГXГgВрХ`ВҐВƒВаВзВ§В∆ВҐВ§ЛMПdВ»СћМ±ВрВµВ№ВµВљБB@
-` Ќаверное, это довольно большое отступление.`@
-` ¬ прошлом году - в Rewrite, созданной Visual Arts - иллюстрации к моему сценарию от »тару ’иноэ были драгоценным личным опытом.`@
+` This may be a pretty big digression.`@
+` Last year, in Rewrite, made by Visual Arts, having the illustrations for my scenario made by Itaru Hinoue-sensei has been a precious personal experience.`@
 br
 ;Б@В§В№ВҐРlВ…КGВрХ`ВҐВƒВаВзВ§ВћВЅВƒБAВҐВҐВ©ВаБcБcВЅВƒОvВҐВ№ВµВљБB@
 ;Б@ВљВ№В…ВЌБAГeГLГXГgВ…РкФOВµВƒБAГCГЙГXГgВЌВ§В№ВҐРlВ…В®КиВҐВµВњВбВ§ВћВаВ†ВиВ©В»ВЯБB\
-` я подумал, что хорошо, когда есть рисунки, нарисованные умелыми людьми.`@` ћожет, когда посв€щу себ€ написанию текста, € смогу врем€ от времени просить кого-нибудь делать мне иллюстрации...`\
+` I thought that it would be really nice having drawings made by skillful people.`@` Maybe, when I'll be devoting myself to text writing, I could ask someone skilled to make the illustrations for me from time to time...`\
 locate 0,3
 ;Б@В≈ВаКFВ≥ВсБAКGВ™Ч≥ЛRОm07ВґВбВ»В≠В»ВЅВљВзВ«В§ОvВҐВ№ВЈБH@
 ;Б@ВњВеБAВњВеВЅВ∆ОвВµВ≠В†ВиВ№ВєВсБHБI@
-` Ќо что бы вы подумали, если бы –юкиши07 больше не рисовал?`@
-` –-разве не грустно будет?!`@
+` However, what would you think if Ryuukishi07 wasn't drawing anymore?`@
+` W-wouldn't it be a little sad?!`@
 se1 47
 br
 ;Б@В¶БHБ@СSСRЦвСиВ»ВҐБH@Б@КGВЌгYЧнВ»ХыВ™ВҐВҐБH@
 ;Б@В§Б[Б[ВсБAВїВ§В≈ВЈВжВЋВ•БB@ГuГqГqБAГTБ[ГZГУВЧБB\
-` „то? Ќет проблем?`@` ¬ы предпочитаете красивые картинки?`@` ”-у-ух, да?`@` Ћадно, забудьте, лол.`\
+` What? No problem at all?`@` You prefer having pretty pictures?`@` Uuunn, is that so, huh?`@` Bleeh, forget it, lol.`\
 ;Б@ВҐВЄВкВ…ВєВжБAВ±ВкВ©ВзВаВ™ВсВќВиВ№ВЈБI@
 ;Б@ЙЮЙЗВµВƒЙЇВ≥ВйКFВ≥ВсВ∆БAВ±ВкВ©ВзВаИкППВ…КyВµВсВ≈ВҐВѓВйНмХiВрФ≠Х\ВµВƒВҐВЂВљВҐВ∆ОvВҐВ№ВЈБB@
 locate 0,3
-` ¬о вс€ком случае, € буду старатьс€!`@
-` ’очу вновь опубликовать что-нибудь интересное вместе со всеми, кого € снова попросил о содействии.`@
+` Anyway, I'll be doing my best from now!`@
+` I want to publish something fun with the help of everyone I asked assistance from again.`@
 br
 ;Б@В±ВћУxВЌВ±В±В№В≈В®ХtВЂНЗВҐЙЇВ≥ВиВ№ВµВƒБAВ†ВиВ™В∆В§В≤ВіВҐВ№ВµВљБI@
 ;Б@Н°ФNВ™БAВ†В»ВљВ…В∆ВЅВƒБAСfР∞ВзВµВҐФNВ…В»ВиВ№ВЈВжВ§В…БI\
-` —пасибо, что вы со мной!`@` Ќадеюсь, этот год будет замечательным дл€ всех вас!`\
+` Thank you for being by my side until now!`@` I hope this will prove to be a beautiful year for all of you!`\
 
 
 *postscript_END

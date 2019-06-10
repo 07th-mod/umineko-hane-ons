@@ -13,7 +13,7 @@ Current progress:
 |--|--|--|--|
 |Jessica and the Killer Electric Fan|Yes|Yes|v0.5.0|
 |Forgery no. XXX|Yes|No|Not yet released|
-|Postscript|In progress|No|Not yet released|
+|Postscript|Yes|No|Not yet released|
 
 Installation instructions:
 
@@ -25,8 +25,7 @@ Installation instructions:
 Main points of interest for developers:
 - `script.txt` is the main script file which is used by this mod. 
 This is the file where the English translation is being added to.
-***IMPORTANT***: this file is encoded in Windows-1251. Some of the old comments are in Shift-JIS, but those can be ignored.
-***UNTIL THE TRANSLATION WORK IS FINISHED, THIS FILE MUST REMAIN IN WINDOWS-1251!!!***
+***IMPORTANT***: this file is encoded in Shift-JIS, and must remain in this encoding!
 When the translation is done, it will be converted back into Shift-JIS to render the comments readable again.
 - `script-old.txt` is the old English translation (from before the PS3 patch). Editing this is pointless, merely consult it for the English text.
 - `nscmake.exe` is the script compiler. Run it with `nscmake script.txt` to produce a playable version of the script.
