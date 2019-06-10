@@ -12,8 +12,8 @@ Current progress:
 |Chapter|Translated|Playtested|Released since version|
 |--|--|--|--|
 |Jessica and the Killer Electric Fan|Yes|Yes|v0.5.0|
-|Forgery no. XXX|In progress|No|Not yet released|
-|Postscript|No|No|Not yet released|
+|Forgery no. XXX|Yes|No|Not yet released|
+|Postscript|In progress|No|Not yet released|
 
 Installation instructions:
 

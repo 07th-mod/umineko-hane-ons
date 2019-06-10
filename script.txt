@@ -7572,46 +7572,46 @@ cl c,0
 ld l,BU3_NayamuA2,24
 
 ;БuЛоВ…ВЌЛоВћЦрЦЏВ™В†ВйБB@Г`ГFГXФ’В…ТuВ©ВкВљВ»ВзБAЛоВ…ТиВяВзВкВљЦрЦЏВ…П]ВҐБAБcБcБcСґХ™В…Ф’ПгВ≈Ц\ВкВйБB@В¬В№ВиВЌБAВїВ§ВҐВ§В±В∆ВЊВлБcБHБv\
-`"” фигуры свой долг.`@` Ќе выход€ за рамки своей роли, ...она может разойтись на доске как только пожелает.`@` ¬ этом и есть вс€ суть."`\
+`"A piece has its duty as a piece.`@` Once it has been placed on the gameboard, as long as it remains within the boundaries of the role given, ...it can run wild on the board to its heart's content.`@` Isn't that the entire point?"`\
 
 ld r,RON_AkuwaraiA1,80
 
 ;БuВїВћТ ВиВ≈ВЈВ»БB@ЛMХыЧlВ™В±В§ВµВƒНƒВ—ПµВ©ВкВљБAВ∆ВҐВ§В±В∆ВЌБB@ВїВ§ВҐВ§И”Ц°В≈В≤ВіВҐВ№ВµВеВ§В»БBБv\
-`"ƒа.`@` » вы снова были призваны сюда...`@`именно ради этой цели."`\
+`"That is correct.`@`  And you have been summoned here once again, `@`precisely for that purpose."`\
 
 ld l,BU3_FutekiA2,80
 
 ;БuВ¬В№ВиБB@БcБcЙіВЌЙіВћБAЦ]ВёТ ВиВ…БAБcБcНDВЂВ…В≥ВєВƒВаВзВЅВƒВҐВҐВЅВƒБB@БcБcВїВ§ВҐВ§В±В∆ВЊВжВ»БcБcБHБv\
-`"ј значит...`@`...€ могу делать что угодно, ...что захочу.`@`  ...“ак ведь?.."`\
+`"So you mean...`@`...I can do whatever I want... no matter what it is?`@` ...Right?"`\
 
 ld r,RON_DefA1,80
 
 ;БuВїВћТ ВиВ≈В≤ВіВҐВ№ВЈВ∆ВаБB@В†В»ВљВћЦрКДВ∆ВЌС¶ВњБAБv@
-`"—овершенно верно.`@` ѕоэтому ваша роль..."`\
+`"That is quite correct.`@` Therefore, your role is..."`\
 
 ;ld l,BUT_FutekiA1,80
 ld l,BU3_MajimeA3s,80
 
 
 ;БuЙіВћНDВЂВ»ВжВ§В…Ц\ВкВ№ВнВйБAВЅВƒВ±В∆В≥БBБv\
-`"–азойтись так, как € хочу."`\
+`"To run as wild as I want."`\
 
 ld r,RON_WaraiA1,80
 
 ;БuНґЧlВ≈В≤ВіВҐВ№ВЈВ∆ВаБAБgРнРlВ≥В№БhБBБv@
-`"“очно, Џ00171господин ЅаттлерЏ00187."`\
+`"Exactly, 'Master Battler'."`\
 
 ld l,BU3_NayamuA3,80
 ;В±В±В≈ИЂПќВҐВ™ВҐВҐВ≈ВЈБI
 ;БuВ÷ВЅБB@БcБcВЌВЅВЌВЌВЌВЌВЌВЌВЌВЌБBБv\
-`"’ех,`@` ...ха-ха-ха-ха-ха-ха."`\
+`"Heh,`@` ...Hahhahahahahahahaha."`\
 
 ;Б@РнРlВЌПќВ§БB@
-` Ѕаттлер засме€лс€.`\
+` Battler laughed.`\
 
 ;Б@ПђЛCЦ°Ч«В≥ВїВ§В…В≈ВЌВ»ВҐБB@
 ;Б@ЧpМПВаТmВзВ≥ВкВЄВ…МƒВ—ПoВ≥ВкВƒБAБcБcГNГ\ГbГ^ГМВ»ОdОЦВрЙЯВµХtВѓВзВкВљОЮВ…ХВВ©В„ВƒВµВ№ВҐВїВ§В…В»ВйБA@ВїВсВ»К£ВҐВљПќВҐВ≈БB\
-` Ќо это был не при€тный смех,`@` а сухой и выражающий его отношение к тому, что он даже не знает, зачем его позвали сюда, ...обременЄнного такой глупой задачей.`\
+` But it wasn't a pleasant laugh.`@` It was a dry laugh, revealing his stance towards being summoned here without knowing what his purpose was, ...having just been burdened with such a stupid job.`\
 
 bg black,24
 bg rose_3bP,24
@@ -7623,45 +7623,45 @@ wait 1000
 ld r,BU3_futekiA4,24
 
 ;БuЙљВрВЈВйВаБAБcБcЙіВћО©ЧRВ»ВнВѓВЊБBБv@
-`"„то бы € ни делал, ...это мой личный выбор."`\
+`"Whatever I end up doing... is my own choice."`\
 
 ;ld l,RON_DefA1,23
 ld l,RON_MajimeA1,23
 
 ;БuНґЧlВ≈В≤ВіВҐВ№ВЈВ∆ВаБB@БcБcЙљВрВ»В≥ВйВаБAВ»В≥ВзВ»ВҐВаБB@ЛMХыЧlВћВ≤О©ЧRВ≈В≤ВіВҐВ№ВЈБB@ВљВЊВµБAИкВ¬ВЊВѓРІМјВЌВ≤ВіВҐВ№ВЈВ™БBБv\
-`"¬ерно.`@`  ...¬сЄ, что вы делаете или не делаете,`@` целиком зависит от вас.`@` ’от€ есть всего одно ограничение."`\
+`"That is correct.`@`  ...Whatever you do or don't do is`@` completely up to you.`@` Though there is just one restriction."`\
 
 ld r,BU3_FutekiA3,80
 
 ;БuБgСёЛьВрВ≥ВєВйВ»БhБBБv@
-`"Џ00171Ќе дай нам заскучатьЏ00187."`\
+`"'Don't ever bore us.'"`\
 
 ld l,RON_WaraiA1,80
 
 ;БuБcБcБcВ’ВЅВ≠ВЅВ≠БB@ВїВћТ ВиВ≈В≤ВіВҐВ№ВЈВ∆ВаБB@В±ВћГНГmГEГFВаБAНЯУxВћГQБ[ГАВ™В«ВћВжВ§В»ФяКмМАВрМ©ВєВƒВ≠ВкВйВћВ©БAОјВ…КyВµВЁВ≈В≤ВіВҐВ№ВЈБBБv\
-`"......ѕу-ку-ку-ку.`@` »менно.`@` ƒаже мне, –онове, не терпитс€ посмотреть, что же вы покажете нам в этой истории радости и печали."`\
+`"...Pukuku.`@` Precisely.`@` Even I, Ronove, am looking forward to seeing what will you show us in this tale of joy and sorrow."`\
 
 ld r,BU3_NayamuA2,80
 
 ;БuЙіБAВ±Б[ВҐВ§ВћБAЙљВƒМЊВ§В©ТmВЅВƒВйВЇБB@БcБcЦ≥ТГРUВиВЅВƒМЊВ§ВсВЊВлБH@Б@ВўВзБAГeГМГrВћГoГЙГGГeГBБ[В∆В©В≈ВжВ≠В†ВйВЊВлБB@ОбОиМ|РlВрУВУЋВ…МƒВ—ПoВµВƒБAЙљВћПАФхВаВ≥ВєВ»ВҐВ≈БAВҐВЂВ»ВиЦ ФТГFВ±В∆ВрВµВлБA@ВЁВљВҐВ…В≥ВєВйВвВ¬БBБv\
-`"я ещЄ должен знать, что делать?`@` ...“ы совсем обезумел?`@` ѕр€мо как в тех “¬-шоу.`@` ћолодого актЄра вдруг вызывают на сцену и говор€т сделать что-нибудь интересное без вс€кой подготовки."`\
+`"And how am I supposed to know what to do?`@` ...Are you completely insane?`@` Hey, that's just like those TV variety shows.`@` They suddenly call a young actor on stage and tell him to do something fun without any preparation."`\
 
 ld l,RON_WaraiA2,80
 
 ;БuВ’ВЅВ≠ВЅВ≠ВЅВ≠БB@В±ВкВЌВ±ВкВЌБAОјВ…ЦщЙхВ»ЧбВ¶В≈В≤ВіВҐВ№ВЈВ»БcБBБv\
-`"ѕу-ку-ку-ку.`@`  акое при€тное сравнение..."`\
+`"Pukukuku.`@` Now, now, that is quite a pleasent comparison..."`\
 
 ;ld r,BUT_FutekiA1,80
 ld r,BU3_MajimeA3s,80
 
 
 ;БuБcБcВҐВҐВЇБB@Н°ЙсВаЧxВзВ≥ВкВƒВвВйВжБB@БcБcВнВѓВћВнВ©ВсВЋБ[ШAС±ОEРlОЦМПВћОwКцЦ_ВрРUВйВЅВƒВвВзВЯБB@В«ВҐВ¬ВаВ±ВҐВ¬ВаБAБcБcЙіВ™Г^ГNГgВрРUВиПгВ∞ВйВћВрБAН°В©Н°В©В∆КyВµВЁВ…ВµВƒБAВ®НsЛVВжВ≠ГVГУВ∆ВµВƒВвВ™ВйБB@/
-`"...Ћадно.`@` я снова пущу их в пл€с.`@`  ...Ѕуду махать дирижЄрской палочкой в сторону этого непон€тного дела о серийном убийстве.`@` ¬се вы... я подниму палочку, с нетерпением ожида€, презира€ ваш прилежный маньеризм.`@/
+`"...Fine.`@` I will make them dance once again.`@` ...I will swing the conductor's baton on this incomprehensible serial murder case.`@` Every one of you... I will raise the baton, waiting eagerly, despising your diligent mannerism.`@/
 
 ld r,BU3_WaraiA1s,80
 ;ИЂПќВҐВ≈БI
 ;БcБcБcВЌВЅВЌВЌВЌВЌВЌВЌВЌБcБBБv\
-`  ......’а-ха-ха-ха-ха-ха..."`\
+` ...Hahhahahahahahaha..."`\
 
 bg black,2
 bg rose_3aP,22
@@ -7670,23 +7670,23 @@ bg rose_3aP,22
 me1v 16,50
 
 ;БuНЯУxВЌВ«ВћВжВ§В»Х®МкВ…В»В≥ВҐВ№ВЈВ©В»БB@ПАФхВЌВЈВ≈В…РЃВЅВƒВ≤ВіВҐВ№ВЈБB@БcБcВ№ВЄВЌВ±ВћГНГmГEГFБAЙљВ©ВзВ®ОиУ`ВҐВҐВљВµВ№ВµВеВ§БHБv\
-`" акую историю вы создадите на этот раз?`@` ¬се приготовлени€ завершены.`@`  ...ћне помочь вам с чем-нибудь?"`\
+`"What story might you spin this time?`@` The preparations are complete.`@` ...Now, shall I lend you a hand with anything?"`\
 
 ld l,BU3_majimeA6s,23
 
 ;БuБcБcБcБcБcБcБcБcБcБcБcБBБv\
-`"..............."`\
+`"..."`\
 
 ld r,RON_AkuwaraiA1,24
 
 ;БuеKеNТлЙАВ…ВƒФ∆НяВћЧ\НРПуВрБH@Б@ВїВкВ∆ВаБAОSМАВћХССдВћПАФхВрБH@Б@КFЧlХыВ™БAВїВћКJЙЙВрН°В©Н°В©В∆С“ВњЦ]ВсВ≈В®ВҐВ≈В≈ВЈБBБv\
-`"ћожет, передать в розарии письмо, объ€вл€ющее об убийствах?`@` »ли же подготовить место трагедии?`@` ¬се с нетерпением ожидают подн€ти€ занавеса."`\
+`"Shall it be the letter announcing the murders handed in the rose garden?`@` Or maybe the preparation of the stage of the tragedy?`@` Everyone is already eagerly awaiting the curtains to be raised."`\
 
 cl l,0
 ld c,BU3_futekiA4,23
 ;МыКpВћПгВ™ВЅВљИЂПќВҐВ™ВҐВҐВ≈ВЈ
 ;БuН°ЙсВЌБAБcБcБcТNВ©ВзБB@БcБcБcВҐВвБB@БcБcВ«В§ВҐВ§ХЧВ…БAОEВµВƒВвВлВ§В©В»БcБcБcБBБv\
-`"— кого бы мне начать......на этот раз.`@`  ......Ќет-нет.`@`  ... ак мне убить их?.."`\
+`"This time... who do I start with?`@` ...No, no.`@` ...How shall I kill them?.."`\
 
 mono 1
 print 0
@@ -7697,18 +7697,18 @@ fede 1,1000
 E_B
 
 ;Б@БcБcБgЙEСгЛ{РнРlБhБB@
-` ...Џ00171”широми€ ЅаттлерЏ00187.`\
+` ...'Ushiromiya Battler'.`\
 
 ;Б@ВїВћОpВЌБAТNВ™М©ВƒВаВїВкВ…СЉВ»ВзВ»ВҐВЌВЄБB@
 ;Б@В»ВћВ…БAХВВ©В„ВйХ\ПоВ™БAВїВкВ∆ИўВ»ВйБB@
-`  то бы ни увидел этот облик, никто ничего не заподозрит.`\
-` » всЄ-таки у него был взгл€д другого человека.`\
+` No matter who might see this form, they will suspect nothing.`\
+` Still, the expression he was wearing`@` was that of another person.`\
 
 ;Б@ФёВЌЦ{УЦВ…БAБcБcЙEСгЛ{РнРlВ»ВћВ©БcБcБB\
-` ѕравда ли он...”широми€ Ѕаттлер?..`\
+` Was he really... Ushiromiya Battler?..`\
 
 ;Б@ФёВ±ВїВЌБAЙEСгЛ{РнРlВ∆УѓВґОpВрВµВљЛоВ≈В†ВиВ»В™ВзБA@БcБcВ№ВЅВљВ≠ИўВ»ВйБgЦрЦЏБhВрЧ^В¶ВзВкВљЛоБcБcБB\
-` ќн - фигура, выгл€д€ща€ так же, как ”широми€ Ѕаттлер,`@` ...но совсем с другой ролью...`\
+` He was a piece that had the same shape as Ushiromiya Battler,`@` ...but quite a different role...`\
 
 textoff
 
@@ -7723,12 +7723,12 @@ wait 1000
 ld c,BU3_FutekiA5,22
 
 ;БuВҐВҐВвИбВ§В»БB@ЙіВ™М©ВљВҐВћВЌОEВµВґВбВ»ВҐБB@ОАСћВґВбВ»ВҐБB@БcБcЙіВ™Ц{УЦВ…М©ВљВҐВаВћВЌБAБcБcЦ{УЦВ…ИкПuВ»ВћВ≥БB@ЙіВЌБAВїВћИкПuВ™М©ВљВҐВсВЊБB@ВнВ©ВйВ©БAГНГmГEГFБBБv\
-`"Ќет, не так.`@` ћен€ не интересуют убийства...или трупы.`@`  ...ѕо-насто€щему € хочу...увидеть то самое мгновение.`@` ’очу стать его свидетелем.`@` “ы же понимаешь, –онове?"`\
+`"No, that's not it.`@` I don't want to see any murders or any corpses.`@`  ...What I really want to see is...just that one instant.`@` I want to be witness to it.`@` Do you understand what I'm saying, Ronove?"`\
 
 ld l,RON_waraiA2,23
 
 ;БuБcБcБcГНГEГ\ГNВЌБAФRВ¶РsВЂВйН≈МгВћИкПuВ™БAВаВЅВ∆ВаФьВµВ≠ПuВ≠В∆Р\ВµВ№ВЈВ»БBБv\
-`"......ѕрекраснее всего мерцает мгновение за секунду перед угасанием свечи."`\
+`"...The most beatiful flicker is the one instant right before a candle is blown out."`\
 
 ld c,BU3_FutekiA3,80
 ;ГjГДГКМnВћИЂПќВҐВ™ВҐВҐВ≈ВЈБI
@@ -7736,13 +7736,13 @@ ld c,BU3_FutekiA3,80
 E_A
 
 ;БuВїВ§В≥БB@/
-`"ƒа.`@/
+`"Yeah.`@/
 bgm1 157
 ;БcБcБcЙіВЌБAН≈НВВ…ФьВµВ≠ВƒБAН≈НВВ…Н≈ТбВ»БA@БcБcОUВиНџВ™М©ВљВҐВсВЊБBБv@
-`  ......я хочу увидеть именно этот самый прекрасный, самый ужасающий...`@`момент рассе€ни€."`\
+`  ...What I want to see is that most beautiful, most dreadful...`@`moment of scattering."`\
 
 ;Б@РнРlВЌВїВ§МЊВЅВƒЧІВњПгВ™ВиБAИ√ВҐОЗРFВ…В§ВЋВйЛуВрМ©ПгВ∞ВƒЧЉШrВрНLВ∞ВƒБAЛ©В‘БB\
-` Ѕаттлер встал и развЄл руки, гл€д€ на тЄмное фиолетовое небо.`\
+` Battler stood up as he said this, and while looking up at the dark, violet sky he spread his arms...`@` and screamed.`\
 
 bg black,26
 
@@ -7754,18 +7754,18 @@ bg rose_1eP,2
 me1v 17,90
 
 ;БuРgУЃВЂВћПoЧИВ»ВҐПчО°ВћМZЛMВћЦЏВћСOВ≈БI@Б@О—ЙєВњВбВсВћОсВрВдВЅВ≠ВиВ∆НiВяВƒОEВµВљВ»ВзГbБAПчО°ВћМZЛMВЌЙљРFВћЧ№ВрЧлВµВƒВ≠ВкВйВћВ©В»БH@Б@СІОqВ™Ф∆РlВЊВ∆ТmВЅВƒБAВїВµВƒУ™ВрТ@ВЂКДВзВкВйПuК‘БAГNГ\РeХГВЌЙљРFВћММВрЧлВµВƒВ≠ВкВйВћВ©В»БH@Б@В†ВЯБAЙƒФ№ФМХкВ≥ВсВћЧ№В™М©ВƒВЁВљВҐБB@ОйОuНБВрВЃВњВбВЃВњВбВћВђВЅВљВђВљВ…ОEВµВƒВвВЅВƒБA@ВїВћОАСћВрВ≥ВаБAВљВЅВљН°ВЁВ¬ВѓВљГbБAВЁВљВҐВ…ВµВƒВвВЅВƒБB@ЙƒФ№ФМХкВ≥ВсВ™В«ВсВ»КзВµВƒБAВ«ВсВ»Ч№ВрЧђВµВ»В™ВзЛмВѓКсВйВћВ©БB@В†ВћФьРlВ™БAВ«ВсВ»ВЃВµВбВЃВµВбВ»КзВ≈ЛГВ≠ВћВ©БAМ©ВƒВЁВљВҐГbБB@БcБcВ†ВЯБAЙіВаИкППВ…ЛГВҐВƒВвВйВЊВлВ§ВЇБB@ВїВµВƒЛГВЂВґВбВ≠ВйФМХкВ≥ВсВрЛєВ…ХшВЂТчВяВƒБAЙіВаИкППВ…ЛГВҐВƒВвВйВЊВлВ§ВЇБBБv\
-`"я хочу, чтобы это случилось на глазах у ƒжорджа, неспособного двигатьс€!`@`  акими могут быть слЄзы, которые он прольЄт, когда € буду медленно душить Ўанон у него на глазах?"`\ 
-`" акой может быть кровь, котора€ выплеснетс€ из моего идиота-отца, когда € разнесу ему голову в момент, как только он поймЄт, что его сын - преступник?"`\
-`"ј-а, € хочу увидеть слЄзы тЄти Ќацухи.`@` я превращу ƒжессику в кровавую, липкую массу,`@` и тогда сделаю вид, будто просто нашЄл еЄ труп.`@`  акое выражение тЄт€ Ќацухи может сделать и какие слЄзы может пролить, убега€?`@` — каким раздавленным лицом может рыдать эта красота? я хочу посмотреть."`\
-`"...ј-а, и € заплачу вместе с ней.`@` ѕрижму еЄ к груди и заставлю думать, что плачу вместе с ней."`\
+`"I want it in front of George's eyes, while he cannot move!`@` What colour might the tears be he is going to shed, when I will be slowly strangling Shannon to death in front of his eyes?"`\ 
+`"What colour might the blood that idiot father is going to spill be, when I'll blow his head off the moment he learns that his son is the culprit?"`\
+`"Aah, I want to see the tears of Aunt Natsuhi.`@` I will smash Jessica to a bloody, sticky pulp,`@` and then I will pretend I would have just found her corpse.`@` What face might Aunt Natsuhi show, and what tears might she shed while starting to run?`@` With what kind of crumpled face might that beauty cry? I want to see."`\
+`"...Aah, and I will cry along with her.`@` And then I will press her crying to my chest, and will make her think I am crying along with her."`\
 
 ;БuБcБcВїВµВƒБAБcБcБcЙіВЌН≈ТбН≈ИЂВ»ЙЇПOВћКзВ≈БAЛГВЂРЇВ∆ВаПќВҐРЇВ∆ВаВ¬В©В»ВҐРЇВ≈БA@В£ВЅВ≠БAВ•ВЅВ≠БAБcБcВ≠В≠БAВ≠ВЅВ≠В≠В≠В≠БAВЌВЅВЌВЌВЌВЌВЌВЌВЌБAВЌВЅВЌВЌВЌВЌВЅВЌВЅВЌВЅВЌВЌВЌВЌВЌБIБI@Б@М©ВƒВ•ВсВЊВлБH@Б@В®СOВзВ™М©ВƒВ•ВћВЌВїВ§ВҐВ§ШbВ»ВсВЊВлБHБI@Б@ВЌВЌВЌВЌБAМ©ВєВƒВвВйВжБB@В±ВћЙіВ™БA@БgФ∆РlВљВиВ¶ВйЙEСгЛ{РнРlБhВ™ГbБAВ®СOВзВ…Н≈НВВћГGГУГ^Б[ГeГCГБГУГgВрМ©ВєВƒВвВйГbБA@/
-`"...»...с самым страшным и худшим смирением на лице € буду говорить без плача или смеха.`@` ј-агх, ух, ...уху-ху, уху-ху-ху, ха-ха-ха-ха-ха-ха, ха-ха-ха-ха-ха-ха-ха-ха-ха-ха-ха!!!"`\
-`"Ќу что?`@` Ёто ведь и есть та истори€, которую все вы хотите увидеть?!`@` ’а-ха-ха-ха, € покажу еЄ вам!`@` я покажу вам величайшее развлечение с Џ00171”широмией Ѕаттлером, который может быть преступникомЏ00187,`@/
+`"...And, with the most horrible humility on my face,`@` I will speak without crying or laughing.`@` Aagh, ungh, ......uhuhu, uhhuhuhuhu, hahhahahahahahaha, hahhahahahahhahhahhahahahaha!!!"`\
+`"Well?`@` That is the story you all want to see, right?!`@` Hahahaha, I will show it to you!`@`  I will show you the greatest form of entertainment with an 'Ushiromiya Battler who can be the culprit',`@/
 se3v 37,100
 se2v 37,100
 ;ВЌВЅВЌВ–ВбВЅВЌВЅВЌВЌВЯВ†БIБIБv\
-` ха-хь€-хь€-ха-ха-ха-а!!!"`\
+` hahhahyahahhahaaa!!!"`\
 
 se1v 27,100
 
@@ -7778,10 +7778,10 @@ wait 500
 mcbg 2
 
 ;Б@РнРlВ™ЛуВ÷БAВ†ВйВҐВЌЦЮНјВћКѕЛqР»В÷ВїВ§ЦiВ¶ВйБB@
-` Ѕаттлер взревел к небу, хот€ нет, к полному залу зрителей.`\
+` Battler roared towards the sky, no, towards a full house of spectators.`\
 
 ;Б@ВїВкВЌЧЛЦ¬В∆ВҐВ§СеКљРЇВрВаВЅВƒМ}В¶ВзВкВйВћВЊВЅВљБB\
-` » его восклицание поддержал гром, проревевший словно аплодисменты.`\
+` And his exclamation was accompanied by a roaring thunder, just like an applause.`\
 
 bg black,22
 bg chess2,22
@@ -7789,7 +7789,7 @@ ld r,RON_WaraiA2,22
 ;ld r,RON_DefA1,80
 
 ;БuСfР∞ВзВµВҐВ≈ВЈВ»БB@В«ВћХ®МкВаОјВ…М©ЙЮВ¶В™В†ВиВїВ§ВЊГbБB@В≥ВЯБAРнРlВ≥В№БI@Б@Н°П™ВћГQБ[ГАВЌБHБI@Б@Н°П™ВћОSМАВЌБHБI@Б@В≥ВЯБAВ№ВЄВЌТNВ©ВзВ®ОEВµВ…В»ВиВ№ВЈВ©В»БHБIБv\
-`"ѕоистине великолепно.`@` Ёту историю стоит увидеть.`@` „то ж, господин Ѕаттлер!`@`  акой будет сегодн€шн€€ игра?!`@`  ак развернЄтс€ трагеди€ этой ночи?!`@`  то будет убит первым?!"`\
+`"Truly splendid.`@` A story truly worth seeing.`@` Well then, Master Battler!`@` What will tonight's game be?!`@` How will tonight's tragedy turn out?!`@` Well, who shall be killed first?!"`\
 
 ld l,BU3_MajimeA1,23
 ;ld l,BU3_FutekiA1,80
@@ -7797,12 +7797,12 @@ ld l,BU3_MajimeA3s,80
 
 
 ;БuВ№ВЄВЌГIБ[ГФГ@Б[Г`ГЕГAВ©ВзБAВ∆НsВЂВљВҐВ∆В±ВлВЊВ™БB@БcБcЙіВЌВ№ВЊВ±В±В…ЧИВљВќВ©ВиВ≈ВЋБB@ПШЛ»ВћСOВ…БAТ≤Ч•В∆НsВ©ВєВƒВаВзВ®В§БBБv\
-`"—начала будет увертюра.`@`  ...я прибыл только что.`@` ѕрежде чем ставить увертюру, нужно настроить инструменты."`\
+`"The first thing I want to do is an overture.`@` ...I have just arrived here..`@` And even before we do an overture, we have to tune the instruments."`\
 
 ld r,RON_majimeA2,80
 
 ;БuВ«ВћКyКнВћСfР∞ВзВµВЂЙєРFВаБAВ№ВЄВЌТ≤Ч•В©ВзБB@В≈ВЌБAВїВћГ`ГЕБ[ГjГУГOВ…БAВ№ВЄЙљВрВ»В≥ВҐВ№ВЈВ©В»БcБIБv\
-`"—коль бы великолепен ни был звук, инструмент должен быть настроен.`@` Ќо чему произойти на этапе настройки?!.."`\
+`"No matter how splendid the sound might be, an instrument has to be tuned.`@` But what shall happen on the stage of tuning?!.."`\
 
 textoff
 
@@ -7819,27 +7819,27 @@ mcbg 2
 ld l,BU3_MajimeA6,80
 
 ;БuВ®СOВ©ВзБAОEВµВƒВЁВйВ©БBБv@
-`"я хочу дл€ начала убить теб€."`\
+`"I want to try to start by killing you."`\
 
 ld r,RON_WaraiA2,80
 
 ;БuВ®ВвБAВ±ВкВЌСzСЬВµВƒВ®ВиВ№ВєВсВ≈ВµВљБBБv\
-`"„то ж, этого € не ожидал."`\
+`"Well, that is something I had not expected.."`\
 
 ld l,BU3_FutekiA3,80
 
 ;БuБcБcВ±ВћГQБ[ГАФ’В≈ВћЙіВ™БAВ«ВћТцУxВ…Х`В©ВкВƒВҐВйВћВ©БB@ВїВҐВ¬ВрОиВЅОжВиСБВ≠ООВ≥ВєВƒВаВзВ§ВЇБB@БcБcВ±ВћБgЙіБhВЌБAБcБcЦ{УЦВ…БgЙіБhВ∆ВµВƒБAПСВЂПгВ∞ВзВкВƒВҐВйВсВЊВлВ§В»БcБH@Б@ЙіВ…ЦЮСЂВ≈ВЂВйБgЙіБhВґВбВ»ВҐВ»ВзВќБB@БcБcБcЙіВЌВ±ВћХССдБAЙљВаВєВЄВ…Н~ВиВњВ№В§В©ВзВ»БcБcБHБv\
-`"... аким Џ00171€Џ00187 изображЄн на этой игровой доске?`@` я хочу проверить быстро и просто.`@`  ...ќб этом мне... действительно написано так, что ему стоит быть мной?..`@` ≈сли этот Џ00171€Џ00187 мен€ не устроит,`@` ......€ могу запросто отказатьс€ от этого этапа."`\
+`"...In what way has the 'me' on this gameboard been portrayed?`@` I want to finish testing that quickly and easily.`@` ...This 'me', was it really written in a way worth to be me?`@` If it is not a 'me' that satisfies me,`@` ...I might discard this stage without doing anything at all, you know?.."`\
 
 ;В±В±В≈ЙжЦ НХВ…ВµВƒВЁВƒВЌБH
 
 bg black,22
 
 ;Б@РнРlВЌВїВ§БAУVВрМ©ПгВ∞В»В™ВзМЊВ§БB@
-` —казал Ѕаттлер, гл€д€ на небо.`\
+` Battler said that while looking up at the heavens.`\
 
 ;Б@ВїВћКзВЌБAН°УxВ±ВїЦ{УЦВ…БAПќВЅВƒВҐВљБB\
-` Ќа этот раз его выражение было взаправду переполнено смехом.`\
+` This time his face really was filled with laughter.`\
 
 se1 22
 bg butterfly_1a,24
@@ -7848,12 +7848,12 @@ bg rose_3bP,22
 ld l,RON_waraiA2,22
 
 ;Б@ГНГmГEГFВЌГeГBБ[ГZГbГgВрЙ©ЛаВћТ±ВћМQВ…ЦяВµВƒХ–ХtВѓВйВ∆БB@БcБcЛЁМ≥ВрП≠ВµВЌВЊВѓВ≥ВєВйБB\
-` „тобы прибратьс€, –онове оп€ть превратил чайный сервиз в облако золотых бабочек.`@`  ...«атем он приоткрыл воротник.`\
+` Ronove turned the tea set back into a cloud of golden butterflies once again to clean up.`@` ...Then, he revealed his neck by slightly opening his collar.`\
 
 ld l,RON_MajimeA2,80
 
 ;БuВїВкВ≈ВЌРнРlВ≥В№БB@БcБcОДВяВћСћВрОgВЅВƒБAСґХ™В…В®ООВµВрБBБv\
-`"„то ж, господин Ѕаттлер.`@`  ...ѕрошу, € в вашем полном распор€жении."`\
+`"Very well, Master Battler.`@` ...Please, do with me as you wish."`\
 
 ld r,BU3_FutekiA4,24
 ;ld r,BUT_WaraiA3,80
@@ -7861,30 +7861,30 @@ ld r,BU3_MajimeA3s,80
 ;МыКpВћПгВ™ВЅВљИЂПќВҐВ≈
 
 ;БuВ®СOВћВїВћОwВ™БB@ИкЦ{ИкЦ{БB@БcБcБcР№ВкВйУxВ…В«ВсВ»ЙєВрСtВ≈ВƒВ≠ВкВйВћВ©БB@БcБcВїВкВрХЈВ©ВєВƒВ≠ВкВжБBБv\
-`" акую музыку € смогу сыграть,`@` когда буду ломать тебе пальцы`@` один за другим?`@` ......я хочу еЄ услышать."`\
+`"What music will I be able to play,`@` when I break your fingers,`@` one by one?`@` ...I want to hear it."`\
 
 ;Б@РнРlВЌЙцВµВ≠ПќВ§БB@
 ;Б@ВїВћПќВЁВ…В†ВйВћВЌБAЧ¬КпУIВ»ВаВћВ≈ВаБAИЂЦВУIВ»ВаВћВ≈ВаВ»ВҐБB\
-` Ѕаттлер зловеще рассме€лс€.`@
-` Ќо в этом смехе не было ничего странного или демонического.`\
+` Battler laughed sinisterly.`@
+` But in that laugh was neither something bizarre nor something demonic.`\
 
 ;Б@ВїВкВЌБAЦ≥НCБB@
 ;Б@В№ВйВ≈ОqЛЯВћВжВ§В…Ц≥НCВ»БAБcБcЛїЦ°В™В†ВйВЊВѓВ»ВћВЊБB\
-` ¬ нЄм была чистота.`@
-` Ќевинность заинтересованного ребЄнка.`\
+` It was purity.`@
+` The purity of a child, filled with interest.`\
 
 ld l,RON_WaraiA2,80
 
 ;БuБcБcБcВ’ВЅВ≠В≠В≠В≠В≠В≠БAВ≠ВЅВЌВЌВЌВЌВЌВЌБAБcБcВ†ВЅВЌВЌВЌВЌВЌВЌВЌВЌВЌВЌВЌВЌВЌБIБIБv@
-`"......ѕу-ку-ку-ку, ку-ха-ха-ха-ха, ...аха-ха-ха-ха-ха-ха-ха-ха-ха-ха!!!"`\
+`"...Pukkukukukukukuku, kuhhahahahahaha, ...ahhahahahahahahahahahahahaha!!!"`\
 
 ;Б@ГНГmГEГFВ™О©ПdЛCЦ°В…ПќВ§В±В∆В»ВзВќВжВ≠В†ВйВ™БA@БcБcВ±ВћВжВ§В…БAВћВѓВЉВЅВƒВ№В≈СеПќВҐВЈВйВ∆В±ВлВрМ©ВйВћВЌБAТNВ…В∆ВЅВƒВаВ±ВкВ™ПЙВяВƒВЊВлВ§БB\
-` –онове часто сме€лс€ скромно и сдержанно,`@` ...но этот настолько несдержанный, долгий смех был дл€ всех первым.`\
+` Ronove usually laughed in a prude, composed manner,`@` ...and this huge laughter coming from him was a first for everybody.`\
 
 ld l,RON_majimeA2,80
 
 ;БuИЎВ№ВиВ№ВµВљБAРнРlВ≥В№БB@ВїВкВ≈ВЌБAОДВяВћВ±ВћОwБB@РнРlВ≥В№В…ХщВ∞В№ВµВеВ§БB@БcБcВљВЊВµВїВкВЌБAЛMХыЧlВ™Ц{УЦВ…БAОДВяВћОwВрЦ°ВнВ§В…СКЙЮВµВҐВ®ХыВЊВЅВљВ»ВзВќВћШbБcБBБv\
-`"¬сЄ €сно, господин Ѕаттлер.`@` „то ж, сперва пальцы.`@` я пожертвую их вам.`@`  ...≈сли вам, конечно, и в самом деле по вкусу мои пальцы..."`\
+`"I understand, Master Battler.`@` Well then, first of all these fingers.`@` I will offer them to you.`@` ...That is, if you really are the person who is fit to taste my humble fingers..."`\
 
 mbg white,1
 se2v 27,100
@@ -7894,8 +7894,8 @@ ld r,BU3_niramuA2s,80
 ;В‘ВЅВ±ВнВкВљИЂПќВҐВ™ВҐВҐВ≈ВЈ
 
 ;БuВїВ§В≥БB@ЙіВаВїВкВрКmВ©ВяВљВҐБB@БcБcБcЙіВ…БAВїВкВ™ПoЧИВйВжВ§В…ВњВбВсВ∆Х`В©ВкВƒВҐВйВћВ©В«В§В©БB@ВїВкВрЙіВЌКmВ©ВяВљВҐГbБB@ВаВµВаКmВ©ВяВƒБAЙіВ™БgЙіБhВ…Х`ВѓВƒВҐВ»ВҐВжВ§В»ВзВќБAЙіВрН”ВѓГНГmГEГFБAГoГЙГoГЙВћХ≤БXВ…БIБI@Б@ВїВсВ»ЛUПСВЌР^ВЅХљМдЦ∆ВЊВЇГbБI@Б@БgЙіБhВ∆ВҐВ§ЛоВрМƒВ—ПoВЈВ…П[Х™В»БAН≈НВВ…ПќВ¶ВйЛUПСВ»ВћВ©В«В§В©БAВ®СOВ™ЙіВрООВµВƒВ≠ВкБcБIБI@Б@В≥ВЯБAГНГmГEГFБAООВїВ§ВЇБcБAООВµНЗВ®В§ВЇБcБIБI@Б@ВЌВЌГbБAВ†ВЅВЌВЌВЌВЌВЌВЌВЌВЌВЌВЌВЌВЌВЌВЌВЌВЌБIБIБIБv\
-`"ƒа.`@` я хочу проверить и это.`@`  ......ѕравда ли мен€ изобразили так, чтобы € мог сделать нечто подобное.`@` ћне нужно удостоверитьс€.`@` ≈сли и вправду окажетс€, что € изображЄн не собой... ”ничтожь мен€, –онове, разорви на части!`@` “олько така€ подделка будет прощена!"`\
-`"“еперь проверь и ты мен€, Џ00171€Џ00187 ли тот, кто снова был призван, достойна ли эта подделка самого громкого смеха!..`@` ƒавай, –онове, проверь... ѕусть мы оба проверим!..`@` ’а-ха, аха-ха-ха-ха-ха-ха-ха-ха-ха-ха-ха-ха!!!"`\
+`"Yes.`@` I want to test this as well.`@` ...If I was portrayed in a way that I could be able to do something like that.`@` I want to test it.`@` If I might actually turn out to be portrayed in a way that is not 'me', smash me Ronove, tear me into pieces!!`@` Only such a forgery would be forgiven!"`\
+`"Now test me as well, if this 'me' that has been called forth again, is a forgery worthy of the biggest laughter!..`@` Now, Ronove, test it...let us both test it!..`@` Haha, ahhahahahahahahahahahahahahahahaha!!!"`\
 
 textoff
 
@@ -8019,15 +8019,15 @@ wait 2000
 ld c,BU3_MajimeA6,80
 
 ;БuВ±ВкВ≈БAВ®СOВћНgТГВЌБAЙіИ»КOВћТNВ…ВаБAВаВ§ЙiЙУВ…РUХСВ¶В»ВҐВ»БcБcБBБv\
-`"» теперь ты никогда больше, вовеки не сможешь подать чай никому, кроме мен€..."`\
+`"And now, you can never serve your tea to anyone but me ever again, for all eternity..."`\
 
 E_A
 
 ;Б@БcГpГ`БAБcБcГpГ`ГpГ`БB@
-` ...*хлоп*, ...*хлоп*хлоп*.`@
+` ...*clap*, ...*clap, clap*.`@
 
 ;Б@В«В±В©ВзВ∆ВаВ»В≠БAК£ВҐВљФПОиВ™ХЈВ±В¶ВƒВЂВљБB\
-` Ќеожиданно послышались сухие хлопки.`\
+` Suddenly, a dry clapping could be heard.`\
 
 cl c,0
 
@@ -8036,7 +8036,7 @@ ld l,BU3_MajimeA3s,24
 
 
 ;БuБcБcТNВ©В∆ОvВ¶ВќБB@ГxГAГgВґВбВЋВ•В©БB@БcБcМ©ВƒВйВ»ВзМ©ВƒВйВ∆МЊВЅВƒВ≠ВкВиВбВ†ВҐВҐВћВ…БBБv\
-`"...—мотрите, кто здесь.`@` Ќеужели ты, Ѕеато.`@`  ...–аз уж решила понаблюдать, хот€ бы признай, что наблюдаешь."`\
+`"...Look who's here.`@` If it isn't Beato.`@` ...If you decide on watching, at least tell me you're here."`\
 
 bg black,23
 bg rose_3cP,23
@@ -8055,50 +8055,50 @@ ld r,BEA_fukigenA1,22
 ;bgm1 19
 
 ;БuВ”ВЅБAПзТkВрБB@БcБcВ†ВћВжВ§В…КyВµВїВ§В»ВїВ»ВљВ…РЇВрК|ВѓВљВ»ВзВќБAП®В№В≈ВїВ»ВљВћКyКнВ…В≥ВкВƒВµВ№В§ВнБBБv\
-`"Ќу надо же.`@`  ...≈сли теб€ изобразили таким, тогда € тоже не прочь стать твоим инструментом."`\
+`"What a joke.`@`  ...If you were portrayed to express yourself so joyfully, I might become your instrument as well."`\
 
 ;ld l,BUT_DefA2,23
 ld l,BU3_MajimeA6s,23
 
 ;БuБcБcБcКmВ©В…В»БB@/
-`"......ћожет, и станешь.`@/
+`"...That might happen.`@/
 ld l,BU3_FutekiA4,80
 ;БcБcИ»СOВ…ХЈВҐВљБAВ®СOВћЙєРFВаЦYВкВзВкВ»ВҐБB@В®СOВЌН≈НВВћГoГCГIГКГУВЊВЅВљВжБB@В†ВћЙєРFВЌБAВ№В≥В…УVНСВ©ВзХЈВ±В¶ВйВ©ВћВжВ§ВЊВЅВљБB@;БcБcВЊВ™БAВаВ§ВµВќВзВ≠ВЌВҐВҐБB@СеОЦВ…СеОЦВ…ВаВЅВљВҐВ‘ВйБB@БcБcВїВкВ™БAТЈВ≠ТЈВ≠БAЙiЙУВ…И§В≈ВйЧBИкВћГRГcВ»ВсВЊВ©ВзВжБBБv\
-`  ...”слышав твоЄ звучание, € так и не смог забыть его.`@` “ы была самой совершенной скрипкой.`@` Ётот звук будто исходил с самих небес."`\
-`"...Ќо € могу подождать чуть дольше.`@` ѕотому что это слишком важно.`@`  ...ѕотому что это тот звук, который € любил долгое врем€ и буду любить вечно."`\
+`  ...After I heard it once, I will never forget your sound ever again.`@` ou were the most perfect violin.`@` That sound, it was as if it was coming from heaven itself."`\
+`"...But I can wait a little longer.`@` Because it is something really, really important.`@` ...Because that is the one sound that I have loved for a long, long time, and will love for all eternity."`\
 
 ld r,BEA_AkuwaraiA1,80
 
 ;БuБcБcВїВкВ…ВµВƒВаБAБcБcЛ∞ВлВµВҐБB@БcБcВҐВвБAСfР∞ВзВµВҐБB@В†ВћГНГmГEГFВрСКОиВ…БAПЭИкВ¬В»ВҐВ∆ВЌВ»БBБv\
-`"...’оть ты и говоришь так, ...это ужасно.`@`  ...Ќет, прекрасно.`@` ’от€ твоим противником был –онове, на тебе ни царапины."`\
+`"...Even if you put it like that, ...it's dreadful.`@` ...No, it's wonderful.`@` Even with Ronove as your opponent, you have not a single wound."`\
 
 ld l,BU3_OyaA1,80
 
 ;БuВ»ВЯБAГxГAГgБB@БcБcБcБcЙіВрМ©ВлБBБv@
-`"Ёй, Ѕеато.`@`  ......ѕосмотри на мен€."`\
+`"Hey, Beato.`@`  ...Look at me."`\
 
 ld r,BEA_DefA1,80
 
 ;БuБcБcМ©ВƒВҐВйБBБv@
-`"...—мотрю."`\
+`"...I'm looking."`\
 
 ld l,BU3_nayamuA2,80
 
 ;БuЙіВЌБAБgЙіБhВ©БcБHБv\
-`"я - это Џ00171€Џ00187?.."`\
+`"Am I 'me'?.."`\
 
 ;Б@РнРlВЌВїВ±В≈ВжВ§ВвВ≠РUВиХ‘ВйБB@
-` ¬ этот момент Ѕаттлер повернулс€.`\
+`This was when Battler completely turned around.`\
 
 ;Б@ВїВћНУФЦВ»ПќВЁВрХВВ©В„ВйКзВ…ВЌБAБcБcИкЦЗВћЙ‘В—ВзВ™В¬ВҐВƒВҐВйБB@
 ;Б@Й©ЛаВћеKеNВµВ©НзВ©В»ВҐВЌВЄВћБAВ±ВћЙ©ЛаЛљВ≈БAР‘ВҐБAЙ‘В—ВзВ™БB\
-` Ќа его лице с бесчеловечной улыбкой...был лепесток розы.`\
-`  расный лепесток в «олотой земле, где должны были цвести лишь жЄлтые розы.`\
+` On that face, showing an inhuman smile, ...there was a single rose petal.`\
+` It was a red petal, in this Golden Land where only golden roses were supposed to bloom.`\
 
 ld r,BEA_FutekiA2,80
 
 ;БuБcБcВ§ВёБB@ФFВяВжВ§ВЉБB@БcБcВїВ»ВљВЌБAБgВїВ»ВљБhВ≈В†ВйБB@БcБcНƒВ—ЙпВ¶ВƒКрВµВҐВЉБB@БcБcВїВµВƒБAВїВ»ВљВЌПoЙпВ§УxВ…БAЛ≠В≠БAФьВµВ≠БAБcБcБcВїВµВƒЛ∞ВлВµВ≠В»ВйБBБv\
-`"...’м-м.`@` я признаю.`@`  ...“ы - это Џ00171тыЏ00187.`@`  ...я так рада, что снова встретила теб€.`@`  ...» что благодар€ встречам с тобой € смогла стать сильнее, прекраснее......и ужаснее."`\
+`"...Hmm.`@` I'll acknowledge it.`@` ...You are'you'.`@` ...I am so happy to be able to meet you again.`@` ...And through meeting you, being able to become stronger, more beautiful, ...and more dreadful."`\
 
 cl l,22
 bg black,22
@@ -8107,12 +8107,12 @@ bg rose_2bP,22
 ;ld l,BU3_FutekiA3,80
 
 ;БuЛUПСВ™РФВрПdВЋВйУxВ…БB@БcБcЙEСгЛ{РнРlВ™Ф∆РlВ≈В†ВйВ∆ВЈВйХ®МкВ™ЦaВ™ВкВкВќЦaВ™ВкВйВўВ«В…БB@БcБcБgЙіБhВ∆ВҐВ§СґНЁВЌЧЌВрСЭВЈБBБv@
-`"— каждой написанной подделкой...`@`и каждой новой историей, в которой преступник - ”широми€ Ѕаттлер,`@` ...сущность, называема€ Џ00171мнойЏ00187, крепчает."`\
+`"With every forgery that is written,`@` ...and with each story that is spun around Ushiromiya Battler being the culprit,`@` ...the entity called 'me' is growing in power."`\
 
 ;ld r,BEA_FutekiA2,80
 
 ;БuЛ∞ВлВµВҐВ±В∆ВжБcБB@БcБcВїВ»ВљВрЦ]ВёКѕМАО“ВљВњВЌБAИкСћБAЙдУЩВ…ЙљВрЦ]ВсВ≈ВҐВйВ∆ВҐВ§ВћВ©БcБBБv\
-`"”жасно...`@`  ...„то могут зрители, жаждущие теб€, ожидать от нас?.."`\
+`"That is truly dreadful...`@` ...What might those spectators who are longing for you expect from us?.."`\
 
 textoff
 
@@ -8123,12 +8123,12 @@ ld c,BU3_MajimeA3s,22
 
 
 ;БuБcБcМИВ№ВЅВƒВҐВйВЊВлВ§В™БAВїВсВ»В±В∆ВЌБB@ВїВµВƒВїВкВЌБAЙіВ∆В®СOВаУѓВґВЊБBБv@
-`"...–азве не очевидно?`@` “ого, что относитс€ к нам обоим."`\
+`"...Isn't that quite obvious?`@` It is something that applies to the both of us."`\
 
 ld l,BEA_AkuwaraiA1,22
 
 ;БuВїВ§В≈В†ВйВ»БB@ВїВкВЌП®ВаВїВ»ВљВаУѓВґВЊБBБv\
-`"¬озможно.`@` ќдно и то же - что дл€ мен€, что дл€ теб€."`\
+`"You might be right.`@` It's the same for me and you."`\
 
 ld l,BEA_AkuwaraiA3,0
 ld c,BU3_niramuA2s,80
@@ -8139,11 +8139,11 @@ bgm1 172
 se3v 2,100
 
 ;БuБuЙдУЩВрСёЛьВ≥ВєВйВ»ГbБB@/
-`""Ќи за что не дайте нам заскучать.`@/
+`""Never bore us.`@/
 se1v 37,100
 se2v 2,100
 ;В≠ВЅВ–ВбВ–ВбВЅВЌВЅВЌВЌВЌВЌВЌВЌВЌВЌВЌБIБIБIБvБv@
-`  у-хь€-хь€-ха-ха-ха-ха-ха-ха-ха-ха!!!""`\
+` Kuhyahyahhahhahahahahahahahaha!!!""`\
 
 
 
@@ -8158,74 +8158,74 @@ me1v 13,90
 
 ;Б@УсРlВћПќВҐВ…СеВЂВ»ЧЛЦ¬В™ЙЮВ¶БAКѕМАО“ВљВњВћСеКљРЇВ∆В»ВйБB@
 ;Б@БcБcВ«В§ВвВзФёВЌБAВїВµВƒФёВзВЌБAНЯУxВћЛUПСВрЛCВ…УьВЅВљВзВµВҐБB\
-` ќтветом на их смех был рЄв грома, ставший оваци€ми зрителей.`\
-` ...—уд€ по всему, он и они прониклись симпатией к этой подделке.`\
+` Their laughter was answered by a huge roaring thunder, which became the applause of the spectators.`\
+` ...Somehow, he and them seemed to have taken a liking to this forgery.`\
 
 bg black,24
 bg rose_3aP,0
 ld l,BEA_DefA1,24
 
 ;БuВ≥ВƒБAРнРlВжБB@В±ВкВжВиВ«В§ВЈВйБH@Б@ПШЛ»ВЌВ«ВћВжВ§В»ОSМАВ©ВзЦЛВрКJВѓВйВћВ©БHБv@
-`"„то ж, Ѕаттлер.`@` „то будешь делать?`@` — какой трагедии начнЄтс€ увертюра?"`\
+`"Well now, Battler.`@` What will you do now?`@` From what tragedy will the overture begin?"`\
 
 ld r,BU3_FutekiA3,24
 
 ;БuКJЙЙВћГxГЛВЌВ№ВЊВЊВЇБB@БcБcБcВїВҐВ¬ВЌН°ЦйВћВQВSОЮВ…БAСеНLК‘ВћСеОЮМvВ™НРВ∞ВйВсВЊБBБv\
-`"≈щЄ рано поднимать занавес.`@`  ......—игналом будут большие часы в зале сегодн€ в полночь."`\
+`"It isn't curtain rising time, yet.`@` ...The signal will be the large clock in the hall, at this midnight."`\
 
 ld l,BEA_AkuwaraiA1,80
 
 ;БuВїВ§В≈В†ВЅВљВ»БB@В≈ВЌБAВ№ВЄВЌЙљВрБHБv@
-`"ясно.`@` “ак с чего ты начнЄшь?"`\
+`"I understand.`@` So, what will you start with?"`\
 
 ;ld r,BUT_WaraiA3,80
 ld r,BU3_MajimeA3s,80
 
 
 ;БuВ№ВЄВЌЙЃХ~В≈БAВҐВ¬ВаЛљУcВ™УьВкВƒВ≠ВкВйХsЦ°ВҐНgТГВрИщВёБBБv\
-`"—начала пойду в домик дл€ гостей и выпью тот отвратительный чЄрный чай, который √оуда всегда приносит нам."`\
+`"First, I'll go to the mansion and drink that disgusting tea Gohda always brings us."`\
 
 ld l,BEA_AkuwaraiA5,80
 
 ;БuВїВµВƒБAХlХ”В…НsВ≠УrТЖВ≈П®ВћП—СЬЙжВрМ©ВƒБA@ТNВ»ВсВЊВ±ВћЛMХwРlВЌБHВ∆МЊВ§ВћВЊВ»БHБv@
-`"«атем, собира€сь на пл€ж, ты уставишьс€ на мой портрет,`@` спрашива€, кто эта женщина."`\
+`"Then, you'll gaze at my portrait while you're going to the beach,`@` asking who that woman is."`\
 
 ld r,BU3_FutekiA2,80
 
 ;БuВїВµВƒФиХґВ…В¬ВҐВƒХЈВ©В≥ВкБAСеЛ¬В…ЛЅВҐВƒВЁВєВйВнВѓВ≥БB@В≠ВЅВ≠В≠В≠В≠БBБv\
-`"» с преувеличенно удивлЄнным взгл€дом € услышу от них об эпитафии.`@` »хи-хи-хи-хи."`\
+`"And I will hear about the epitaph from them, while having an exaggeratingly surprised look on my face.`@` Ihihihihi."`\
 
 ld l,BEA_FutekiA2,80
 
 ;БuВвВкВвВкБB@ВQВSОЮВ№В≈ВЌСёЛьВЊВ»БB@ОјВ…СёЛьВ»ГVГiГКГIВЊБBБv@
-`"ќ боже.`@` ƒо полуночи будет скучно.`@` ƒо чего скучный сценарий."`\
+`"My, my.`@` It will be a truly boring scenario before midnight."`\
 
 ;ld r,BUT_FutekiA1,80
 ld r,BU3_nayamuA3,80
 
 
 ;БuВ†ВЯВїВ§ВЊВ»БAЦ{УЦВ…СёЛьВ»ГVГiГКГIВЊБB@ТNВ»ВсВЊБH@Б@ЙіВљВњВ∆ВҐВ§ЛUПСВћБAН°УxВћНмО“ВЌБcБHБv\
-`"“ы права, очень скучный.`@`  то же он на этот раз?`@` јвтор наших подделок?.."`\
+`"You're right, truly boring.`@` So who is it this time?`@` The author of our forgery?.."`\
 
 ld l,BEA_AkuwaraiA3,80
 
 ;БuТmВзВ ВнБB@ТNВ≈ВаЧ«ВҐБB@ВїВµВƒВїВкВЌБAЙдУЩВ∆УѓЧёВ≈В†ВлВ§БB@БcБcСёЛьВрИ§В≥ВЄБB@ММВ∆Ч№В≈ЛLВµВљФяМАВрВ±ВжВ»В≠И§ВЈВйБAЧвММВ»ВйГTГfГBГXГgВљВњБcБcБBБv\
-`"ѕон€ти€ не имею.`@` Ћюбой сойдЄт.`@` » он такой же, как мы.`@`  ...“от, кто не любит скуку.`@` Ѕезжалостный садист, люб€щий истории, написанные кровью и слезами, больше всего на свете..."`\
+`"I have no idea.`@` Anyone is fine.`@` And they're the same as us.`@` ...They don't like boredom.`@` They like tales written in blood and tears more than anything else, a merciless sadist..."`\
 
 cl r,0
 ld c,BU3_FutekiA3,24
 
 ;БuВїВсВ»ЧвММКњВљВњВ™ОЯБXВ…ПWВҐБAОЯБXВ…ЙіВљВњВ∆ВҐВ§ЛUПСВрЦaВЃБB@БcБcБcВнВ©ВйВ©БH@Б@ЙіВљВњВЌВаВ§БAБgВ®СOБhВ…ПСВ©ВкВ»В≠ВƒВаБAРґВЂВƒВҐВѓВйВсВЊВЇБBБv\
-`"ќни будут по€вл€тьс€ один за другим и создавать подделки, пр€мо как мы.`@`  .....ѕонимаешь?`@` ƒаже если *ты* больше не пишешь о нас, мы продолжим жить."`\
+`"Those merciless people will gather one after the other, and create forgeries like us.`@` ...Do you understand?`@` Even if 'you' don't write anymore about us, we continue to live."`\
 
 bg black,26
 bg rose_1eP,26
 
 ;Б@РнРlВЌВ№ВљЛуВрЛ¬ВЃБB@СёЛьВїВ§В…БB@ВїВµВƒБAВ∆ВƒВаТІФ≠УIВ…БB\
-` Ѕаттлер снова посмотрел на небо.`@` ќн выгл€дел заскучавшим.`@` » очень дерзким.`\
+` Battler looked up to the sky once again.`@` He looked bored.`@` And very provocative.`\
 
 ;БuМ©ВƒВсВЊВлБAП\Ф™БcБH@Б@СБВ≠ЙіВрО~ВяВƒВЁВлВжБB@В±ВћТГФ‘ВрО~ВяВƒВЁВлГbБIБI@Б@ТNВ©ЙіВрПќВнВєВƒВЁВлВжВІВ®В®В®ГbГbГbБIБIБv\
-`"“ы наблюдаешь, “ой€?`@` ѕопробуй остановить мен€.`@` ѕопробуй остановить этот фарс!`@`  то-нибудь, рассмешите мен€-а-а-а!!!"`\
+`"Are you watching, Tohya?`@` Try to stop me soon.`@` Try to stop this farce!!`@` Someone try and make me laughhhhhhh!"`\
 
 se1v 27,100
 mbg white,1
@@ -8244,22 +8244,22 @@ bg rose_G1aN,22
 
 ;Б@ВҐВ¬ВћК‘В…В©БB@
 ;Б@еKеNТлЙАВ…ВЌЙJВ™Н~ВиПoВµВƒВҐВљБB@
-` Ќи с того ни с сего.`@
-` ¬ розарии началс€ дождь.`\
+` It happened so suddenly.`@
+` It started to rain in the rose garden.`\
 
 ;Б@ВїВкВЌБAВҐВ¬ВаВжВиВЄВЅВ∆СБВҐБB@
 ;Б@Р^ЧҐШ±В™еKеNВ™В»ВҐВ∆ЛГВЂПoВЈВжВиВаБAВЄВЅВ∆СБВҐБB\
-` –аньше, чем когда-либо прежде.`@
-` ≈щЄ раньше, чем наступило врем€, когда ћари€ начинает оплакивать бесследно пропавшую розу.`\
+` It happened earlier than ever before.`@
+` It was even earlier than that time when Maria starts crying for a rose that went missing.`\
 
 bg black,22
 bg rose_1cN,22
 
 ;Б@еKеNВћЙ‘ВаБAЙ©ЛаВ≈ВЌВ»ВҐБB@
-` ƒаже розы уже не были жЄлтыми.`\
+` The roses`@` weren't golden anymore.`\
 
 ;Б@ВҐВ¬ВћК‘В…В©БAРFВ∆ВиВ«ВиВћБAЙEСгЛ{Й∆ВћеKеNТлЙАВћВаВћВ…ЦяВЅВƒВҐВљБB\
-` ћы неожиданно вернулись в многоцветный сад ”широми€.`\
+` Suddenly, we had returned to the Ushiromiya rose garden with its many colors.`\
 
 
 ;bgm1v 66,60
@@ -8270,56 +8270,56 @@ ld l,BUT_NayamuA1,22
 bgm1 38
 
 ;Б@ЙJВћеKеNТлЙАВ≈БAРнРlВЌВ–В∆ВиБAУVВрМ©ПгВ∞ВƒБAЧІВњРsВ≠ВµВƒВҐВйБcБB\
-` ¬ дождливом розарии застыл Ѕаттлер, гл€д€щий на небо...`\
+` There, in the rainy rose garden, Battler stood alone, stock still, looking at the sky...`\
 
 ld r,KAN_KomaruA1,24
 
 ;БuБcБcРнРlВ≥В№ВЅБB@В±ВћВжВ§В»В∆В±ВлВ…В®ВзВкВƒВЌВ®ХЧО„ВрИшВЂВ№ВЈБBБv\
-`"√осподин Ѕаттлер.`@` ¬ы замЄрзнете, если так и будете здесь сто€ть."`\
+`"Master Battler.`@` If you keep standing there, you will catch a cold."`\
 
 ld l,BUT_FutekiA3,80
 
 ;БuВжВ£БB@Й√ЙєВ≠ВсВ©БB@БcБcБcБcЛvВµВ‘ВиВЊВ»БBБv@
-`"ѕривет.`@`  анон, верно?`@` ......ѕрошло немало времени."`\
+`"Yo.`@` Kanon, was it?`@` ...It's been a while."`\
 
 ld r,KAN_FumanA1,80
 
 ;БuБcБcБcБcБcБcБcБcБcБB@БcБcВїВ§В≈ВЈВ©БB@Н°П™ВћИЂЦ≤ВЌБAВїВ§ВҐВ§ОпМьВ≈ВЈВ©БBБv\
-`".............`@`...¬от как?`@` «начит, вот ваш план на сегодн€шний кошмар?"`\
+`"...Is that so?`@` So this is your plan for tonight's nightmare?"`\
 
 ld l,BUT_FutekiA1,80
 
 
 ;БuВїВсВ»КзВЈВйВ»ВжБB@В®СOВЊВЅВƒБAМ©ВљВҐВЊВлБB@БcБcОйОuНБВ®ПмЧlВ™БAРgВаРSВаВЏВлВЏВлВ…В»ВЅВƒБB@О©Х™ВЌВ«В§В»ВЅВƒВаВҐВҐВ©ВзБAЙ√ЙєВ≠ВсВрЛЦВµВƒЙЇВ≥ВҐВЅВƒМЊВнВєВƒБA@БcБcО©ВзВћОwВрРЎТfВЈВйВ∆В±ВлВрБAВ№ВљМ©ВљВҐВЊВлБcБcБHБv\
-`"Ќе смотри на мен€ так.`@` ƒаже ты хочешь увидеть, правда?`@` ...“о, как миледи ƒжессика опуститс€ до слЄз и телом, и душой.`@` “ы ведь хочешь услышать, как она скажет, что происход€щее с ней не имеет значени€, пока с  аноном всЄ хорошо?`@` ...–азве не хочешь увидеть, как она снова срезает себе пальцы?.."`\
+`"Don't look at me like that.`@` Even you want to see it, right?`@` ...How Milady Jessica is reduced to tears, both body and soul.`@` You want to hear her say that it doesn't matter what happens to her, as long as Kanon is set free.`@` ...Don't you want to see her cutting off her own fingers again?.."`\
 
 se1 21
 
 ld r,KAN_IkariA1,80
 
 ;БuБcБcБcИЂЦВВяБcБB@БcБcИкСћБAТNВ™БAВ®СOВ»ВсВ©ВрЦ]ВёВ∆ВҐВ§ВсВЊБcБcБBБv\
-`"......ƒь€вол...`@`  ... то, во им€ бога, позвал теб€ сюда?.."`\
+`"...You devil...`@` Who even called someone like you here?.."`\
 
 ld l,BUT_FutekiA2,80
 
 ;БuЙіВ™Ф∆РlВЊВ∆БAКъС“ВµВƒО~В№В»ВҐСеР®ВћКѕМАО“ВљВњВ∆БA@ФёВзВ∆ЙіВ…Ц≤ВрЧ^В¶ВйБAЦЉВаЦ≥ВЂЛYЛ»Й∆ВљВњВЊВЇБBБv\
-`"Ќеудержимо огромное число зрителей, ожидающих увидеть мен€ преступником,`@` и безым€нные дирижЄры, подарившие мне эту мечту."`\
+`"It was the unstoppably huge number of spectators who expect to see me as the culprit,`@` and those nameless conductors who bestow that dream upon me."`\
 
 ld r,KAN_IkariA2,80
 
 ;БuБcБcБcБcБcБcБcБcБcБcБcБBБv\
-`".................."`\
+`"..."`\
 
 ld l,BUT_futekiA1,80
 cl l,22
 
 ;БuВўВзБAНsВ±В§ВЇБAЙ√ЙєВ≠ВсБB@ХЧО„ВрИшВ≠ВЇБBБv\
-`"Ќу что,  анон, пойдЄм,`@` а не то ты простудишьс€."`\
+`"Come on, let's go, Kanon.`@` Or else you'll catch a cold."`\
 
 ld r,KAN_FumanA2,80
 
 ;БuБcБcБcБcВЌВҐБBБv\
-`"......ƒа."`\
+`"...Right."`\
 
 cl r,22
 
@@ -8337,24 +8337,24 @@ bg rose_G1aN,22
 se3v 1010,50
 
 ;БuВ†В∆БAВ±ВкВ»БBБv@
-`"» не забудь это."`@
+`"And don't forget this."`@
 
 ;ld r,KAN_DefA2,80
 
 ;БuБcБcВ®ЧaВ©ВиВµВ№ВЈБBБv\
-`"...я разберусь."`\
+`"...I will take care of it."`\
 
 ld c,BUT_futekiA1,22
 
 bgm1 19
 
 ;БuН°ЦйБB@СеНLК‘ВћСеОЮМvВ™ВQВSОЮВрНРВ∞ВљВзБB@ОgЧpРlОЇВћФаВ…ГmГbГNВ™В†ВиБAБcБcШLЙЇВ÷ПoВљВзВїВћХХУЫВ™ТuВ©ВкВƒВҐВљВ∆МЊВЅВƒБA@РHУ∞ВћРeС∞ВљВњВ…УЌВѓВлБBБv\
-`"—егодн€ вечером,`@` когда большие часы в зале дл€ приЄмов пробьют полночь,`@` ты доставишь его членам семьи в столовой.`@` —кажешь им, что услышал, как в комнату слуг постучали, ...а когда ты вышел в коридор, этот конверт лежал на полу."`\
+`"Tonight,`@` when the big clock in the reception hall strikes midnight,`@` you will deliver this to the family members in the dining room.`@` You will tell them that there was a knock at the door of the servant's room, ...and when you stepped out into the corridor, this envelope was lying on the floor."`\
 
 ld l,KAN_NayamuA1,22
 
 ;БuБcБcИЎВ№ВиВ№ВµВљБcБcБBБv\
-`"... ак скажете..."`\
+`"...As you wish."`\
 
 se1v 27,100
 mbg white,1
@@ -8364,22 +8364,22 @@ cl a,0
 mcbg 42
 
 ;Б@НƒВ—ЧЛЦ¬БB@Р^ВЅИ√В»ЛуВЌМГВµВ≠ПuВ≠БB@
-` —нова прогремел гром.`@`  ромешно чЄрное небо резко вспыхнуло.`\
+` Again a roaring thunder.`@` The pitch black sky blinked violently.`\
 
 ;Б@Т@ВЂХtВѓВйВжВ§В»ЙJВћТЖБAРнРlВЌПќВҐВ»В™ВзНƒВ—ЧЉШrВрНLВ∞ВƒБAЛуВрМ©ПгВ∞ВйБB\
-` ѕод непрекращающимс€ дождЄм Ѕаттлер снова со смехом развЄл руки и посмотрел на небо.`\
+` Among the still falling rain, Battler once again spread his arms laughing and looked at the sky.`\
 
 bg black,22
 dllefe_off
 
 ;Б@ВЊВЅВƒБAЙiЙУВћФLФ†ВЌФёВћОиВћТЖБB@ВЊВЅВƒБAМJВиХ‘В≥ВкВйИЂЦ≤ВЌФёВћОvВҐХ`В≠В№В№БB@
-`  ак-никак, вечна€ кошачь€ коробка была в его руках.`@` ѕовтор€ющийс€ кошмар был таким, каким он его себе представл€л.`\
+` After all, the eternal catbox truly was in his hands.`@` After all, the recurring nightmare was as he imagined it.`\
 
 ;Б@ВЊВЅВƒВЊВЅВƒБAЦҐЧИРlВћЛуСzВЌРsВЂВйВ±В∆В™В»ВҐБB@ЦOВЂВйВ±В∆В™В»ВҐБB@
-` », в конце концов, фантази€ людей будущего никогда не исс€кнет.`@` Ќикогда не будет скучно.`\
+` And after all, the fantasies of the people of the future would never deplete.`@` There would never be boredom.`\
 
 ;Б@ВЊВ©ВзВ±ВкВЌБcБcБB\
-` » вот почему...`\
+` And this is why...`\
 
 bg Mhal_2cN,22
 wait 2000
@@ -8396,7 +8396,7 @@ ld c,BU3_FutekiA3,80
 
 
 ;БuВ≥ВЯБAН°П™ВаГQБ[ГАВћОnВ№ВиВЊБcБcБIБv\
-`"Ётим вечером игра начнЄтс€ вновь!.."`\
+`"Come, the game begins once again tonight!.."`\
 
 ;В±В±НХЙжЦ В≈Н≈МгХ\О¶ВµВљХыВ™В©ВЅВ±ВҐВҐВ©В∆БI
 
@@ -8405,33 +8405,33 @@ bg black,22
 ;locate 0,5
 
 ;Б@ВЊВ©ВзВ±ВкВЌБAБgЛMХыБhВрЙ’ВёЙiЙУВћНЙЦвБB\
-` ¬от почему это пытка, котора€ будет мучить *теб€* до скончани€ веков.`\
+` This is why this is the torture that will torment 'you' for all eternity.`\
 setwindow 31,16,24,16,24,23,0,2,20,1,1,#999999,0,0,639,479
 bg portrait6,22
 locate 0,3
 ;Б@С“ВЅВƒВлВжБAБcБcЙ¬И§ВҐЙ¬И§ВҐБAНХВЂОqФLВљВњБB@
-` я буду ждать вас, мои дорогие, очаровательные чЄрные кот€та.`@
+` I'll be waiting for you, ...my dear, adorable black kitties.`@
 br
 ;Б@ЙіВ™В®СOВзВћК£ВЂВрБAБcБcВїВћММВ≈ЦьВµВƒВвВйВ©ВзБB\
-` я утолю вашу жажду этой кровью.`\
+` I will quench your thirst, ...with that blood.`\
 locate 0,3
 ;Б@И§ВµВƒВҐВйВЇБAНХВЂОqФLВљВњБB@
-` Ћюблю вас, мои кот€та.`@
+` I love you, my black kitties.`@
 br
 ;Б@В®СOВћЦ]ВёВ№В№В…БAБcБcВ±ВћЛґВЅВљЦйВрБAЙiЙУВ…С±ВѓВ≥ВєВƒВвВйБB@
-` я буду повтор€ть эту безумную ночь вечно, ...как вы и хотите.`@
+` I will repeat this mad night for all eternity, ...just the way you like it.`@
 br
 ;Б@В†ВЯБAЧєЙрВЊВЇБB@Н°П™ВЌВїВ§ВҐВ§ОпМьВ≈НsВ±В§БB\
-` ƒа, конечно.`@` —егодн€ мы будем придерживатьс€ этого плана.`\
+` Yes, of course.`@` Tonight we'll go with that plan.`\
 
 bg black,22
 locate 0,3
 ;Б@В®СOВ∆УсРlБAХшВЂТчВяВ†ВЅВƒВ»ВзБB@
 ;Б@ЙiЙУВћИ≈ВћТкВ№В≈БAБcБcИкППВ…С¬ВњВƒВвВйВЇБcБcБB@
-` ¬месте падЄм на дно вечной тьмы,`@` крепко обнима€ друг друга.`@
+` Let's fall together to the bottom of that eternal darkness,`@` while we tightly embrace one another.`@
 br
 ;Б@В≠В≠В≠В≠БAВ≠ВЅВ≠ВЅВ≠ВЅВ≠ВЅВ≠ВЅВ≠БIБI\
-` »хи-хи-хи, ха-ха-ха-ха-ха-ха!!!`\
+` Ihihihi, hahahahahaha!!!`\
 
 se1v 27,100
 bg white,1
