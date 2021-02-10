@@ -1,1 +1,1 @@
-This repository is only for developers. Information on the mod and installation instructions for the end users are located [here](http://07th-mod.com/wiki/Umineko/Tsubasa-Hane/).
+This repository is OUT OF DATE. Please do not use it for anything. The new repository for Hane is [here](/07th-mod/umineko-hane-enter).
